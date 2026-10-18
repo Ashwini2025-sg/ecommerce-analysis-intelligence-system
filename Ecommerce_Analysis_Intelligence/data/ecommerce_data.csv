@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,City,State,Payment_Mode,Customer_Type,Rating
+ORD-00001,2024-03-03,CUST-0001,Asha,PROD-0014,Wireless Mouse,Electronics,1,1678.04,260.0,Ahmedabad,Gujarat,Debit Card,New,4.7
+ORD-00002,2025-12-13,CUST-0002,Rahul,PROD-0027,Formal Shirt,Fashion,4,1419.69,149.0,Hyderabad,Telangana,Net Banking,New,4.3
+ORD-00003,2024-12-31,CUST-0003,Neha,PROD-0040,Rice Cooker,Home & Kitchen,4,2891.21,455.0,Patna,Bihar,Credit Card,New,3.6
+ORD-00004,2025-04-15,CUST-0004,Vikram,PROD-0053,Hair Dryer,Beauty,2,3407.09,533.0,Pune,Maharashtra,Cash on Delivery,New,5.0
+ORD-00005,2025-10-10,CUST-0005,Priya,PROD-0066,Dumbbell Set,Sports,3,4053.46,359.0,Delhi,Delhi,UPI,Returning,4.5
+ORD-00006,2025-04-06,CUST-0006,Manish,PROD-0079,Python for Beginners,Books,1,918.36,50.0,Lucknow,Uttar Pradesh,Debit Card,New,4.1
+ORD-00007,2025-05-09,CUST-0007,Ananya,PROD-0092,Young Investor Guide,Books,4,968.36,68.0,Kolkata,West Bengal,Net Banking,New,4.1
+ORD-00008,2024-12-06,CUST-0008,Sanjay,PROD-0105,USB-C Hub,Electronics,4,2492.3,181.0,Mumbai,Maharashtra,Credit Card,New,4.5
+ORD-00009,2024-09-24,CUST-0009,Kavya,PROD-0118,Leather Sling Bag,Fashion,3,4344.09,134.0,Jaipur,Rajasthan,Cash on Delivery,New,5.0
+ORD-00010,2024-09-27,CUST-0010,Siddharth,PROD-0131,Blender Premium,Home & Kitchen,5,4250.59,770.0,Chennai,Tamil Nadu,UPI,Returning,4.6
+ORD-00011,2024-08-29,CUST-0011,Meera,PROD-0144,Face Cream,Beauty,4,867.5,32.0,Bengaluru,Karnataka,Debit Card,New,3.6
+ORD-00012,2024-11-15,CUST-0012,Rohan,PROD-0157,Yoga Mat,Sports,2,1604.14,301.0,Ahmedabad,Gujarat,Net Banking,New,4.6
+ORD-00013,2025-10-17,CUST-0013,Ishita,PROD-0170,Cricket Kit,Sports,4,7682.75,1279.0,Hyderabad,Telangana,Credit Card,New,4.3
+ORD-00014,2024-04-12,CUST-0014,Nitin,PROD-0183,Motivational Leadership,Books,2,1115.88,142.0,Patna,Bihar,Cash on Delivery,New,4.7
+ORD-00015,2024-12-10,CUST-0015,Pooja,PROD-0196,4K Monitor,Electronics,5,32335.26,47.0,Pune,Maharashtra,UPI,Returning,4.6
+ORD-00016,2024-12-01,CUST-0016,Arjun,PROD-0209,Running Shoes,Fashion,4,2450.4,272.0,Delhi,Delhi,Debit Card,New,3.8
+ORD-00017,2025-04-22,CUST-0017,Divya,PROD-0222,Bamboo Storage Box,Home & Kitchen,1,1243.49,34.0,Lucknow,Uttar Pradesh,Net Banking,New,3.6
+ORD-00018,2025-07-12,CUST-0018,Yash,PROD-0235,Skin Serum,Beauty,3,1891.01,30.0,Kolkata,West Bengal,Credit Card,New,4.3
+ORD-00019,2025-03-16,CUST-0019,Tanvi,PROD-0248,Sunscreen SPF 50,Beauty,3,1178.42,130.0,Mumbai,Maharashtra,Cash on Delivery,New,4.8
+ORD-00020,2024-06-05,CUST-0020,Harsh,PROD-0261,Fitness Band,Sports,1,3353.96,659.0,Jaipur,Rajasthan,UPI,Returning,4.1
+ORD-00021,2025-09-16,CUST-0021,Deepa,PROD-0274,Data Science Essentials,Books,5,1117.65,191.0,Chennai,Tamil Nadu,Debit Card,New,3.6
+ORD-00022,2025-04-28,CUST-0022,Saurabh,PROD-0287,Laptop Pro 14,Electronics,2,65423.76,5683.0,Bengaluru,Karnataka,Net Banking,New,3.9
+ORD-00023,2024-11-01,CUST-0023,Ritika,PROD-0300,Denim Jacket,Fashion,3,3202.38,502.0,Ahmedabad,Gujarat,Credit Card,New,4.0
+ORD-00024,2024-01-17,CUST-0024,Puneet,PROD-0313,Air Fryer,Home & Kitchen,5,6883.42,460.0,Hyderabad,Telangana,Cash on Delivery,New,3.9
+ORD-00025,2025-10-19,CUST-0025,Shreya,PROD-0326,Vacuum Flask,Home & Kitchen,4,1469.09,212.0,Patna,Bihar,UPI,Returning,3.9
+ORD-00026,2025-05-23,CUST-0026,Asha,PROD-0339,Lipstick Set,Beauty,3,1170.41,116.0,Pune,Maharashtra,Debit Card,New,4.7
+ORD-00027,2025-03-19,CUST-0027,Rahul,PROD-0352,Treadmill,Sports,1,33623.14,2562.0,Delhi,Delhi,Net Banking,New,4.1
+ORD-00028,2024-03-27,CUST-0028,Neha,PROD-0365,Business Strategy,Books,2,942.88,64.0,Lucknow,Uttar Pradesh,Credit Card,New,3.5
+ORD-00029,2025-07-11,CUST-0029,Vikram,PROD-0378,Smart Watch X,Electronics,2,11247.43,2044.0,Kolkata,West Bengal,Cash on Delivery,New,3.9
+ORD-00030,2025-06-07,CUST-0030,Priya,PROD-0391,Cotton T-Shirt,Fashion,5,1030.21,54.0,Mumbai,Maharashtra,UPI,Returning,3.5
+ORD-00031,2024-04-03,CUST-0031,Manish,PROD-0404,Ladies Kurta,Fashion,4,1895.44,103.0,Jaipur,Rajasthan,Debit Card,New,4.0
+ORD-00032,2024-08-11,CUST-0032,Ananya,PROD-0417,Dining Set,Home & Kitchen,3,6606.8,953.0,Chennai,Tamil Nadu,Net Banking,New,4.4
+ORD-00033,2024-12-25,CUST-0033,Sanjay,PROD-0430,Makeup Kit,Beauty,3,2920.95,103.0,Bengaluru,Karnataka,Credit Card,New,4.3
+ORD-00034,2025-04-02,CUST-0034,Kavya,PROD-0443,Cycling Helmet,Sports,4,2900.6,179.0,Ahmedabad,Gujarat,Cash on Delivery,New,5.0
+ORD-00035,2025-07-28,CUST-0035,Siddharth,PROD-0456,Startup Playbook,Books,1,752.84,98.0,Hyderabad,Telangana,UPI,Returning,4.3
+ORD-00036,2024-08-28,CUST-0036,Meera,PROD-0469,Noise Buds Pro,Electronics,1,5733.83,215.0,Patna,Bihar,Debit Card,New,4.4
+ORD-00037,2024-08-06,CUST-0037,Rohan,PROD-0482,Wireless Mouse,Electronics,4,1789.54,37.0,Pune,Maharashtra,Net Banking,New,3.8
+ORD-00038,2024-09-10,CUST-0038,Ishita,PROD-0495,Formal Shirt,Fashion,5,1784.61,159.0,Delhi,Delhi,Credit Card,New,4.6
+ORD-00039,2024-12-06,CUST-0039,Nitin,PROD-0508,Rice Cooker,Home & Kitchen,2,4136.46,18.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.5
+ORD-00040,2024-12-21,CUST-0040,Pooja,PROD-0521,Hair Dryer,Beauty,4,2352.47,129.0,Kolkata,West Bengal,UPI,Returning,5.0
+ORD-00041,2025-08-12,CUST-0041,Arjun,PROD-0534,Dumbbell Set,Sports,3,4742.27,889.0,Mumbai,Maharashtra,Debit Card,New,2.7
+ORD-00042,2025-01-15,CUST-0042,Divya,PROD-0547,Python for Beginners,Books,2,744.98,81.0,Jaipur,Rajasthan,Net Banking,New,3.8
+ORD-00043,2025-01-31,CUST-0043,Yash,PROD-0560,Young Investor Guide,Books,2,917.89,3.0,Chennai,Tamil Nadu,Credit Card,New,4.3
+ORD-00044,2024-03-20,CUST-0044,Tanvi,PROD-0573,USB-C Hub,Electronics,1,2941.37,185.0,Bengaluru,Karnataka,Cash on Delivery,New,3.9
+ORD-00045,2025-11-16,CUST-0045,Harsh,PROD-0586,Leather Sling Bag,Fashion,1,4302.76,242.0,Ahmedabad,Gujarat,UPI,Returning,5.0
+ORD-00046,2025-10-30,CUST-0046,Deepa,PROD-0599,Blender Premium,Home & Kitchen,4,3814.53,468.0,Hyderabad,Telangana,Debit Card,New,3.4
+ORD-00047,2024-08-14,CUST-0047,Saurabh,PROD-0612,Face Cream,Beauty,2,1058.51,7.0,Patna,Bihar,Net Banking,New,5.0
+ORD-00048,2024-08-19,CUST-0048,Ritika,PROD-0625,Yoga Mat,Sports,5,1694.06,326.0,Pune,Maharashtra,Credit Card,New,4.9
+ORD-00049,2025-12-24,CUST-0049,Puneet,PROD-0638,Cricket Kit,Sports,4,6828.26,397.0,Delhi,Delhi,Cash on Delivery,New,4.2
+ORD-00050,2024-02-02,CUST-0050,Shreya,PROD-0651,Motivational Leadership,Books,5,883.09,94.0,Lucknow,Uttar Pradesh,UPI,Returning,3.3
+ORD-00051,2025-09-09,CUST-0051,Asha,PROD-0664,4K Monitor,Electronics,5,33644.62,6677.0,Kolkata,West Bengal,Debit Card,New,5.0
+ORD-00052,2025-01-13,CUST-0052,Rahul,PROD-0677,Running Shoes,Fashion,5,2557.43,59.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-00053,2025-10-08,CUST-0053,Neha,PROD-0690,Bamboo Storage Box,Home & Kitchen,1,1598.85,247.0,Jaipur,Rajasthan,Credit Card,New,5.0
+ORD-00054,2024-07-10,CUST-0054,Vikram,PROD-0703,Skin Serum,Beauty,1,2036.16,155.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.3
+ORD-00055,2025-10-13,CUST-0055,Priya,PROD-0716,Sunscreen SPF 50,Beauty,5,960.42,46.0,Bengaluru,Karnataka,UPI,Returning,5.0
+ORD-00056,2025-03-13,CUST-0056,Manish,PROD-0729,Fitness Band,Sports,1,2967.91,218.0,Ahmedabad,Gujarat,Debit Card,New,3.4
+ORD-00057,2024-12-30,CUST-0057,Ananya,PROD-0742,Data Science Essentials,Books,2,1416.28,88.0,Hyderabad,Telangana,Net Banking,New,3.9
+ORD-00058,2024-01-11,CUST-0058,Sanjay,PROD-0755,Laptop Pro 14,Electronics,3,60745.83,11352.0,Patna,Bihar,Credit Card,New,5.0
+ORD-00059,2024-08-04,CUST-0059,Kavya,PROD-0768,Denim Jacket,Fashion,2,3219.72,84.0,Pune,Maharashtra,Cash on Delivery,New,2.8
+ORD-00060,2025-02-28,CUST-0060,Siddharth,PROD-0781,Air Fryer,Home & Kitchen,3,8728.67,1337.0,Delhi,Delhi,UPI,Returning,3.6
+ORD-00061,2025-08-25,CUST-0061,Meera,PROD-0794,Vacuum Flask,Home & Kitchen,5,1633.76,262.0,Lucknow,Uttar Pradesh,Debit Card,New,3.3
+ORD-00062,2025-11-08,CUST-0062,Rohan,PROD-0807,Lipstick Set,Beauty,1,1153.29,131.0,Kolkata,West Bengal,Net Banking,New,3.9
+ORD-00063,2024-08-17,CUST-0063,Ishita,PROD-0820,Treadmill,Sports,5,36616.2,2204.0,Mumbai,Maharashtra,Credit Card,New,4.6
+ORD-00064,2025-11-06,CUST-0064,Nitin,PROD-0833,Business Strategy,Books,5,1042.18,200.0,Jaipur,Rajasthan,Cash on Delivery,New,4.0
+ORD-00065,2025-06-12,CUST-0065,Pooja,PROD-0846,Smart Watch X,Electronics,3,10951.67,1216.0,Chennai,Tamil Nadu,UPI,Returning,3.4
+ORD-00066,2025-12-06,CUST-0066,Arjun,PROD-0859,Cotton T-Shirt,Fashion,1,886.54,1.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-00067,2025-04-08,CUST-0067,Divya,PROD-0872,Ladies Kurta,Fashion,1,2603.06,486.0,Ahmedabad,Gujarat,Net Banking,New,3.2
+ORD-00068,2024-03-20,CUST-0068,Yash,PROD-0885,Dining Set,Home & Kitchen,4,5997.95,796.0,Hyderabad,Telangana,Credit Card,New,3.7
+ORD-00069,2025-07-12,CUST-0069,Tanvi,PROD-0898,Makeup Kit,Beauty,2,2234.89,356.0,Patna,Bihar,Cash on Delivery,New,4.1
+ORD-00070,2025-03-16,CUST-0070,Harsh,PROD-0911,Cycling Helmet,Sports,4,3466.73,522.0,Pune,Maharashtra,UPI,Returning,3.8
+ORD-00071,2025-12-03,CUST-0071,Deepa,PROD-0924,Startup Playbook,Books,1,889.24,66.0,Delhi,Delhi,Debit Card,New,4.1
+ORD-00072,2024-06-29,CUST-0072,Saurabh,PROD-0937,Noise Buds Pro,Electronics,5,5633.62,598.0,Lucknow,Uttar Pradesh,Net Banking,New,3.3
+ORD-00073,2025-10-05,CUST-0073,Ritika,PROD-0950,Wireless Mouse,Electronics,5,1961.12,293.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-00074,2024-04-16,CUST-0074,Puneet,PROD-0963,Formal Shirt,Fashion,1,1794.63,128.0,Mumbai,Maharashtra,Cash on Delivery,New,5.0
+ORD-00075,2025-03-12,CUST-0075,Shreya,PROD-0976,Rice Cooker,Home & Kitchen,2,2914.84,180.0,Jaipur,Rajasthan,UPI,Returning,4.7
+ORD-00076,2024-04-22,CUST-0076,Asha,PROD-0989,Hair Dryer,Beauty,1,2604.86,300.0,Chennai,Tamil Nadu,Debit Card,New,3.2
+ORD-00077,2025-08-29,CUST-0077,Rahul,PROD-0003,Dumbbell Set,Sports,3,3709.86,15.0,Bengaluru,Karnataka,Net Banking,New,4.4
+ORD-00078,2025-05-11,CUST-0078,Neha,PROD-0016,Python for Beginners,Books,1,835.7,86.0,Ahmedabad,Gujarat,Credit Card,New,4.3
+ORD-00079,2025-08-01,CUST-0079,Vikram,PROD-0029,Young Investor Guide,Books,5,805.43,51.0,Hyderabad,Telangana,Cash on Delivery,New,4.2
+ORD-00080,2024-05-12,CUST-0080,Priya,PROD-0042,USB-C Hub,Electronics,5,2303.42,227.0,Patna,Bihar,UPI,Returning,5.0
+ORD-00081,2024-07-25,CUST-0081,Manish,PROD-0055,Leather Sling Bag,Fashion,2,4148.47,206.0,Pune,Maharashtra,Debit Card,New,4.5
+ORD-00082,2025-01-17,CUST-0082,Ananya,PROD-0068,Blender Premium,Home & Kitchen,1,4346.14,805.0,Delhi,Delhi,Net Banking,New,3.4
+ORD-00083,2025-05-18,CUST-0083,Sanjay,PROD-0081,Face Cream,Beauty,1,832.46,139.0,Lucknow,Uttar Pradesh,Credit Card,New,4.5
+ORD-00084,2025-10-20,CUST-0084,Kavya,PROD-0094,Yoga Mat,Sports,1,1717.0,275.0,Kolkata,West Bengal,Cash on Delivery,New,3.4
+ORD-00085,2025-03-25,CUST-0085,Siddharth,PROD-0107,Cricket Kit,Sports,2,7608.17,1220.0,Mumbai,Maharashtra,UPI,Returning,4.2
+ORD-00086,2025-01-26,CUST-0086,Meera,PROD-0120,Motivational Leadership,Books,4,869.58,143.0,Jaipur,Rajasthan,Debit Card,New,4.3
+ORD-00087,2025-05-15,CUST-0087,Rohan,PROD-0133,4K Monitor,Electronics,5,28283.86,4851.0,Chennai,Tamil Nadu,Net Banking,New,4.0
+ORD-00088,2024-04-12,CUST-0088,Ishita,PROD-0146,Running Shoes,Fashion,4,1962.11,24.0,Bengaluru,Karnataka,Credit Card,New,3.0
+ORD-00089,2025-01-03,CUST-0089,Nitin,PROD-0159,Bamboo Storage Box,Home & Kitchen,1,1320.15,110.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.1
+ORD-00090,2024-10-04,CUST-0090,Pooja,PROD-0172,Skin Serum,Beauty,2,1700.93,147.0,Hyderabad,Telangana,UPI,Returning,3.5
+ORD-00091,2025-09-15,CUST-0091,Arjun,PROD-0185,Sunscreen SPF 50,Beauty,2,1373.05,81.0,Patna,Bihar,Debit Card,New,4.6
+ORD-00092,2025-01-25,CUST-0092,Divya,PROD-0198,Fitness Band,Sports,3,3191.48,294.0,Pune,Maharashtra,Net Banking,New,5.0
+ORD-00093,2025-07-13,CUST-0093,Yash,PROD-0211,Data Science Essentials,Books,3,1431.11,187.0,Delhi,Delhi,Credit Card,New,4.0
+ORD-00094,2025-06-20,CUST-0094,Tanvi,PROD-0224,Laptop Pro 14,Electronics,4,65253.82,2306.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.4
+ORD-00095,2025-11-26,CUST-0095,Harsh,PROD-0237,Denim Jacket,Fashion,3,3457.6,480.0,Kolkata,West Bengal,UPI,Returning,4.2
+ORD-00096,2025-06-13,CUST-0096,Deepa,PROD-0250,Air Fryer,Home & Kitchen,4,6631.89,825.0,Mumbai,Maharashtra,Debit Card,New,4.7
+ORD-00097,2024-05-03,CUST-0097,Saurabh,PROD-0263,Vacuum Flask,Home & Kitchen,3,1258.35,235.0,Jaipur,Rajasthan,Net Banking,New,3.4
+ORD-00098,2025-07-25,CUST-0098,Ritika,PROD-0276,Lipstick Set,Beauty,5,1435.01,128.0,Chennai,Tamil Nadu,Credit Card,New,3.7
+ORD-00099,2024-02-06,CUST-0099,Puneet,PROD-0289,Treadmill,Sports,5,32853.11,6216.0,Bengaluru,Karnataka,Cash on Delivery,New,3.3
+ORD-00100,2024-05-05,CUST-0100,Shreya,PROD-0302,Business Strategy,Books,1,1206.87,40.0,Ahmedabad,Gujarat,UPI,Returning,5.0
+ORD-00101,2025-06-15,CUST-0101,Asha,PROD-0315,Smart Watch X,Electronics,1,10195.8,1167.0,Hyderabad,Telangana,Debit Card,New,4.4
+ORD-00102,2024-12-25,CUST-0102,Rahul,PROD-0328,Cotton T-Shirt,Fashion,4,1038.4,107.0,Patna,Bihar,Net Banking,New,2.8
+ORD-00103,2025-06-10,CUST-0103,Neha,PROD-0341,Ladies Kurta,Fashion,1,1918.77,357.0,Pune,Maharashtra,Credit Card,New,3.1
+ORD-00104,2024-11-01,CUST-0104,Vikram,PROD-0354,Dining Set,Home & Kitchen,1,8109.72,1182.0,Delhi,Delhi,Cash on Delivery,New,3.8
+ORD-00105,2025-08-19,CUST-0105,Priya,PROD-0367,Makeup Kit,Beauty,2,2345.93,315.0,Lucknow,Uttar Pradesh,UPI,Returning,4.4
+ORD-00106,2024-09-22,CUST-0106,Manish,PROD-0380,Cycling Helmet,Sports,4,2690.66,428.0,Kolkata,West Bengal,Debit Card,New,4.1
+ORD-00107,2025-02-09,CUST-0107,Ananya,PROD-0393,Startup Playbook,Books,2,778.14,24.0,Mumbai,Maharashtra,Net Banking,New,4.9
+ORD-00108,2025-06-16,CUST-0108,Sanjay,PROD-0406,Noise Buds Pro,Electronics,3,5457.21,139.0,Jaipur,Rajasthan,Credit Card,New,3.7
+ORD-00109,2024-04-12,CUST-0109,Kavya,PROD-0419,Wireless Mouse,Electronics,5,1933.94,362.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.8
+ORD-00110,2025-06-07,CUST-0110,Siddharth,PROD-0432,Formal Shirt,Fashion,2,2088.58,2.0,Bengaluru,Karnataka,UPI,Returning,4.8
+ORD-00111,2024-03-30,CUST-0111,Meera,PROD-0445,Rice Cooker,Home & Kitchen,3,3974.48,94.0,Ahmedabad,Gujarat,Debit Card,New,4.1
+ORD-00112,2025-05-15,CUST-0112,Rohan,PROD-0458,Hair Dryer,Beauty,1,2984.13,19.0,Hyderabad,Telangana,Net Banking,New,4.3
+ORD-00113,2025-12-07,CUST-0113,Ishita,PROD-0471,Dumbbell Set,Sports,1,5249.49,477.0,Patna,Bihar,Credit Card,New,3.3
+ORD-00114,2024-08-08,CUST-0114,Nitin,PROD-0484,Python for Beginners,Books,3,783.69,1.0,Pune,Maharashtra,Cash on Delivery,New,4.6
+ORD-00115,2024-02-02,CUST-0115,Pooja,PROD-0497,Young Investor Guide,Books,4,667.75,104.0,Delhi,Delhi,UPI,Returning,2.6
+ORD-00116,2025-09-02,CUST-0116,Arjun,PROD-0510,USB-C Hub,Electronics,5,2603.84,405.0,Lucknow,Uttar Pradesh,Debit Card,New,4.7
+ORD-00117,2025-03-31,CUST-0117,Divya,PROD-0523,Leather Sling Bag,Fashion,4,4313.72,862.0,Kolkata,West Bengal,Net Banking,New,4.3
+ORD-00118,2024-01-22,CUST-0118,Yash,PROD-0536,Blender Premium,Home & Kitchen,1,5392.72,931.0,Mumbai,Maharashtra,Credit Card,New,3.7
+ORD-00119,2024-01-11,CUST-0119,Tanvi,PROD-0549,Face Cream,Beauty,3,1158.26,33.0,Jaipur,Rajasthan,Cash on Delivery,New,4.8
+ORD-00120,2024-01-27,CUST-0120,Harsh,PROD-0562,Yoga Mat,Sports,5,1595.35,291.0,Chennai,Tamil Nadu,UPI,Returning,4.1
+ORD-00121,2025-12-04,CUST-0121,Deepa,PROD-0575,Cricket Kit,Sports,1,7096.28,73.0,Bengaluru,Karnataka,Debit Card,New,3.3
+ORD-00122,2024-02-11,CUST-0122,Saurabh,PROD-0588,Motivational Leadership,Books,2,1190.91,58.0,Ahmedabad,Gujarat,Net Banking,New,4.7
+ORD-00123,2025-08-21,CUST-0123,Ritika,PROD-0601,4K Monitor,Electronics,5,32150.07,5966.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-00124,2024-05-27,CUST-0124,Puneet,PROD-0614,Running Shoes,Fashion,5,1747.22,159.0,Patna,Bihar,Cash on Delivery,New,5.0
+ORD-00125,2025-08-16,CUST-0125,Shreya,PROD-0627,Bamboo Storage Box,Home & Kitchen,3,1721.91,217.0,Pune,Maharashtra,UPI,Returning,3.8
+ORD-00126,2024-07-16,CUST-0126,Asha,PROD-0640,Skin Serum,Beauty,4,1593.44,5.0,Delhi,Delhi,Debit Card,New,4.8
+ORD-00127,2024-02-21,CUST-0127,Rahul,PROD-0653,Sunscreen SPF 50,Beauty,3,1204.57,236.0,Lucknow,Uttar Pradesh,Net Banking,New,4.5
+ORD-00128,2025-10-07,CUST-0128,Neha,PROD-0666,Fitness Band,Sports,4,2762.6,121.0,Kolkata,West Bengal,Credit Card,New,2.9
+ORD-00129,2024-10-01,CUST-0129,Vikram,PROD-0679,Data Science Essentials,Books,3,1039.5,36.0,Mumbai,Maharashtra,Cash on Delivery,New,3.8
+ORD-00130,2025-07-26,CUST-0130,Priya,PROD-0692,Laptop Pro 14,Electronics,5,70578.89,7665.0,Jaipur,Rajasthan,UPI,Returning,4.1
+ORD-00131,2025-01-30,CUST-0131,Manish,PROD-0705,Denim Jacket,Fashion,5,2527.7,289.0,Chennai,Tamil Nadu,Debit Card,New,5.0
+ORD-00132,2025-05-25,CUST-0132,Ananya,PROD-0718,Air Fryer,Home & Kitchen,2,8321.87,895.0,Bengaluru,Karnataka,Net Banking,New,4.0
+ORD-00133,2025-05-19,CUST-0133,Sanjay,PROD-0731,Vacuum Flask,Home & Kitchen,3,1265.51,238.0,Ahmedabad,Gujarat,Credit Card,New,4.1
+ORD-00134,2024-03-28,CUST-0134,Kavya,PROD-0744,Lipstick Set,Beauty,3,1363.36,35.0,Hyderabad,Telangana,Cash on Delivery,New,4.2
+ORD-00135,2025-07-27,CUST-0135,Siddharth,PROD-0757,Treadmill,Sports,5,33674.22,1872.0,Patna,Bihar,UPI,Returning,3.6
+ORD-00136,2024-10-27,CUST-0136,Meera,PROD-0770,Business Strategy,Books,4,1216.1,237.0,Pune,Maharashtra,Debit Card,New,3.6
+ORD-00137,2025-11-02,CUST-0137,Rohan,PROD-0783,Smart Watch X,Electronics,5,10746.18,467.0,Delhi,Delhi,Net Banking,New,3.4
+ORD-00138,2024-12-12,CUST-0138,Ishita,PROD-0796,Cotton T-Shirt,Fashion,1,886.25,84.0,Lucknow,Uttar Pradesh,Credit Card,New,5.0
+ORD-00139,2025-02-03,CUST-0139,Nitin,PROD-0809,Ladies Kurta,Fashion,1,2364.59,270.0,Kolkata,West Bengal,Cash on Delivery,New,3.9
+ORD-00140,2024-08-18,CUST-0140,Pooja,PROD-0822,Dining Set,Home & Kitchen,4,8091.8,998.0,Mumbai,Maharashtra,UPI,Returning,4.0
+ORD-00141,2025-01-19,CUST-0141,Arjun,PROD-0835,Makeup Kit,Beauty,2,2453.44,269.0,Jaipur,Rajasthan,Debit Card,New,4.2
+ORD-00142,2025-06-21,CUST-0142,Divya,PROD-0848,Cycling Helmet,Sports,2,3005.4,486.0,Chennai,Tamil Nadu,Net Banking,New,4.3
+ORD-00143,2024-07-15,CUST-0143,Yash,PROD-0861,Startup Playbook,Books,1,920.3,170.0,Bengaluru,Karnataka,Credit Card,New,4.1
+ORD-00144,2025-09-03,CUST-0144,Tanvi,PROD-0874,Noise Buds Pro,Electronics,4,5285.07,549.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.7
+ORD-00145,2025-02-16,CUST-0145,Harsh,PROD-0887,Wireless Mouse,Electronics,5,1390.75,234.0,Hyderabad,Telangana,UPI,Returning,4.0
+ORD-00146,2024-08-17,CUST-0146,Deepa,PROD-0900,Formal Shirt,Fashion,2,1478.76,216.0,Patna,Bihar,Debit Card,New,2.9
+ORD-00147,2024-10-30,CUST-0147,Saurabh,PROD-0913,Rice Cooker,Home & Kitchen,5,3939.45,11.0,Pune,Maharashtra,Net Banking,New,3.2
+ORD-00148,2025-03-14,CUST-0148,Ritika,PROD-0926,Hair Dryer,Beauty,2,2441.04,117.0,Delhi,Delhi,Credit Card,New,3.1
+ORD-00149,2024-11-24,CUST-0149,Puneet,PROD-0939,Dumbbell Set,Sports,3,5515.48,402.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,5.0
+ORD-00150,2025-05-16,CUST-0150,Shreya,PROD-0952,Python for Beginners,Books,4,737.78,114.0,Kolkata,West Bengal,UPI,Returning,3.1
+ORD-00151,2025-05-07,CUST-0151,Asha,PROD-0965,Young Investor Guide,Books,4,853.09,66.0,Mumbai,Maharashtra,Debit Card,New,4.1
+ORD-00152,2024-04-29,CUST-0152,Rahul,PROD-0978,USB-C Hub,Electronics,2,2905.2,271.0,Jaipur,Rajasthan,Net Banking,New,3.7
+ORD-00153,2024-05-26,CUST-0153,Neha,PROD-0991,Leather Sling Bag,Fashion,3,4879.59,816.0,Chennai,Tamil Nadu,Credit Card,New,3.5
+ORD-00154,2024-04-13,CUST-0154,Vikram,PROD-0005,Blender Premium,Home & Kitchen,5,5579.25,726.0,Bengaluru,Karnataka,Cash on Delivery,New,5.0
+ORD-00155,2024-01-31,CUST-0155,Priya,PROD-0018,Face Cream,Beauty,5,845.08,66.0,Ahmedabad,Gujarat,UPI,Returning,4.3
+ORD-00156,2024-04-19,CUST-0156,Manish,PROD-0031,Yoga Mat,Sports,3,1473.93,271.0,Hyderabad,Telangana,Debit Card,New,3.5
+ORD-00157,2024-05-20,CUST-0157,Ananya,PROD-0044,Cricket Kit,Sports,2,5440.79,987.0,Patna,Bihar,Net Banking,New,3.1
+ORD-00158,2025-03-04,CUST-0158,Sanjay,PROD-0057,Motivational Leadership,Books,2,1029.44,205.0,Pune,Maharashtra,Credit Card,New,2.5
+ORD-00159,2025-09-15,CUST-0159,Kavya,PROD-0070,4K Monitor,Electronics,1,25544.82,429.0,Delhi,Delhi,Cash on Delivery,New,3.6
+ORD-00160,2025-05-04,CUST-0160,Siddharth,PROD-0083,Running Shoes,Fashion,4,2325.47,189.0,Lucknow,Uttar Pradesh,UPI,Returning,4.1
+ORD-00161,2025-10-05,CUST-0161,Meera,PROD-0096,Bamboo Storage Box,Home & Kitchen,4,1407.21,16.0,Kolkata,West Bengal,Debit Card,New,4.7
+ORD-00162,2024-12-18,CUST-0162,Rohan,PROD-0109,Skin Serum,Beauty,2,2114.26,140.0,Mumbai,Maharashtra,Net Banking,New,4.4
+ORD-00163,2024-08-10,CUST-0163,Ishita,PROD-0122,Sunscreen SPF 50,Beauty,4,1151.24,196.0,Jaipur,Rajasthan,Credit Card,New,4.0
+ORD-00164,2024-09-05,CUST-0164,Nitin,PROD-0135,Fitness Band,Sports,3,3974.09,305.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.6
+ORD-00165,2024-10-12,CUST-0165,Pooja,PROD-0148,Data Science Essentials,Books,1,1493.18,119.0,Bengaluru,Karnataka,UPI,Returning,4.2
+ORD-00166,2024-05-19,CUST-0166,Arjun,PROD-0161,Laptop Pro 14,Electronics,1,66838.17,4230.0,Ahmedabad,Gujarat,Debit Card,New,4.1
+ORD-00167,2024-04-13,CUST-0167,Divya,PROD-0174,Denim Jacket,Fashion,4,2921.55,542.0,Hyderabad,Telangana,Net Banking,New,4.3
+ORD-00168,2024-07-21,CUST-0168,Yash,PROD-0187,Air Fryer,Home & Kitchen,3,6324.7,525.0,Patna,Bihar,Credit Card,New,3.6
+ORD-00169,2025-10-03,CUST-0169,Tanvi,PROD-0200,Vacuum Flask,Home & Kitchen,3,1806.78,229.0,Pune,Maharashtra,Cash on Delivery,New,5.0
+ORD-00170,2025-10-21,CUST-0170,Harsh,PROD-0213,Lipstick Set,Beauty,3,1535.58,200.0,Delhi,Delhi,UPI,Returning,2.5
+ORD-00171,2024-02-24,CUST-0171,Deepa,PROD-0226,Treadmill,Sports,2,41310.79,7959.0,Lucknow,Uttar Pradesh,Debit Card,New,3.4
+ORD-00172,2024-11-17,CUST-0172,Saurabh,PROD-0239,Business Strategy,Books,1,1264.94,204.0,Kolkata,West Bengal,Net Banking,New,3.6
+ORD-00173,2024-04-22,CUST-0173,Ritika,PROD-0252,Smart Watch X,Electronics,5,12462.78,1630.0,Mumbai,Maharashtra,Credit Card,New,3.3
+ORD-00174,2025-07-01,CUST-0174,Puneet,PROD-0265,Cotton T-Shirt,Fashion,2,1012.23,196.0,Jaipur,Rajasthan,Cash on Delivery,New,3.9
+ORD-00175,2025-12-04,CUST-0175,Shreya,PROD-0278,Ladies Kurta,Fashion,1,1840.03,45.0,Chennai,Tamil Nadu,UPI,Returning,3.9
+ORD-00176,2024-12-05,CUST-0176,Asha,PROD-0291,Dining Set,Home & Kitchen,3,9190.89,1581.0,Bengaluru,Karnataka,Debit Card,New,3.0
+ORD-00177,2024-06-11,CUST-0177,Rahul,PROD-0304,Makeup Kit,Beauty,2,2851.75,235.0,Ahmedabad,Gujarat,Net Banking,New,5.0
+ORD-00178,2025-11-06,CUST-0178,Neha,PROD-0317,Cycling Helmet,Sports,3,3381.38,180.0,Hyderabad,Telangana,Credit Card,New,4.7
+ORD-00179,2024-09-26,CUST-0179,Vikram,PROD-0330,Startup Playbook,Books,2,867.99,6.0,Patna,Bihar,Cash on Delivery,New,4.6
+ORD-00180,2025-06-04,CUST-0180,Priya,PROD-0343,Noise Buds Pro,Electronics,1,6187.03,944.0,Pune,Maharashtra,UPI,Returning,4.5
+ORD-00181,2024-10-05,CUST-0181,Manish,PROD-0356,Wireless Mouse,Electronics,1,1903.3,329.0,Delhi,Delhi,Debit Card,New,4.7
+ORD-00182,2025-03-29,CUST-0182,Ananya,PROD-0369,Formal Shirt,Fashion,1,1524.88,31.0,Lucknow,Uttar Pradesh,Net Banking,New,3.9
+ORD-00183,2025-01-22,CUST-0183,Sanjay,PROD-0382,Rice Cooker,Home & Kitchen,3,3470.79,3.0,Kolkata,West Bengal,Credit Card,New,3.8
+ORD-00184,2025-10-15,CUST-0184,Kavya,PROD-0395,Hair Dryer,Beauty,1,2750.59,385.0,Mumbai,Maharashtra,Cash on Delivery,New,5.0
+ORD-00185,2025-07-23,CUST-0185,Siddharth,PROD-0408,Dumbbell Set,Sports,2,5304.24,252.0,Jaipur,Rajasthan,UPI,Returning,5.0
+ORD-00186,2025-03-06,CUST-0186,Meera,PROD-0421,Python for Beginners,Books,5,733.58,104.0,Chennai,Tamil Nadu,Debit Card,New,4.0
+ORD-00187,2025-05-10,CUST-0187,Rohan,PROD-0434,Young Investor Guide,Books,1,938.95,51.0,Bengaluru,Karnataka,Net Banking,New,3.4
+ORD-00188,2025-06-07,CUST-0188,Ishita,PROD-0447,USB-C Hub,Electronics,1,2676.34,241.0,Ahmedabad,Gujarat,Credit Card,New,4.7
+ORD-00189,2025-01-24,CUST-0189,Nitin,PROD-0460,Leather Sling Bag,Fashion,3,3667.59,733.0,Hyderabad,Telangana,Cash on Delivery,New,4.0
+ORD-00190,2025-12-29,CUST-0190,Pooja,PROD-0473,Blender Premium,Home & Kitchen,1,4748.56,177.0,Patna,Bihar,UPI,Returning,3.3
+ORD-00191,2024-06-09,CUST-0191,Arjun,PROD-0486,Face Cream,Beauty,4,985.47,117.0,Pune,Maharashtra,Debit Card,New,3.9
+ORD-00192,2024-09-23,CUST-0192,Divya,PROD-0499,Yoga Mat,Sports,3,1256.37,25.0,Delhi,Delhi,Net Banking,New,3.4
+ORD-00193,2025-12-04,CUST-0193,Yash,PROD-0512,Cricket Kit,Sports,2,5361.21,216.0,Lucknow,Uttar Pradesh,Credit Card,New,3.6
+ORD-00194,2024-11-02,CUST-0194,Tanvi,PROD-0525,Motivational Leadership,Books,4,963.41,86.0,Kolkata,West Bengal,Cash on Delivery,New,3.0
+ORD-00195,2024-09-10,CUST-0195,Harsh,PROD-0538,4K Monitor,Electronics,5,29259.54,4400.0,Mumbai,Maharashtra,UPI,Returning,4.0
+ORD-00196,2024-08-25,CUST-0196,Deepa,PROD-0551,Running Shoes,Fashion,5,1932.32,216.0,Jaipur,Rajasthan,Debit Card,New,4.5
+ORD-00197,2025-03-28,CUST-0197,Saurabh,PROD-0564,Bamboo Storage Box,Home & Kitchen,2,1651.24,175.0,Chennai,Tamil Nadu,Net Banking,New,4.7
+ORD-00198,2024-06-25,CUST-0198,Ritika,PROD-0577,Skin Serum,Beauty,4,1678.46,287.0,Bengaluru,Karnataka,Credit Card,New,4.8
+ORD-00199,2024-02-14,CUST-0199,Puneet,PROD-0590,Sunscreen SPF 50,Beauty,1,1335.82,41.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.5
+ORD-00200,2025-07-26,CUST-0200,Shreya,PROD-0603,Fitness Band,Sports,3,3886.67,455.0,Hyderabad,Telangana,UPI,Returning,4.8
+ORD-00201,2024-07-05,CUST-0201,Asha,PROD-0616,Data Science Essentials,Books,5,1535.69,146.0,Patna,Bihar,Debit Card,New,3.8
+ORD-00202,2025-07-28,CUST-0202,Rahul,PROD-0629,Laptop Pro 14,Electronics,5,84453.46,4510.0,Pune,Maharashtra,Net Banking,New,3.9
+ORD-00203,2024-08-20,CUST-0203,Neha,PROD-0642,Denim Jacket,Fashion,1,2471.51,278.0,Delhi,Delhi,Credit Card,New,3.9
+ORD-00204,2024-11-12,CUST-0204,Vikram,PROD-0655,Air Fryer,Home & Kitchen,5,8093.41,1513.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.9
+ORD-00205,2024-02-07,CUST-0205,Priya,PROD-0668,Vacuum Flask,Home & Kitchen,5,1236.0,238.0,Kolkata,West Bengal,UPI,Returning,3.7
+ORD-00206,2024-11-28,CUST-0206,Manish,PROD-0681,Lipstick Set,Beauty,2,1118.39,220.0,Mumbai,Maharashtra,Debit Card,New,4.1
+ORD-00207,2025-04-08,CUST-0207,Ananya,PROD-0694,Treadmill,Sports,4,29614.44,1851.0,Jaipur,Rajasthan,Net Banking,New,3.5
+ORD-00208,2025-05-24,CUST-0208,Sanjay,PROD-0707,Business Strategy,Books,2,929.33,166.0,Chennai,Tamil Nadu,Credit Card,New,3.6
+ORD-00209,2024-04-20,CUST-0209,Kavya,PROD-0720,Smart Watch X,Electronics,5,9872.47,596.0,Bengaluru,Karnataka,Cash on Delivery,New,4.7
+ORD-00210,2025-09-21,CUST-0210,Siddharth,PROD-0733,Cotton T-Shirt,Fashion,1,763.87,63.0,Ahmedabad,Gujarat,UPI,Returning,4.2
+ORD-00211,2024-10-26,CUST-0211,Meera,PROD-0746,Ladies Kurta,Fashion,1,2288.36,232.0,Hyderabad,Telangana,Debit Card,New,3.1
+ORD-00212,2025-09-06,CUST-0212,Rohan,PROD-0759,Dining Set,Home & Kitchen,3,8514.63,795.0,Patna,Bihar,Net Banking,New,4.1
+ORD-00213,2025-09-22,CUST-0213,Ishita,PROD-0772,Makeup Kit,Beauty,2,2245.71,145.0,Pune,Maharashtra,Credit Card,New,3.2
+ORD-00214,2024-08-29,CUST-0214,Nitin,PROD-0785,Cycling Helmet,Sports,4,2635.71,392.0,Delhi,Delhi,Cash on Delivery,New,4.7
+ORD-00215,2024-05-19,CUST-0215,Pooja,PROD-0798,Startup Playbook,Books,3,903.18,8.0,Lucknow,Uttar Pradesh,UPI,Returning,4.5
+ORD-00216,2024-04-10,CUST-0216,Arjun,PROD-0811,Noise Buds Pro,Electronics,1,4617.51,294.0,Kolkata,West Bengal,Debit Card,New,4.4
+ORD-00217,2024-04-22,CUST-0217,Divya,PROD-0824,Wireless Mouse,Electronics,1,1490.25,2.0,Mumbai,Maharashtra,Net Banking,New,4.8
+ORD-00218,2024-06-25,CUST-0218,Yash,PROD-0837,Formal Shirt,Fashion,1,1813.9,172.0,Jaipur,Rajasthan,Credit Card,New,5.0
+ORD-00219,2024-07-23,CUST-0219,Tanvi,PROD-0850,Rice Cooker,Home & Kitchen,2,3972.83,469.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.3
+ORD-00220,2024-04-28,CUST-0220,Harsh,PROD-0863,Hair Dryer,Beauty,5,3022.69,276.0,Bengaluru,Karnataka,UPI,Returning,3.9
+ORD-00221,2025-02-10,CUST-0221,Deepa,PROD-0876,Dumbbell Set,Sports,5,4107.5,703.0,Ahmedabad,Gujarat,Debit Card,New,4.0
+ORD-00222,2025-12-19,CUST-0222,Saurabh,PROD-0889,Python for Beginners,Books,3,840.0,153.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-00223,2024-03-23,CUST-0223,Ritika,PROD-0902,Young Investor Guide,Books,4,740.38,121.0,Patna,Bihar,Credit Card,New,4.6
+ORD-00224,2024-10-29,CUST-0224,Puneet,PROD-0915,USB-C Hub,Electronics,4,2519.44,259.0,Pune,Maharashtra,Cash on Delivery,New,4.7
+ORD-00225,2024-10-06,CUST-0225,Shreya,PROD-0928,Leather Sling Bag,Fashion,5,3201.3,50.0,Delhi,Delhi,UPI,Returning,3.0
+ORD-00226,2025-06-13,CUST-0226,Asha,PROD-0941,Blender Premium,Home & Kitchen,1,3929.99,518.0,Lucknow,Uttar Pradesh,Debit Card,New,5.0
+ORD-00227,2024-04-17,CUST-0227,Rahul,PROD-0954,Face Cream,Beauty,2,951.66,141.0,Kolkata,West Bengal,Net Banking,New,4.4
+ORD-00228,2024-04-14,CUST-0228,Neha,PROD-0967,Yoga Mat,Sports,3,1250.95,194.0,Mumbai,Maharashtra,Credit Card,New,3.4
+ORD-00229,2024-07-12,CUST-0229,Vikram,PROD-0980,Cricket Kit,Sports,1,6805.36,235.0,Jaipur,Rajasthan,Cash on Delivery,New,3.3
+ORD-00230,2025-12-25,CUST-0230,Priya,PROD-0993,Motivational Leadership,Books,1,816.55,90.0,Chennai,Tamil Nadu,UPI,Returning,4.8
+ORD-00231,2024-10-29,CUST-0231,Manish,PROD-0007,4K Monitor,Electronics,2,33714.93,855.0,Bengaluru,Karnataka,Debit Card,New,4.2
+ORD-00232,2024-07-18,CUST-0232,Ananya,PROD-0020,Running Shoes,Fashion,3,2299.49,83.0,Ahmedabad,Gujarat,Net Banking,New,3.7
+ORD-00233,2025-12-13,CUST-0233,Sanjay,PROD-0033,Bamboo Storage Box,Home & Kitchen,3,1360.54,162.0,Hyderabad,Telangana,Credit Card,New,4.5
+ORD-00234,2025-03-10,CUST-0234,Kavya,PROD-0046,Skin Serum,Beauty,5,1453.62,15.0,Patna,Bihar,Cash on Delivery,New,4.9
+ORD-00235,2024-05-15,CUST-0235,Siddharth,PROD-0059,Sunscreen SPF 50,Beauty,5,1025.81,180.0,Pune,Maharashtra,UPI,Returning,3.6
+ORD-00236,2025-05-09,CUST-0236,Meera,PROD-0072,Fitness Band,Sports,3,3293.15,495.0,Delhi,Delhi,Debit Card,New,5.0
+ORD-00237,2024-04-19,CUST-0237,Rohan,PROD-0085,Data Science Essentials,Books,4,1405.85,159.0,Lucknow,Uttar Pradesh,Net Banking,New,3.3
+ORD-00238,2024-01-10,CUST-0238,Ishita,PROD-0098,Laptop Pro 14,Electronics,3,72329.56,13635.0,Kolkata,West Bengal,Credit Card,New,3.8
+ORD-00239,2025-07-17,CUST-0239,Nitin,PROD-0111,Denim Jacket,Fashion,2,2869.25,298.0,Mumbai,Maharashtra,Cash on Delivery,New,3.8
+ORD-00240,2025-05-13,CUST-0240,Pooja,PROD-0124,Air Fryer,Home & Kitchen,5,7681.43,245.0,Jaipur,Rajasthan,UPI,Returning,4.4
+ORD-00241,2025-11-02,CUST-0241,Arjun,PROD-0137,Vacuum Flask,Home & Kitchen,2,1285.0,248.0,Chennai,Tamil Nadu,Debit Card,New,5.0
+ORD-00242,2024-06-03,CUST-0242,Divya,PROD-0150,Lipstick Set,Beauty,5,1626.19,79.0,Bengaluru,Karnataka,Net Banking,New,2.7
+ORD-00243,2024-10-28,CUST-0243,Yash,PROD-0163,Treadmill,Sports,5,42852.51,6286.0,Ahmedabad,Gujarat,Credit Card,New,4.2
+ORD-00244,2025-06-17,CUST-0244,Tanvi,PROD-0176,Business Strategy,Books,3,1269.59,165.0,Hyderabad,Telangana,Cash on Delivery,New,4.5
+ORD-00245,2025-05-25,CUST-0245,Harsh,PROD-0189,Smart Watch X,Electronics,5,8569.82,976.0,Patna,Bihar,UPI,Returning,3.9
+ORD-00246,2024-03-13,CUST-0246,Deepa,PROD-0202,Cotton T-Shirt,Fashion,5,1037.94,104.0,Pune,Maharashtra,Debit Card,New,5.0
+ORD-00247,2025-12-22,CUST-0247,Saurabh,PROD-0215,Ladies Kurta,Fashion,3,1822.23,271.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00248,2025-10-09,CUST-0248,Ritika,PROD-0228,Dining Set,Home & Kitchen,2,8312.47,1548.0,Lucknow,Uttar Pradesh,Credit Card,New,4.3
+ORD-00249,2024-10-07,CUST-0249,Puneet,PROD-0241,Makeup Kit,Beauty,4,2648.41,169.0,Kolkata,West Bengal,Cash on Delivery,New,4.8
+ORD-00250,2025-11-13,CUST-0250,Shreya,PROD-0254,Cycling Helmet,Sports,3,3121.11,359.0,Mumbai,Maharashtra,UPI,Returning,3.9
+ORD-00251,2025-07-15,CUST-0251,Asha,PROD-0267,Startup Playbook,Books,1,869.79,34.0,Jaipur,Rajasthan,Debit Card,New,4.4
+ORD-00252,2025-05-14,CUST-0252,Rahul,PROD-0280,Noise Buds Pro,Electronics,1,4906.2,302.0,Chennai,Tamil Nadu,Net Banking,New,2.8
+ORD-00253,2024-12-11,CUST-0253,Neha,PROD-0293,Wireless Mouse,Electronics,1,1531.68,293.0,Bengaluru,Karnataka,Credit Card,New,3.2
+ORD-00254,2024-07-22,CUST-0254,Vikram,PROD-0306,Formal Shirt,Fashion,4,2009.44,138.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.8
+ORD-00255,2024-11-27,CUST-0255,Priya,PROD-0319,Rice Cooker,Home & Kitchen,5,3481.86,129.0,Hyderabad,Telangana,UPI,Returning,3.8
+ORD-00256,2024-12-17,CUST-0256,Manish,PROD-0332,Hair Dryer,Beauty,2,2305.54,3.0,Patna,Bihar,Debit Card,New,4.7
+ORD-00257,2024-06-19,CUST-0257,Ananya,PROD-0345,Dumbbell Set,Sports,2,4589.87,599.0,Pune,Maharashtra,Net Banking,New,2.8
+ORD-00258,2025-07-12,CUST-0258,Sanjay,PROD-0358,Python for Beginners,Books,2,732.12,45.0,Delhi,Delhi,Credit Card,New,4.2
+ORD-00259,2024-09-16,CUST-0259,Kavya,PROD-0371,Young Investor Guide,Books,4,973.21,175.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.4
+ORD-00260,2024-04-10,CUST-0260,Siddharth,PROD-0384,USB-C Hub,Electronics,5,2338.84,191.0,Kolkata,West Bengal,UPI,Returning,5.0
+ORD-00261,2025-06-26,CUST-0261,Meera,PROD-0397,Leather Sling Bag,Fashion,2,3318.76,367.0,Mumbai,Maharashtra,Debit Card,New,3.0
+ORD-00262,2024-04-30,CUST-0262,Rohan,PROD-0410,Blender Premium,Home & Kitchen,4,4683.56,488.0,Jaipur,Rajasthan,Net Banking,New,4.2
+ORD-00263,2025-01-17,CUST-0263,Ishita,PROD-0423,Face Cream,Beauty,3,1192.04,38.0,Chennai,Tamil Nadu,Credit Card,New,3.7
+ORD-00264,2024-09-28,CUST-0264,Nitin,PROD-0436,Yoga Mat,Sports,4,1361.37,231.0,Bengaluru,Karnataka,Cash on Delivery,New,4.5
+ORD-00265,2025-03-16,CUST-0265,Pooja,PROD-0449,Cricket Kit,Sports,1,7587.16,1153.0,Ahmedabad,Gujarat,UPI,Returning,5.0
+ORD-00266,2025-10-16,CUST-0266,Arjun,PROD-0462,Motivational Leadership,Books,5,863.33,40.0,Hyderabad,Telangana,Debit Card,New,3.3
+ORD-00267,2025-04-20,CUST-0267,Divya,PROD-0475,4K Monitor,Electronics,2,33079.66,1750.0,Patna,Bihar,Net Banking,New,3.7
+ORD-00268,2024-06-28,CUST-0268,Yash,PROD-0488,Running Shoes,Fashion,3,2136.24,79.0,Pune,Maharashtra,Credit Card,New,4.9
+ORD-00269,2025-01-25,CUST-0269,Tanvi,PROD-0501,Bamboo Storage Box,Home & Kitchen,1,1737.14,296.0,Delhi,Delhi,Cash on Delivery,New,3.5
+ORD-00270,2024-06-27,CUST-0270,Harsh,PROD-0514,Skin Serum,Beauty,3,1637.7,109.0,Lucknow,Uttar Pradesh,UPI,Returning,4.0
+ORD-00271,2024-08-27,CUST-0271,Deepa,PROD-0527,Sunscreen SPF 50,Beauty,1,1342.65,252.0,Kolkata,West Bengal,Debit Card,New,3.8
+ORD-00272,2025-01-21,CUST-0272,Saurabh,PROD-0540,Fitness Band,Sports,3,3434.77,310.0,Mumbai,Maharashtra,Net Banking,New,4.5
+ORD-00273,2024-05-13,CUST-0273,Ritika,PROD-0553,Data Science Essentials,Books,5,1061.5,92.0,Jaipur,Rajasthan,Credit Card,New,4.2
+ORD-00274,2025-11-26,CUST-0274,Puneet,PROD-0566,Laptop Pro 14,Electronics,5,71312.32,11899.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.4
+ORD-00275,2025-09-30,CUST-0275,Shreya,PROD-0579,Denim Jacket,Fashion,2,2609.03,289.0,Bengaluru,Karnataka,UPI,Returning,4.1
+ORD-00276,2025-10-31,CUST-0276,Asha,PROD-0592,Air Fryer,Home & Kitchen,1,6715.38,211.0,Ahmedabad,Gujarat,Debit Card,New,4.8
+ORD-00277,2025-01-20,CUST-0277,Rahul,PROD-0605,Vacuum Flask,Home & Kitchen,5,1471.13,179.0,Hyderabad,Telangana,Net Banking,New,4.4
+ORD-00278,2025-12-22,CUST-0278,Neha,PROD-0618,Lipstick Set,Beauty,3,1191.35,200.0,Patna,Bihar,Credit Card,New,4.5
+ORD-00279,2025-08-27,CUST-0279,Vikram,PROD-0631,Treadmill,Sports,5,36299.01,5384.0,Pune,Maharashtra,Cash on Delivery,New,4.5
+ORD-00280,2024-02-06,CUST-0280,Priya,PROD-0644,Business Strategy,Books,5,1069.62,119.0,Delhi,Delhi,UPI,Returning,5.0
+ORD-00281,2025-04-10,CUST-0281,Manish,PROD-0657,Smart Watch X,Electronics,1,10900.98,1732.0,Lucknow,Uttar Pradesh,Debit Card,New,4.2
+ORD-00282,2025-11-05,CUST-0282,Ananya,PROD-0670,Cotton T-Shirt,Fashion,4,803.78,33.0,Kolkata,West Bengal,Net Banking,New,3.5
+ORD-00283,2024-07-23,CUST-0283,Sanjay,PROD-0683,Ladies Kurta,Fashion,2,1801.41,230.0,Mumbai,Maharashtra,Credit Card,New,3.2
+ORD-00284,2024-11-30,CUST-0284,Kavya,PROD-0696,Dining Set,Home & Kitchen,2,6143.88,488.0,Jaipur,Rajasthan,Cash on Delivery,New,4.2
+ORD-00285,2024-04-21,CUST-0285,Siddharth,PROD-0709,Makeup Kit,Beauty,3,2674.29,81.0,Chennai,Tamil Nadu,UPI,Returning,4.4
+ORD-00286,2025-06-14,CUST-0286,Meera,PROD-0722,Cycling Helmet,Sports,5,2753.84,228.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-00287,2025-03-24,CUST-0287,Rohan,PROD-0735,Startup Playbook,Books,2,958.68,126.0,Ahmedabad,Gujarat,Net Banking,New,4.5
+ORD-00288,2024-05-09,CUST-0288,Ishita,PROD-0748,Noise Buds Pro,Electronics,5,5355.71,595.0,Hyderabad,Telangana,Credit Card,New,4.7
+ORD-00289,2024-07-30,CUST-0289,Nitin,PROD-0761,Wireless Mouse,Electronics,5,1379.27,233.0,Patna,Bihar,Cash on Delivery,New,3.2
+ORD-00290,2025-12-25,CUST-0290,Pooja,PROD-0774,Formal Shirt,Fashion,5,1910.94,106.0,Pune,Maharashtra,UPI,Returning,4.0
+ORD-00291,2025-06-05,CUST-0291,Arjun,PROD-0787,Rice Cooker,Home & Kitchen,4,3152.67,416.0,Delhi,Delhi,Debit Card,New,5.0
+ORD-00292,2024-10-21,CUST-0292,Divya,PROD-0800,Hair Dryer,Beauty,2,3171.87,250.0,Lucknow,Uttar Pradesh,Net Banking,New,4.4
+ORD-00293,2024-08-29,CUST-0293,Yash,PROD-0813,Dumbbell Set,Sports,1,4616.71,665.0,Kolkata,West Bengal,Credit Card,New,4.3
+ORD-00294,2024-09-06,CUST-0294,Tanvi,PROD-0826,Python for Beginners,Books,3,855.25,69.0,Mumbai,Maharashtra,Cash on Delivery,New,3.9
+ORD-00295,2024-08-25,CUST-0295,Harsh,PROD-0839,Young Investor Guide,Books,3,673.07,59.0,Jaipur,Rajasthan,UPI,Returning,4.4
+ORD-00296,2025-04-28,CUST-0296,Deepa,PROD-0852,USB-C Hub,Electronics,4,3068.17,450.0,Chennai,Tamil Nadu,Debit Card,New,4.5
+ORD-00297,2025-11-17,CUST-0297,Saurabh,PROD-0865,Leather Sling Bag,Fashion,5,3495.17,228.0,Bengaluru,Karnataka,Net Banking,New,3.8
+ORD-00298,2025-05-02,CUST-0298,Ritika,PROD-0878,Blender Premium,Home & Kitchen,5,4092.34,747.0,Ahmedabad,Gujarat,Credit Card,New,4.2
+ORD-00299,2024-07-24,CUST-0299,Puneet,PROD-0891,Face Cream,Beauty,5,871.43,48.0,Hyderabad,Telangana,Cash on Delivery,New,4.6
+ORD-00300,2024-05-27,CUST-0300,Shreya,PROD-0904,Yoga Mat,Sports,4,1760.36,261.0,Patna,Bihar,UPI,Returning,4.6
+ORD-00301,2025-06-28,CUST-0301,Asha,PROD-0917,Cricket Kit,Sports,3,8119.74,1139.0,Pune,Maharashtra,Debit Card,New,2.7
+ORD-00302,2024-08-21,CUST-0302,Rahul,PROD-0930,Motivational Leadership,Books,2,1090.25,14.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00303,2025-01-28,CUST-0303,Neha,PROD-0943,4K Monitor,Electronics,3,31066.6,2483.0,Lucknow,Uttar Pradesh,Credit Card,New,4.5
+ORD-00304,2025-03-21,CUST-0304,Vikram,PROD-0956,Running Shoes,Fashion,3,2540.01,489.0,Kolkata,West Bengal,Cash on Delivery,New,3.8
+ORD-00305,2025-09-17,CUST-0305,Priya,PROD-0969,Bamboo Storage Box,Home & Kitchen,1,1723.76,322.0,Mumbai,Maharashtra,UPI,Returning,3.5
+ORD-00306,2025-04-06,CUST-0306,Manish,PROD-0982,Skin Serum,Beauty,3,1830.71,162.0,Jaipur,Rajasthan,Debit Card,New,3.7
+ORD-00307,2024-08-18,CUST-0307,Ananya,PROD-0995,Sunscreen SPF 50,Beauty,5,1354.98,66.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-00308,2025-06-27,CUST-0308,Sanjay,PROD-0009,Fitness Band,Sports,5,4165.92,17.0,Bengaluru,Karnataka,Credit Card,New,4.1
+ORD-00309,2025-05-25,CUST-0309,Kavya,PROD-0022,Data Science Essentials,Books,2,1253.19,191.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.2
+ORD-00310,2024-07-30,CUST-0310,Siddharth,PROD-0035,Laptop Pro 14,Electronics,2,76399.38,9684.0,Hyderabad,Telangana,UPI,Returning,4.3
+ORD-00311,2025-04-24,CUST-0311,Meera,PROD-0048,Denim Jacket,Fashion,3,2871.87,336.0,Patna,Bihar,Debit Card,New,5.0
+ORD-00312,2024-05-02,CUST-0312,Rohan,PROD-0061,Air Fryer,Home & Kitchen,5,9310.66,1063.0,Pune,Maharashtra,Net Banking,New,4.2
+ORD-00313,2024-06-20,CUST-0313,Ishita,PROD-0074,Vacuum Flask,Home & Kitchen,1,1687.08,113.0,Delhi,Delhi,Credit Card,New,5.0
+ORD-00314,2024-03-25,CUST-0314,Nitin,PROD-0087,Lipstick Set,Beauty,1,1543.31,186.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.0
+ORD-00315,2024-01-20,CUST-0315,Pooja,PROD-0100,Treadmill,Sports,3,31880.46,6368.0,Kolkata,West Bengal,UPI,Returning,4.4
+ORD-00316,2025-11-12,CUST-0316,Arjun,PROD-0113,Business Strategy,Books,3,1208.62,212.0,Mumbai,Maharashtra,Debit Card,New,5.0
+ORD-00317,2024-07-01,CUST-0317,Divya,PROD-0126,Smart Watch X,Electronics,4,8720.02,121.0,Jaipur,Rajasthan,Net Banking,New,4.5
+ORD-00318,2025-04-29,CUST-0318,Yash,PROD-0139,Cotton T-Shirt,Fashion,2,1072.6,48.0,Chennai,Tamil Nadu,Credit Card,New,3.2
+ORD-00319,2025-01-04,CUST-0319,Tanvi,PROD-0152,Ladies Kurta,Fashion,4,1975.37,329.0,Bengaluru,Karnataka,Cash on Delivery,New,4.0
+ORD-00320,2025-05-15,CUST-0320,Harsh,PROD-0165,Dining Set,Home & Kitchen,3,7591.38,448.0,Ahmedabad,Gujarat,UPI,Returning,4.3
+ORD-00321,2024-03-18,CUST-0321,Deepa,PROD-0178,Makeup Kit,Beauty,1,3077.96,611.0,Hyderabad,Telangana,Debit Card,New,4.2
+ORD-00322,2025-12-13,CUST-0322,Saurabh,PROD-0191,Cycling Helmet,Sports,1,3284.93,77.0,Patna,Bihar,Net Banking,New,5.0
+ORD-00323,2024-09-26,CUST-0323,Ritika,PROD-0204,Startup Playbook,Books,2,888.8,82.0,Pune,Maharashtra,Credit Card,New,4.6
+ORD-00324,2025-07-28,CUST-0324,Puneet,PROD-0217,Noise Buds Pro,Electronics,4,5382.27,348.0,Delhi,Delhi,Cash on Delivery,New,3.3
+ORD-00325,2024-06-20,CUST-0325,Shreya,PROD-0230,Wireless Mouse,Electronics,5,1661.39,273.0,Lucknow,Uttar Pradesh,UPI,Returning,4.8
+ORD-00326,2024-12-24,CUST-0326,Asha,PROD-0243,Formal Shirt,Fashion,4,1949.74,65.0,Kolkata,West Bengal,Debit Card,New,4.0
+ORD-00327,2024-08-25,CUST-0327,Rahul,PROD-0256,Rice Cooker,Home & Kitchen,2,4017.26,115.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-00328,2024-02-19,CUST-0328,Neha,PROD-0269,Hair Dryer,Beauty,1,2916.13,163.0,Jaipur,Rajasthan,Credit Card,New,4.5
+ORD-00329,2024-03-13,CUST-0329,Vikram,PROD-0282,Dumbbell Set,Sports,2,4471.52,0.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.0
+ORD-00330,2025-08-23,CUST-0330,Priya,PROD-0295,Python for Beginners,Books,1,857.06,128.0,Bengaluru,Karnataka,UPI,Returning,4.1
+ORD-00331,2025-02-07,CUST-0331,Manish,PROD-0308,Young Investor Guide,Books,1,929.95,27.0,Ahmedabad,Gujarat,Debit Card,New,3.6
+ORD-00332,2024-03-08,CUST-0332,Ananya,PROD-0321,USB-C Hub,Electronics,3,3272.69,28.0,Hyderabad,Telangana,Net Banking,New,4.1
+ORD-00333,2024-05-27,CUST-0333,Sanjay,PROD-0334,Leather Sling Bag,Fashion,3,3599.51,531.0,Patna,Bihar,Credit Card,New,4.2
+ORD-00334,2024-12-05,CUST-0334,Kavya,PROD-0347,Blender Premium,Home & Kitchen,3,5099.26,728.0,Pune,Maharashtra,Cash on Delivery,New,2.6
+ORD-00335,2025-12-03,CUST-0335,Siddharth,PROD-0360,Face Cream,Beauty,3,902.77,39.0,Delhi,Delhi,UPI,Returning,4.2
+ORD-00336,2024-05-08,CUST-0336,Meera,PROD-0373,Yoga Mat,Sports,1,1224.95,82.0,Lucknow,Uttar Pradesh,Debit Card,New,4.9
+ORD-00337,2025-09-15,CUST-0337,Rohan,PROD-0386,Cricket Kit,Sports,1,6484.5,1067.0,Kolkata,West Bengal,Net Banking,New,4.9
+ORD-00338,2024-11-23,CUST-0338,Ishita,PROD-0399,Motivational Leadership,Books,1,1102.87,39.0,Mumbai,Maharashtra,Credit Card,New,4.3
+ORD-00339,2024-11-27,CUST-0339,Nitin,PROD-0412,4K Monitor,Electronics,1,34693.56,6072.0,Jaipur,Rajasthan,Cash on Delivery,New,2.5
+ORD-00340,2025-04-23,CUST-0340,Pooja,PROD-0425,Running Shoes,Fashion,1,1918.75,181.0,Chennai,Tamil Nadu,UPI,Returning,4.0
+ORD-00341,2024-10-07,CUST-0341,Arjun,PROD-0438,Bamboo Storage Box,Home & Kitchen,2,1536.99,226.0,Bengaluru,Karnataka,Debit Card,New,3.6
+ORD-00342,2024-01-20,CUST-0342,Divya,PROD-0451,Skin Serum,Beauty,5,2007.17,186.0,Ahmedabad,Gujarat,Net Banking,New,3.9
+ORD-00343,2024-07-29,CUST-0343,Yash,PROD-0464,Sunscreen SPF 50,Beauty,5,1141.95,137.0,Hyderabad,Telangana,Credit Card,New,4.1
+ORD-00344,2025-08-26,CUST-0344,Tanvi,PROD-0477,Fitness Band,Sports,3,3835.59,79.0,Patna,Bihar,Cash on Delivery,New,3.7
+ORD-00345,2024-04-28,CUST-0345,Harsh,PROD-0490,Data Science Essentials,Books,1,1137.85,87.0,Pune,Maharashtra,UPI,Returning,4.5
+ORD-00346,2025-05-08,CUST-0346,Deepa,PROD-0503,Laptop Pro 14,Electronics,2,73876.79,9447.0,Delhi,Delhi,Debit Card,New,4.6
+ORD-00347,2025-07-18,CUST-0347,Saurabh,PROD-0516,Denim Jacket,Fashion,2,2614.95,0.0,Lucknow,Uttar Pradesh,Net Banking,New,4.0
+ORD-00348,2025-10-11,CUST-0348,Ritika,PROD-0529,Air Fryer,Home & Kitchen,4,6900.88,1159.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-00349,2024-09-05,CUST-0349,Puneet,PROD-0542,Vacuum Flask,Home & Kitchen,5,1776.73,169.0,Mumbai,Maharashtra,Cash on Delivery,New,4.7
+ORD-00350,2024-05-22,CUST-0350,Shreya,PROD-0555,Lipstick Set,Beauty,2,1430.27,133.0,Jaipur,Rajasthan,UPI,Returning,3.6
+ORD-00351,2024-03-17,CUST-0351,Asha,PROD-0568,Treadmill,Sports,1,30385.56,1301.0,Chennai,Tamil Nadu,Debit Card,New,3.3
+ORD-00352,2024-04-08,CUST-0352,Rahul,PROD-0581,Business Strategy,Books,3,987.08,15.0,Bengaluru,Karnataka,Net Banking,New,3.7
+ORD-00353,2025-01-18,CUST-0353,Neha,PROD-0594,Smart Watch X,Electronics,1,9722.33,623.0,Ahmedabad,Gujarat,Credit Card,New,3.6
+ORD-00354,2025-03-21,CUST-0354,Vikram,PROD-0607,Cotton T-Shirt,Fashion,2,824.89,153.0,Hyderabad,Telangana,Cash on Delivery,New,3.9
+ORD-00355,2025-07-03,CUST-0355,Priya,PROD-0620,Ladies Kurta,Fashion,5,2728.3,485.0,Patna,Bihar,UPI,Returning,2.5
+ORD-00356,2025-03-28,CUST-0356,Manish,PROD-0633,Dining Set,Home & Kitchen,1,6319.62,581.0,Pune,Maharashtra,Debit Card,New,3.4
+ORD-00357,2025-05-20,CUST-0357,Ananya,PROD-0646,Makeup Kit,Beauty,1,2808.42,479.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00358,2024-02-02,CUST-0358,Sanjay,PROD-0659,Cycling Helmet,Sports,3,3634.28,321.0,Lucknow,Uttar Pradesh,Credit Card,New,4.6
+ORD-00359,2025-10-30,CUST-0359,Kavya,PROD-0672,Startup Playbook,Books,1,1098.08,71.0,Kolkata,West Bengal,Cash on Delivery,New,4.6
+ORD-00360,2025-12-15,CUST-0360,Siddharth,PROD-0685,Noise Buds Pro,Electronics,5,4924.87,789.0,Mumbai,Maharashtra,UPI,Returning,3.4
+ORD-00361,2025-08-10,CUST-0361,Meera,PROD-0698,Wireless Mouse,Electronics,3,2076.78,205.0,Jaipur,Rajasthan,Debit Card,New,4.3
+ORD-00362,2024-04-03,CUST-0362,Rohan,PROD-0711,Formal Shirt,Fashion,2,1787.37,168.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-00363,2024-01-23,CUST-0363,Ishita,PROD-0724,Rice Cooker,Home & Kitchen,2,2853.97,110.0,Bengaluru,Karnataka,Credit Card,New,5.0
+ORD-00364,2024-10-25,CUST-0364,Nitin,PROD-0737,Hair Dryer,Beauty,3,2697.26,360.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.9
+ORD-00365,2025-06-17,CUST-0365,Pooja,PROD-0750,Dumbbell Set,Sports,5,5452.18,690.0,Hyderabad,Telangana,UPI,Returning,2.9
+ORD-00366,2024-11-25,CUST-0366,Arjun,PROD-0763,Python for Beginners,Books,2,744.18,40.0,Patna,Bihar,Debit Card,New,5.0
+ORD-00367,2024-09-26,CUST-0367,Divya,PROD-0776,Young Investor Guide,Books,2,859.33,79.0,Pune,Maharashtra,Net Banking,New,3.7
+ORD-00368,2024-10-03,CUST-0368,Yash,PROD-0789,USB-C Hub,Electronics,2,2681.09,37.0,Delhi,Delhi,Credit Card,New,5.0
+ORD-00369,2025-09-22,CUST-0369,Tanvi,PROD-0802,Leather Sling Bag,Fashion,2,4414.19,146.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.3
+ORD-00370,2025-07-05,CUST-0370,Harsh,PROD-0815,Blender Premium,Home & Kitchen,2,4724.16,716.0,Kolkata,West Bengal,UPI,Returning,4.1
+ORD-00371,2024-03-17,CUST-0371,Deepa,PROD-0828,Face Cream,Beauty,3,1226.01,203.0,Mumbai,Maharashtra,Debit Card,New,4.7
+ORD-00372,2025-11-21,CUST-0372,Saurabh,PROD-0841,Yoga Mat,Sports,4,1203.25,158.0,Jaipur,Rajasthan,Net Banking,New,3.9
+ORD-00373,2025-03-26,CUST-0373,Ritika,PROD-0854,Cricket Kit,Sports,1,7016.79,1297.0,Chennai,Tamil Nadu,Credit Card,New,4.2
+ORD-00374,2025-02-14,CUST-0374,Puneet,PROD-0867,Motivational Leadership,Books,1,1114.95,203.0,Bengaluru,Karnataka,Cash on Delivery,New,4.0
+ORD-00375,2024-05-28,CUST-0375,Shreya,PROD-0880,4K Monitor,Electronics,2,33150.49,4929.0,Ahmedabad,Gujarat,UPI,Returning,2.8
+ORD-00376,2025-07-28,CUST-0376,Asha,PROD-0893,Running Shoes,Fashion,3,1714.3,194.0,Hyderabad,Telangana,Debit Card,New,3.3
+ORD-00377,2024-02-12,CUST-0377,Rahul,PROD-0906,Bamboo Storage Box,Home & Kitchen,5,1411.4,248.0,Patna,Bihar,Net Banking,New,4.8
+ORD-00378,2025-07-19,CUST-0378,Neha,PROD-0919,Skin Serum,Beauty,2,1567.49,136.0,Pune,Maharashtra,Credit Card,New,2.7
+ORD-00379,2025-08-01,CUST-0379,Vikram,PROD-0932,Sunscreen SPF 50,Beauty,2,1381.33,148.0,Delhi,Delhi,Cash on Delivery,New,3.1
+ORD-00380,2025-03-09,CUST-0380,Priya,PROD-0945,Fitness Band,Sports,5,2980.42,555.0,Lucknow,Uttar Pradesh,UPI,Returning,4.2
+ORD-00381,2025-01-03,CUST-0381,Manish,PROD-0958,Data Science Essentials,Books,3,1044.66,78.0,Kolkata,West Bengal,Debit Card,New,4.6
+ORD-00382,2025-12-17,CUST-0382,Ananya,PROD-0971,Laptop Pro 14,Electronics,3,73886.09,9429.0,Mumbai,Maharashtra,Net Banking,New,3.5
+ORD-00383,2024-04-03,CUST-0383,Sanjay,PROD-0984,Denim Jacket,Fashion,5,2819.89,239.0,Jaipur,Rajasthan,Credit Card,New,4.0
+ORD-00384,2025-09-03,CUST-0384,Kavya,PROD-0997,Air Fryer,Home & Kitchen,1,9080.33,401.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.5
+ORD-00385,2025-11-17,CUST-0385,Siddharth,PROD-0011,Vacuum Flask,Home & Kitchen,4,1736.98,105.0,Bengaluru,Karnataka,UPI,Returning,4.1
+ORD-00386,2025-05-18,CUST-0386,Meera,PROD-0024,Lipstick Set,Beauty,3,1357.07,117.0,Ahmedabad,Gujarat,Debit Card,New,3.7
+ORD-00387,2024-04-09,CUST-0387,Rohan,PROD-0037,Treadmill,Sports,4,34826.66,4655.0,Hyderabad,Telangana,Net Banking,New,3.1
+ORD-00388,2025-01-16,CUST-0388,Ishita,PROD-0050,Business Strategy,Books,1,1129.73,217.0,Patna,Bihar,Credit Card,New,3.1
+ORD-00389,2024-05-15,CUST-0389,Nitin,PROD-0063,Smart Watch X,Electronics,3,8947.14,249.0,Pune,Maharashtra,Cash on Delivery,New,2.9
+ORD-00390,2024-10-22,CUST-0390,Pooja,PROD-0076,Cotton T-Shirt,Fashion,1,1097.55,43.0,Delhi,Delhi,UPI,Returning,4.5
+ORD-00391,2025-12-24,CUST-0391,Arjun,PROD-0089,Ladies Kurta,Fashion,3,1879.79,366.0,Lucknow,Uttar Pradesh,Debit Card,New,4.7
+ORD-00392,2024-11-09,CUST-0392,Divya,PROD-0102,Dining Set,Home & Kitchen,5,8031.76,578.0,Kolkata,West Bengal,Net Banking,New,4.5
+ORD-00393,2024-12-15,CUST-0393,Yash,PROD-0115,Makeup Kit,Beauty,2,2566.89,18.0,Mumbai,Maharashtra,Credit Card,New,3.5
+ORD-00394,2025-05-30,CUST-0394,Tanvi,PROD-0128,Cycling Helmet,Sports,5,2391.6,97.0,Jaipur,Rajasthan,Cash on Delivery,New,4.8
+ORD-00395,2025-07-10,CUST-0395,Harsh,PROD-0141,Startup Playbook,Books,3,737.12,133.0,Chennai,Tamil Nadu,UPI,Returning,4.6
+ORD-00396,2024-02-13,CUST-0396,Deepa,PROD-0154,Noise Buds Pro,Electronics,5,4792.8,271.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-00397,2025-09-28,CUST-0397,Saurabh,PROD-0167,Wireless Mouse,Electronics,5,1750.01,54.0,Ahmedabad,Gujarat,Net Banking,New,3.8
+ORD-00398,2024-11-20,CUST-0398,Ritika,PROD-0180,Formal Shirt,Fashion,3,1646.83,261.0,Hyderabad,Telangana,Credit Card,New,4.8
+ORD-00399,2025-01-09,CUST-0399,Puneet,PROD-0193,Rice Cooker,Home & Kitchen,1,3164.93,613.0,Patna,Bihar,Cash on Delivery,New,3.9
+ORD-00400,2024-03-09,CUST-0400,Shreya,PROD-0206,Hair Dryer,Beauty,2,3454.08,138.0,Pune,Maharashtra,UPI,Returning,5.0
+ORD-00401,2025-03-27,CUST-0401,Asha,PROD-0219,Dumbbell Set,Sports,1,5258.72,744.0,Delhi,Delhi,Debit Card,New,4.8
+ORD-00402,2024-04-02,CUST-0402,Rahul,PROD-0232,Python for Beginners,Books,5,958.81,120.0,Lucknow,Uttar Pradesh,Net Banking,New,4.5
+ORD-00403,2024-06-06,CUST-0403,Neha,PROD-0245,Young Investor Guide,Books,2,819.05,89.0,Kolkata,West Bengal,Credit Card,New,4.4
+ORD-00404,2024-12-18,CUST-0404,Vikram,PROD-0258,USB-C Hub,Electronics,5,3129.8,478.0,Mumbai,Maharashtra,Cash on Delivery,New,4.0
+ORD-00405,2024-03-24,CUST-0405,Priya,PROD-0271,Leather Sling Bag,Fashion,5,3781.72,292.0,Jaipur,Rajasthan,UPI,Returning,4.3
+ORD-00406,2025-07-23,CUST-0406,Manish,PROD-0284,Blender Premium,Home & Kitchen,1,3753.93,426.0,Chennai,Tamil Nadu,Debit Card,New,3.6
+ORD-00407,2024-08-18,CUST-0407,Ananya,PROD-0297,Face Cream,Beauty,1,1084.29,201.0,Bengaluru,Karnataka,Net Banking,New,3.8
+ORD-00408,2025-12-13,CUST-0408,Sanjay,PROD-0310,Yoga Mat,Sports,1,1302.78,73.0,Ahmedabad,Gujarat,Credit Card,New,4.6
+ORD-00409,2024-01-30,CUST-0409,Kavya,PROD-0323,Cricket Kit,Sports,2,8070.35,832.0,Hyderabad,Telangana,Cash on Delivery,New,3.2
+ORD-00410,2024-04-22,CUST-0410,Siddharth,PROD-0336,Motivational Leadership,Books,2,831.18,59.0,Patna,Bihar,UPI,Returning,3.9
+ORD-00411,2024-07-09,CUST-0411,Meera,PROD-0349,4K Monitor,Electronics,1,29605.94,1155.0,Pune,Maharashtra,Debit Card,New,4.4
+ORD-00412,2024-05-27,CUST-0412,Rohan,PROD-0362,Running Shoes,Fashion,3,2303.48,367.0,Delhi,Delhi,Net Banking,New,3.9
+ORD-00413,2024-04-03,CUST-0413,Ishita,PROD-0375,Bamboo Storage Box,Home & Kitchen,5,1730.36,214.0,Lucknow,Uttar Pradesh,Credit Card,New,5.0
+ORD-00414,2024-06-13,CUST-0414,Nitin,PROD-0388,Skin Serum,Beauty,2,1511.52,142.0,Kolkata,West Bengal,Cash on Delivery,New,4.9
+ORD-00415,2024-03-31,CUST-0415,Pooja,PROD-0401,Sunscreen SPF 50,Beauty,4,1088.07,206.0,Mumbai,Maharashtra,UPI,Returning,4.0
+ORD-00416,2024-08-22,CUST-0416,Arjun,PROD-0414,Fitness Band,Sports,3,2973.22,366.0,Jaipur,Rajasthan,Debit Card,New,4.3
+ORD-00417,2025-07-14,CUST-0417,Divya,PROD-0427,Data Science Essentials,Books,1,1228.0,165.0,Chennai,Tamil Nadu,Net Banking,New,4.8
+ORD-00418,2025-11-14,CUST-0418,Yash,PROD-0440,Laptop Pro 14,Electronics,4,61526.3,8800.0,Bengaluru,Karnataka,Credit Card,New,3.5
+ORD-00419,2024-01-23,CUST-0419,Tanvi,PROD-0453,Denim Jacket,Fashion,5,2985.79,64.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.4
+ORD-00420,2025-12-27,CUST-0420,Harsh,PROD-0466,Air Fryer,Home & Kitchen,3,7827.22,433.0,Hyderabad,Telangana,UPI,Returning,3.3
+ORD-00421,2025-06-19,CUST-0421,Deepa,PROD-0479,Vacuum Flask,Home & Kitchen,3,1443.04,138.0,Patna,Bihar,Debit Card,New,4.5
+ORD-00422,2025-04-10,CUST-0422,Saurabh,PROD-0492,Lipstick Set,Beauty,3,1215.77,175.0,Pune,Maharashtra,Net Banking,New,4.4
+ORD-00423,2024-07-25,CUST-0423,Ritika,PROD-0505,Treadmill,Sports,3,36302.95,7125.0,Delhi,Delhi,Credit Card,New,4.0
+ORD-00424,2025-08-23,CUST-0424,Puneet,PROD-0518,Business Strategy,Books,3,929.24,149.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.1
+ORD-00425,2024-05-20,CUST-0425,Shreya,PROD-0531,Smart Watch X,Electronics,4,10025.65,1568.0,Kolkata,West Bengal,UPI,Returning,4.1
+ORD-00426,2024-09-10,CUST-0426,Asha,PROD-0544,Cotton T-Shirt,Fashion,5,971.21,58.0,Mumbai,Maharashtra,Debit Card,New,4.5
+ORD-00427,2025-03-13,CUST-0427,Rahul,PROD-0557,Ladies Kurta,Fashion,4,2759.21,370.0,Jaipur,Rajasthan,Net Banking,New,3.6
+ORD-00428,2025-01-04,CUST-0428,Neha,PROD-0570,Dining Set,Home & Kitchen,3,8618.7,636.0,Chennai,Tamil Nadu,Credit Card,New,3.3
+ORD-00429,2024-09-12,CUST-0429,Vikram,PROD-0583,Makeup Kit,Beauty,3,2216.04,204.0,Bengaluru,Karnataka,Cash on Delivery,New,3.0
+ORD-00430,2025-04-02,CUST-0430,Priya,PROD-0596,Cycling Helmet,Sports,1,2597.16,194.0,Ahmedabad,Gujarat,UPI,Returning,2.6
+ORD-00431,2024-03-13,CUST-0431,Manish,PROD-0609,Startup Playbook,Books,2,828.0,148.0,Hyderabad,Telangana,Debit Card,New,5.0
+ORD-00432,2024-05-24,CUST-0432,Ananya,PROD-0622,Noise Buds Pro,Electronics,5,4885.08,276.0,Patna,Bihar,Net Banking,New,4.5
+ORD-00433,2024-05-03,CUST-0433,Sanjay,PROD-0635,Wireless Mouse,Electronics,2,2010.78,213.0,Pune,Maharashtra,Credit Card,New,4.4
+ORD-00434,2024-09-18,CUST-0434,Kavya,PROD-0648,Formal Shirt,Fashion,4,1480.4,223.0,Delhi,Delhi,Cash on Delivery,New,3.2
+ORD-00435,2024-10-06,CUST-0435,Siddharth,PROD-0661,Rice Cooker,Home & Kitchen,5,3109.11,91.0,Lucknow,Uttar Pradesh,UPI,Returning,3.8
+ORD-00436,2025-05-29,CUST-0436,Meera,PROD-0674,Hair Dryer,Beauty,1,2936.62,487.0,Kolkata,West Bengal,Debit Card,New,4.0
+ORD-00437,2024-03-20,CUST-0437,Rohan,PROD-0687,Dumbbell Set,Sports,3,5163.13,497.0,Mumbai,Maharashtra,Net Banking,New,3.4
+ORD-00438,2025-08-22,CUST-0438,Ishita,PROD-0700,Python for Beginners,Books,5,785.76,69.0,Jaipur,Rajasthan,Credit Card,New,3.8
+ORD-00439,2024-09-07,CUST-0439,Nitin,PROD-0713,Young Investor Guide,Books,2,690.74,50.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.1
+ORD-00440,2025-07-02,CUST-0440,Pooja,PROD-0726,USB-C Hub,Electronics,2,2550.14,464.0,Bengaluru,Karnataka,UPI,Returning,5.0
+ORD-00441,2025-05-26,CUST-0441,Arjun,PROD-0739,Leather Sling Bag,Fashion,1,3378.09,184.0,Ahmedabad,Gujarat,Debit Card,New,4.6
+ORD-00442,2024-06-21,CUST-0442,Divya,PROD-0752,Blender Premium,Home & Kitchen,2,4337.46,781.0,Hyderabad,Telangana,Net Banking,New,4.3
+ORD-00443,2024-01-18,CUST-0443,Yash,PROD-0765,Face Cream,Beauty,1,1032.92,192.0,Patna,Bihar,Credit Card,New,4.0
+ORD-00444,2025-03-23,CUST-0444,Tanvi,PROD-0778,Yoga Mat,Sports,5,1817.84,171.0,Pune,Maharashtra,Cash on Delivery,New,4.0
+ORD-00445,2025-07-08,CUST-0445,Harsh,PROD-0791,Cricket Kit,Sports,5,7643.49,1389.0,Delhi,Delhi,UPI,Returning,5.0
+ORD-00446,2024-12-14,CUST-0446,Deepa,PROD-0804,Motivational Leadership,Books,1,816.2,95.0,Lucknow,Uttar Pradesh,Debit Card,New,4.6
+ORD-00447,2025-04-14,CUST-0447,Saurabh,PROD-0817,4K Monitor,Electronics,3,29600.91,2411.0,Kolkata,West Bengal,Net Banking,New,4.9
+ORD-00448,2024-06-13,CUST-0448,Ritika,PROD-0830,Running Shoes,Fashion,5,1812.27,258.0,Mumbai,Maharashtra,Credit Card,New,4.7
+ORD-00449,2024-03-27,CUST-0449,Puneet,PROD-0843,Bamboo Storage Box,Home & Kitchen,1,1815.24,308.0,Jaipur,Rajasthan,Cash on Delivery,New,5.0
+ORD-00450,2024-10-20,CUST-0450,Shreya,PROD-0856,Skin Serum,Beauty,5,1690.42,43.0,Chennai,Tamil Nadu,UPI,Returning,4.1
+ORD-00451,2025-12-27,CUST-0001,Asha,PROD-0869,Sunscreen SPF 50,Beauty,5,1368.03,166.0,Bengaluru,Karnataka,Debit Card,New,3.0
+ORD-00452,2024-05-03,CUST-0002,Rahul,PROD-0882,Fitness Band,Sports,3,3143.4,135.0,Ahmedabad,Gujarat,Net Banking,New,3.1
+ORD-00453,2024-02-13,CUST-0003,Neha,PROD-0895,Data Science Essentials,Books,4,1510.74,17.0,Hyderabad,Telangana,Credit Card,New,3.9
+ORD-00454,2024-05-20,CUST-0004,Vikram,PROD-0908,Laptop Pro 14,Electronics,5,77540.31,10405.0,Patna,Bihar,Cash on Delivery,New,4.7
+ORD-00455,2025-07-15,CUST-0005,Priya,PROD-0921,Denim Jacket,Fashion,2,2683.09,436.0,Pune,Maharashtra,UPI,Returning,3.9
+ORD-00456,2025-08-17,CUST-0006,Manish,PROD-0934,Air Fryer,Home & Kitchen,1,8670.74,1733.0,Delhi,Delhi,Debit Card,New,3.5
+ORD-00457,2024-01-04,CUST-0007,Ananya,PROD-0947,Vacuum Flask,Home & Kitchen,5,1795.56,99.0,Lucknow,Uttar Pradesh,Net Banking,New,4.3
+ORD-00458,2024-07-03,CUST-0008,Sanjay,PROD-0960,Lipstick Set,Beauty,3,1338.39,187.0,Kolkata,West Bengal,Credit Card,New,4.0
+ORD-00459,2025-09-05,CUST-0009,Kavya,PROD-0973,Treadmill,Sports,4,34852.0,5380.0,Mumbai,Maharashtra,Cash on Delivery,New,3.2
+ORD-00460,2025-02-20,CUST-0010,Siddharth,PROD-0986,Business Strategy,Books,2,901.25,103.0,Jaipur,Rajasthan,UPI,Returning,2.7
+ORD-00461,2025-06-16,CUST-0011,Meera,PROD-0999,Smart Watch X,Electronics,5,9034.99,69.0,Chennai,Tamil Nadu,Debit Card,New,4.1
+ORD-00462,2024-10-15,CUST-0012,Rohan,PROD-0013,Cotton T-Shirt,Fashion,5,754.67,21.0,Bengaluru,Karnataka,Net Banking,New,3.1
+ORD-00463,2025-02-15,CUST-0013,Ishita,PROD-0026,Ladies Kurta,Fashion,1,1987.84,147.0,Ahmedabad,Gujarat,Credit Card,New,3.5
+ORD-00464,2025-09-21,CUST-0014,Nitin,PROD-0039,Dining Set,Home & Kitchen,3,7520.94,1115.0,Hyderabad,Telangana,Cash on Delivery,New,4.1
+ORD-00465,2025-04-21,CUST-0015,Pooja,PROD-0052,Makeup Kit,Beauty,4,3059.89,422.0,Patna,Bihar,UPI,Returning,4.5
+ORD-00466,2024-06-28,CUST-0016,Arjun,PROD-0065,Cycling Helmet,Sports,3,3538.99,50.0,Pune,Maharashtra,Debit Card,New,3.5
+ORD-00467,2024-04-05,CUST-0017,Divya,PROD-0078,Startup Playbook,Books,1,758.17,114.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00468,2024-12-04,CUST-0018,Yash,PROD-0091,Noise Buds Pro,Electronics,2,4962.45,400.0,Lucknow,Uttar Pradesh,Credit Card,New,4.6
+ORD-00469,2025-04-09,CUST-0019,Tanvi,PROD-0104,Wireless Mouse,Electronics,1,2029.35,323.0,Kolkata,West Bengal,Cash on Delivery,New,3.9
+ORD-00470,2024-07-04,CUST-0020,Harsh,PROD-0117,Formal Shirt,Fashion,2,1554.56,36.0,Mumbai,Maharashtra,UPI,Returning,4.3
+ORD-00471,2024-10-21,CUST-0021,Deepa,PROD-0130,Rice Cooker,Home & Kitchen,1,3301.97,623.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-00472,2024-01-26,CUST-0022,Saurabh,PROD-0143,Hair Dryer,Beauty,5,2747.89,140.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-00473,2024-10-13,CUST-0023,Ritika,PROD-0156,Dumbbell Set,Sports,4,5164.52,660.0,Bengaluru,Karnataka,Credit Card,New,5.0
+ORD-00474,2025-09-11,CUST-0024,Puneet,PROD-0169,Python for Beginners,Books,5,926.52,46.0,Ahmedabad,Gujarat,Cash on Delivery,New,5.0
+ORD-00475,2024-03-13,CUST-0025,Shreya,PROD-0182,Young Investor Guide,Books,3,932.26,9.0,Hyderabad,Telangana,UPI,Returning,3.3
+ORD-00476,2024-04-03,CUST-0026,Asha,PROD-0195,USB-C Hub,Electronics,4,3198.68,385.0,Patna,Bihar,Debit Card,New,4.4
+ORD-00477,2024-02-11,CUST-0027,Rahul,PROD-0208,Leather Sling Bag,Fashion,1,4423.39,830.0,Pune,Maharashtra,Net Banking,New,4.9
+ORD-00478,2025-06-27,CUST-0028,Neha,PROD-0221,Blender Premium,Home & Kitchen,5,4653.75,916.0,Delhi,Delhi,Credit Card,New,4.6
+ORD-00479,2025-12-21,CUST-0029,Vikram,PROD-0234,Face Cream,Beauty,1,938.49,140.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.7
+ORD-00480,2025-01-03,CUST-0030,Priya,PROD-0247,Yoga Mat,Sports,2,1495.72,201.0,Kolkata,West Bengal,UPI,Returning,5.0
+ORD-00481,2025-08-05,CUST-0031,Manish,PROD-0260,Cricket Kit,Sports,5,7630.04,603.0,Mumbai,Maharashtra,Debit Card,New,3.8
+ORD-00482,2025-05-09,CUST-0032,Ananya,PROD-0273,Motivational Leadership,Books,2,1140.17,66.0,Jaipur,Rajasthan,Net Banking,New,4.0
+ORD-00483,2024-01-06,CUST-0033,Sanjay,PROD-0286,4K Monitor,Electronics,4,32439.11,1223.0,Chennai,Tamil Nadu,Credit Card,New,3.0
+ORD-00484,2025-12-19,CUST-0034,Kavya,PROD-0299,Running Shoes,Fashion,4,2580.61,81.0,Bengaluru,Karnataka,Cash on Delivery,New,3.4
+ORD-00485,2024-06-11,CUST-0035,Siddharth,PROD-0312,Bamboo Storage Box,Home & Kitchen,2,1476.92,188.0,Ahmedabad,Gujarat,UPI,Returning,5.0
+ORD-00486,2025-10-01,CUST-0036,Meera,PROD-0325,Skin Serum,Beauty,1,1768.79,217.0,Hyderabad,Telangana,Debit Card,New,4.4
+ORD-00487,2024-12-16,CUST-0037,Rohan,PROD-0338,Sunscreen SPF 50,Beauty,3,1090.3,172.0,Patna,Bihar,Net Banking,New,3.1
+ORD-00488,2025-07-16,CUST-0038,Ishita,PROD-0351,Fitness Band,Sports,5,3150.93,157.0,Pune,Maharashtra,Credit Card,New,3.1
+ORD-00489,2025-11-23,CUST-0039,Nitin,PROD-0364,Data Science Essentials,Books,2,1350.94,164.0,Delhi,Delhi,Cash on Delivery,New,3.7
+ORD-00490,2025-06-03,CUST-0040,Pooja,PROD-0377,Laptop Pro 14,Electronics,1,63128.92,11589.0,Lucknow,Uttar Pradesh,UPI,Returning,3.8
+ORD-00491,2025-08-20,CUST-0041,Arjun,PROD-0390,Denim Jacket,Fashion,4,2410.85,239.0,Kolkata,West Bengal,Debit Card,New,4.6
+ORD-00492,2024-10-16,CUST-0042,Divya,PROD-0403,Air Fryer,Home & Kitchen,5,6407.21,1078.0,Mumbai,Maharashtra,Net Banking,New,4.8
+ORD-00493,2025-01-18,CUST-0043,Yash,PROD-0416,Vacuum Flask,Home & Kitchen,5,1656.03,16.0,Jaipur,Rajasthan,Credit Card,New,4.1
+ORD-00494,2025-10-08,CUST-0044,Tanvi,PROD-0429,Lipstick Set,Beauty,5,1526.37,224.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.3
+ORD-00495,2025-08-03,CUST-0045,Harsh,PROD-0442,Treadmill,Sports,3,41267.03,4385.0,Bengaluru,Karnataka,UPI,Returning,5.0
+ORD-00496,2025-11-30,CUST-0046,Deepa,PROD-0455,Business Strategy,Books,2,912.68,62.0,Ahmedabad,Gujarat,Debit Card,New,3.9
+ORD-00497,2024-03-16,CUST-0047,Saurabh,PROD-0468,Smart Watch X,Electronics,1,11446.7,1455.0,Hyderabad,Telangana,Net Banking,New,4.4
+ORD-00498,2025-04-12,CUST-0048,Ritika,PROD-0481,Cotton T-Shirt,Fashion,3,898.69,11.0,Patna,Bihar,Credit Card,New,4.9
+ORD-00499,2025-12-10,CUST-0049,Puneet,PROD-0494,Ladies Kurta,Fashion,1,2610.45,464.0,Pune,Maharashtra,Cash on Delivery,New,2.6
+ORD-00500,2025-12-10,CUST-0050,Shreya,PROD-0507,Dining Set,Home & Kitchen,3,6404.42,337.0,Delhi,Delhi,UPI,Returning,4.3
+ORD-00501,2024-07-31,CUST-0051,Asha,PROD-0520,Makeup Kit,Beauty,4,2344.31,432.0,Lucknow,Uttar Pradesh,Debit Card,New,4.6
+ORD-00502,2024-03-28,CUST-0052,Rahul,PROD-0533,Cycling Helmet,Sports,2,2456.06,92.0,Kolkata,West Bengal,Net Banking,New,3.7
+ORD-00503,2025-01-20,CUST-0053,Neha,PROD-0546,Startup Playbook,Books,1,748.69,148.0,Mumbai,Maharashtra,Credit Card,New,4.3
+ORD-00504,2025-07-19,CUST-0054,Vikram,PROD-0559,Noise Buds Pro,Electronics,5,5949.41,101.0,Jaipur,Rajasthan,Cash on Delivery,New,4.2
+ORD-00505,2025-11-16,CUST-0055,Priya,PROD-0572,Wireless Mouse,Electronics,3,1827.63,322.0,Chennai,Tamil Nadu,UPI,Returning,4.0
+ORD-00506,2024-09-09,CUST-0056,Manish,PROD-0585,Formal Shirt,Fashion,4,1684.42,237.0,Bengaluru,Karnataka,Debit Card,New,3.2
+ORD-00507,2024-11-04,CUST-0057,Ananya,PROD-0598,Rice Cooker,Home & Kitchen,1,3893.56,132.0,Ahmedabad,Gujarat,Net Banking,New,4.3
+ORD-00508,2025-09-06,CUST-0058,Sanjay,PROD-0611,Hair Dryer,Beauty,1,2556.92,409.0,Hyderabad,Telangana,Credit Card,New,3.3
+ORD-00509,2025-10-05,CUST-0059,Kavya,PROD-0624,Dumbbell Set,Sports,5,5311.49,729.0,Patna,Bihar,Cash on Delivery,New,3.8
+ORD-00510,2024-06-07,CUST-0060,Siddharth,PROD-0637,Python for Beginners,Books,4,736.63,111.0,Pune,Maharashtra,UPI,Returning,3.7
+ORD-00511,2024-06-30,CUST-0061,Meera,PROD-0650,Young Investor Guide,Books,4,732.21,133.0,Delhi,Delhi,Debit Card,New,3.8
+ORD-00512,2025-03-29,CUST-0062,Rohan,PROD-0663,USB-C Hub,Electronics,2,2941.68,167.0,Lucknow,Uttar Pradesh,Net Banking,New,5.0
+ORD-00513,2025-03-26,CUST-0063,Ishita,PROD-0676,Leather Sling Bag,Fashion,1,3385.42,422.0,Kolkata,West Bengal,Credit Card,New,3.4
+ORD-00514,2024-02-24,CUST-0064,Nitin,PROD-0689,Blender Premium,Home & Kitchen,4,4963.93,605.0,Mumbai,Maharashtra,Cash on Delivery,New,3.5
+ORD-00515,2024-08-29,CUST-0065,Pooja,PROD-0702,Face Cream,Beauty,1,848.08,69.0,Jaipur,Rajasthan,UPI,Returning,4.8
+ORD-00516,2024-06-22,CUST-0066,Arjun,PROD-0715,Yoga Mat,Sports,3,1651.62,255.0,Chennai,Tamil Nadu,Debit Card,New,4.0
+ORD-00517,2025-01-29,CUST-0067,Divya,PROD-0728,Cricket Kit,Sports,3,7551.96,824.0,Bengaluru,Karnataka,Net Banking,New,3.3
+ORD-00518,2025-11-08,CUST-0068,Yash,PROD-0741,Motivational Leadership,Books,3,1087.66,157.0,Ahmedabad,Gujarat,Credit Card,New,3.3
+ORD-00519,2024-03-28,CUST-0069,Tanvi,PROD-0754,4K Monitor,Electronics,5,30023.76,3174.0,Hyderabad,Telangana,Cash on Delivery,New,5.0
+ORD-00520,2024-12-17,CUST-0070,Harsh,PROD-0767,Running Shoes,Fashion,1,2198.75,294.0,Patna,Bihar,UPI,Returning,3.5
+ORD-00521,2025-01-09,CUST-0071,Deepa,PROD-0780,Bamboo Storage Box,Home & Kitchen,2,1473.27,145.0,Pune,Maharashtra,Debit Card,New,5.0
+ORD-00522,2024-06-07,CUST-0072,Saurabh,PROD-0793,Skin Serum,Beauty,3,1583.72,135.0,Delhi,Delhi,Net Banking,New,3.0
+ORD-00523,2025-01-28,CUST-0073,Ritika,PROD-0806,Sunscreen SPF 50,Beauty,3,1114.86,0.0,Lucknow,Uttar Pradesh,Credit Card,New,4.0
+ORD-00524,2025-02-20,CUST-0074,Puneet,PROD-0819,Fitness Band,Sports,4,2747.31,118.0,Kolkata,West Bengal,Cash on Delivery,New,4.1
+ORD-00525,2024-05-22,CUST-0075,Shreya,PROD-0832,Data Science Essentials,Books,1,1081.07,204.0,Mumbai,Maharashtra,UPI,Returning,4.2
+ORD-00526,2024-10-27,CUST-0076,Asha,PROD-0845,Laptop Pro 14,Electronics,2,76297.57,4701.0,Jaipur,Rajasthan,Debit Card,New,4.3
+ORD-00527,2024-04-24,CUST-0077,Rahul,PROD-0858,Denim Jacket,Fashion,1,3516.18,162.0,Chennai,Tamil Nadu,Net Banking,New,4.2
+ORD-00528,2025-12-30,CUST-0078,Neha,PROD-0871,Air Fryer,Home & Kitchen,4,9272.73,667.0,Bengaluru,Karnataka,Credit Card,New,2.8
+ORD-00529,2025-04-11,CUST-0079,Vikram,PROD-0884,Vacuum Flask,Home & Kitchen,4,1331.76,76.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.3
+ORD-00530,2025-12-23,CUST-0080,Priya,PROD-0897,Lipstick Set,Beauty,3,1674.72,2.0,Hyderabad,Telangana,UPI,Returning,4.5
+ORD-00531,2024-08-23,CUST-0081,Manish,PROD-0910,Treadmill,Sports,2,42558.2,5439.0,Patna,Bihar,Debit Card,New,4.7
+ORD-00532,2025-08-30,CUST-0082,Ananya,PROD-0923,Business Strategy,Books,2,1163.11,155.0,Pune,Maharashtra,Net Banking,New,4.7
+ORD-00533,2025-11-02,CUST-0083,Sanjay,PROD-0936,Smart Watch X,Electronics,5,12533.9,1102.0,Delhi,Delhi,Credit Card,New,3.6
+ORD-00534,2024-07-15,CUST-0084,Kavya,PROD-0949,Cotton T-Shirt,Fashion,5,1038.08,199.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.4
+ORD-00535,2025-02-24,CUST-0085,Siddharth,PROD-0962,Ladies Kurta,Fashion,4,2359.6,258.0,Kolkata,West Bengal,UPI,Returning,4.3
+ORD-00536,2025-06-30,CUST-0086,Meera,PROD-0975,Dining Set,Home & Kitchen,4,7286.36,989.0,Mumbai,Maharashtra,Debit Card,New,3.6
+ORD-00537,2025-01-23,CUST-0087,Rohan,PROD-0988,Makeup Kit,Beauty,3,2118.98,140.0,Jaipur,Rajasthan,Net Banking,New,4.8
+ORD-00538,2024-06-15,CUST-0088,Ishita,PROD-0002,Cycling Helmet,Sports,5,2919.04,32.0,Chennai,Tamil Nadu,Credit Card,New,4.2
+ORD-00539,2024-03-22,CUST-0089,Nitin,PROD-0015,Startup Playbook,Books,5,727.55,80.0,Bengaluru,Karnataka,Cash on Delivery,New,4.7
+ORD-00540,2024-07-19,CUST-0090,Pooja,PROD-0028,Noise Buds Pro,Electronics,1,6138.45,1095.0,Ahmedabad,Gujarat,UPI,Returning,4.7
+ORD-00541,2024-01-17,CUST-0091,Arjun,PROD-0041,Wireless Mouse,Electronics,1,1785.1,19.0,Hyderabad,Telangana,Debit Card,New,4.1
+ORD-00542,2025-03-18,CUST-0092,Divya,PROD-0054,Formal Shirt,Fashion,5,1465.57,152.0,Patna,Bihar,Net Banking,New,4.7
+ORD-00543,2025-04-02,CUST-0093,Yash,PROD-0067,Rice Cooker,Home & Kitchen,4,2806.76,248.0,Pune,Maharashtra,Credit Card,New,4.9
+ORD-00544,2024-05-10,CUST-0094,Tanvi,PROD-0080,Hair Dryer,Beauty,5,2262.87,248.0,Delhi,Delhi,Cash on Delivery,New,4.7
+ORD-00545,2025-08-13,CUST-0095,Harsh,PROD-0093,Dumbbell Set,Sports,2,3899.1,428.0,Lucknow,Uttar Pradesh,UPI,Returning,4.8
+ORD-00546,2025-03-13,CUST-0096,Deepa,PROD-0106,Python for Beginners,Books,4,882.42,34.0,Kolkata,West Bengal,Debit Card,New,3.5
+ORD-00547,2025-07-17,CUST-0097,Saurabh,PROD-0119,Young Investor Guide,Books,5,734.05,72.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-00548,2024-02-03,CUST-0098,Ritika,PROD-0132,USB-C Hub,Electronics,2,2529.51,371.0,Jaipur,Rajasthan,Credit Card,New,5.0
+ORD-00549,2025-01-31,CUST-0099,Puneet,PROD-0145,Leather Sling Bag,Fashion,3,3181.36,453.0,Chennai,Tamil Nadu,Cash on Delivery,New,2.8
+ORD-00550,2025-07-20,CUST-0100,Shreya,PROD-0158,Blender Premium,Home & Kitchen,4,4819.6,608.0,Bengaluru,Karnataka,UPI,Returning,3.1
+ORD-00551,2025-03-29,CUST-0101,Asha,PROD-0171,Face Cream,Beauty,2,855.31,122.0,Ahmedabad,Gujarat,Debit Card,New,3.7
+ORD-00552,2024-02-01,CUST-0102,Rahul,PROD-0184,Yoga Mat,Sports,4,1328.6,47.0,Hyderabad,Telangana,Net Banking,New,3.8
+ORD-00553,2024-04-11,CUST-0103,Neha,PROD-0197,Cricket Kit,Sports,3,6529.99,594.0,Patna,Bihar,Credit Card,New,3.9
+ORD-00554,2024-05-26,CUST-0104,Vikram,PROD-0210,Motivational Leadership,Books,5,1225.2,107.0,Pune,Maharashtra,Cash on Delivery,New,4.6
+ORD-00555,2025-01-06,CUST-0105,Priya,PROD-0223,4K Monitor,Electronics,3,34060.67,121.0,Delhi,Delhi,UPI,Returning,3.4
+ORD-00556,2025-12-09,CUST-0106,Manish,PROD-0236,Running Shoes,Fashion,1,2433.59,348.0,Lucknow,Uttar Pradesh,Debit Card,New,4.5
+ORD-00557,2024-02-18,CUST-0107,Ananya,PROD-0249,Bamboo Storage Box,Home & Kitchen,2,1526.54,297.0,Kolkata,West Bengal,Net Banking,New,4.6
+ORD-00558,2025-03-24,CUST-0108,Sanjay,PROD-0262,Skin Serum,Beauty,5,1929.86,362.0,Mumbai,Maharashtra,Credit Card,New,3.8
+ORD-00559,2025-06-01,CUST-0109,Kavya,PROD-0275,Sunscreen SPF 50,Beauty,4,975.81,112.0,Jaipur,Rajasthan,Cash on Delivery,New,3.2
+ORD-00560,2025-09-11,CUST-0110,Siddharth,PROD-0288,Fitness Band,Sports,1,3793.41,139.0,Chennai,Tamil Nadu,UPI,Returning,5.0
+ORD-00561,2024-04-05,CUST-0111,Meera,PROD-0301,Data Science Essentials,Books,4,1160.66,118.0,Bengaluru,Karnataka,Debit Card,New,3.8
+ORD-00562,2024-05-07,CUST-0112,Rohan,PROD-0314,Laptop Pro 14,Electronics,4,67779.81,13149.0,Ahmedabad,Gujarat,Net Banking,New,3.0
+ORD-00563,2024-03-12,CUST-0113,Ishita,PROD-0327,Denim Jacket,Fashion,4,3563.97,330.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-00564,2024-10-03,CUST-0114,Nitin,PROD-0340,Air Fryer,Home & Kitchen,2,9307.13,1222.0,Patna,Bihar,Cash on Delivery,New,3.4
+ORD-00565,2024-03-31,CUST-0115,Pooja,PROD-0353,Vacuum Flask,Home & Kitchen,4,1570.92,76.0,Pune,Maharashtra,UPI,Returning,3.3
+ORD-00566,2025-12-21,CUST-0116,Arjun,PROD-0366,Lipstick Set,Beauty,2,1494.51,192.0,Delhi,Delhi,Debit Card,New,3.9
+ORD-00567,2024-08-14,CUST-0117,Divya,PROD-0379,Treadmill,Sports,3,39585.89,699.0,Lucknow,Uttar Pradesh,Net Banking,New,3.6
+ORD-00568,2025-07-04,CUST-0118,Yash,PROD-0392,Business Strategy,Books,1,1136.52,172.0,Kolkata,West Bengal,Credit Card,New,4.4
+ORD-00569,2024-08-19,CUST-0119,Tanvi,PROD-0405,Smart Watch X,Electronics,3,11904.32,797.0,Mumbai,Maharashtra,Cash on Delivery,New,4.4
+ORD-00570,2025-11-26,CUST-0120,Harsh,PROD-0418,Cotton T-Shirt,Fashion,5,897.43,144.0,Jaipur,Rajasthan,UPI,Returning,4.0
+ORD-00571,2024-07-25,CUST-0121,Deepa,PROD-0431,Ladies Kurta,Fashion,1,2683.75,62.0,Chennai,Tamil Nadu,Debit Card,New,3.8
+ORD-00572,2025-05-16,CUST-0122,Saurabh,PROD-0444,Dining Set,Home & Kitchen,1,6442.9,241.0,Bengaluru,Karnataka,Net Banking,New,4.5
+ORD-00573,2025-05-18,CUST-0123,Ritika,PROD-0457,Makeup Kit,Beauty,3,2132.8,122.0,Ahmedabad,Gujarat,Credit Card,New,3.9
+ORD-00574,2024-07-23,CUST-0124,Puneet,PROD-0470,Cycling Helmet,Sports,3,3017.28,162.0,Hyderabad,Telangana,Cash on Delivery,New,4.3
+ORD-00575,2025-07-08,CUST-0125,Shreya,PROD-0483,Startup Playbook,Books,4,868.4,106.0,Patna,Bihar,UPI,Returning,4.7
+ORD-00576,2024-06-30,CUST-0126,Asha,PROD-0496,Noise Buds Pro,Electronics,1,4533.54,410.0,Pune,Maharashtra,Debit Card,New,4.5
+ORD-00577,2025-09-10,CUST-0127,Rahul,PROD-0509,Wireless Mouse,Electronics,2,1956.42,154.0,Delhi,Delhi,Net Banking,New,4.2
+ORD-00578,2024-01-16,CUST-0128,Neha,PROD-0522,Formal Shirt,Fashion,3,1793.94,52.0,Lucknow,Uttar Pradesh,Credit Card,New,4.3
+ORD-00579,2024-03-11,CUST-0129,Vikram,PROD-0535,Rice Cooker,Home & Kitchen,4,3330.81,230.0,Kolkata,West Bengal,Cash on Delivery,New,3.2
+ORD-00580,2024-01-17,CUST-0130,Priya,PROD-0548,Hair Dryer,Beauty,4,3426.63,222.0,Mumbai,Maharashtra,UPI,Returning,4.9
+ORD-00581,2025-01-01,CUST-0131,Manish,PROD-0561,Dumbbell Set,Sports,2,4168.57,637.0,Jaipur,Rajasthan,Debit Card,New,4.4
+ORD-00582,2025-12-17,CUST-0132,Ananya,PROD-0574,Python for Beginners,Books,4,953.84,187.0,Chennai,Tamil Nadu,Net Banking,New,3.9
+ORD-00583,2025-08-02,CUST-0133,Sanjay,PROD-0587,Young Investor Guide,Books,2,820.27,73.0,Bengaluru,Karnataka,Credit Card,New,4.4
+ORD-00584,2024-01-12,CUST-0134,Kavya,PROD-0600,USB-C Hub,Electronics,2,3483.17,132.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.4
+ORD-00585,2024-04-20,CUST-0135,Siddharth,PROD-0613,Leather Sling Bag,Fashion,1,3715.77,626.0,Hyderabad,Telangana,UPI,Returning,3.3
+ORD-00586,2024-04-05,CUST-0136,Meera,PROD-0626,Blender Premium,Home & Kitchen,5,4548.62,16.0,Patna,Bihar,Debit Card,New,4.3
+ORD-00587,2024-01-07,CUST-0137,Rohan,PROD-0639,Face Cream,Beauty,4,849.87,85.0,Pune,Maharashtra,Net Banking,New,4.6
+ORD-00588,2025-12-09,CUST-0138,Ishita,PROD-0652,Yoga Mat,Sports,5,1495.42,296.0,Delhi,Delhi,Credit Card,New,4.3
+ORD-00589,2024-04-04,CUST-0139,Nitin,PROD-0665,Cricket Kit,Sports,5,7844.29,791.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.2
+ORD-00590,2024-10-11,CUST-0140,Pooja,PROD-0678,Motivational Leadership,Books,2,1193.64,206.0,Kolkata,West Bengal,UPI,Returning,3.9
+ORD-00591,2024-05-25,CUST-0141,Arjun,PROD-0691,4K Monitor,Electronics,5,24830.05,4850.0,Mumbai,Maharashtra,Debit Card,New,4.7
+ORD-00592,2024-05-26,CUST-0142,Divya,PROD-0704,Running Shoes,Fashion,1,2081.15,234.0,Jaipur,Rajasthan,Net Banking,New,3.9
+ORD-00593,2025-01-04,CUST-0143,Yash,PROD-0717,Bamboo Storage Box,Home & Kitchen,3,1607.39,58.0,Chennai,Tamil Nadu,Credit Card,New,4.4
+ORD-00594,2025-06-07,CUST-0144,Tanvi,PROD-0730,Skin Serum,Beauty,2,1718.01,104.0,Bengaluru,Karnataka,Cash on Delivery,New,3.7
+ORD-00595,2024-07-13,CUST-0145,Harsh,PROD-0743,Sunscreen SPF 50,Beauty,4,1324.99,95.0,Ahmedabad,Gujarat,UPI,Returning,4.7
+ORD-00596,2024-09-07,CUST-0146,Deepa,PROD-0756,Fitness Band,Sports,2,4048.79,347.0,Hyderabad,Telangana,Debit Card,New,4.7
+ORD-00597,2025-05-10,CUST-0147,Saurabh,PROD-0769,Data Science Essentials,Books,3,1057.2,104.0,Patna,Bihar,Net Banking,New,5.0
+ORD-00598,2025-08-12,CUST-0148,Ritika,PROD-0782,Laptop Pro 14,Electronics,4,60335.03,3580.0,Pune,Maharashtra,Credit Card,New,3.9
+ORD-00599,2025-05-15,CUST-0149,Puneet,PROD-0795,Denim Jacket,Fashion,2,3262.21,396.0,Delhi,Delhi,Cash on Delivery,New,3.4
+ORD-00600,2024-04-28,CUST-0150,Shreya,PROD-0808,Air Fryer,Home & Kitchen,5,7494.31,789.0,Lucknow,Uttar Pradesh,UPI,Returning,4.5
+ORD-00601,2024-09-10,CUST-0151,Asha,PROD-0821,Vacuum Flask,Home & Kitchen,5,1284.65,137.0,Kolkata,West Bengal,Debit Card,New,4.9
+ORD-00602,2024-07-12,CUST-0152,Rahul,PROD-0834,Lipstick Set,Beauty,1,1635.24,198.0,Mumbai,Maharashtra,Net Banking,New,4.0
+ORD-00603,2025-08-24,CUST-0153,Neha,PROD-0847,Treadmill,Sports,5,32642.96,706.0,Jaipur,Rajasthan,Credit Card,New,4.0
+ORD-00604,2024-05-20,CUST-0154,Vikram,PROD-0860,Business Strategy,Books,1,1038.64,56.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.2
+ORD-00605,2024-08-26,CUST-0155,Priya,PROD-0873,Smart Watch X,Electronics,3,9624.47,741.0,Bengaluru,Karnataka,UPI,Returning,3.6
+ORD-00606,2024-05-27,CUST-0156,Manish,PROD-0886,Cotton T-Shirt,Fashion,1,729.17,32.0,Ahmedabad,Gujarat,Debit Card,New,4.3
+ORD-00607,2025-08-06,CUST-0157,Ananya,PROD-0899,Ladies Kurta,Fashion,3,2727.16,540.0,Hyderabad,Telangana,Net Banking,New,4.1
+ORD-00608,2025-07-18,CUST-0158,Sanjay,PROD-0912,Dining Set,Home & Kitchen,3,6977.06,46.0,Patna,Bihar,Credit Card,New,4.3
+ORD-00609,2024-03-29,CUST-0159,Kavya,PROD-0925,Makeup Kit,Beauty,4,2963.71,500.0,Pune,Maharashtra,Cash on Delivery,New,4.8
+ORD-00610,2024-08-13,CUST-0160,Siddharth,PROD-0938,Cycling Helmet,Sports,4,3387.02,518.0,Delhi,Delhi,UPI,Returning,3.6
+ORD-00611,2024-01-27,CUST-0161,Meera,PROD-0951,Startup Playbook,Books,3,1116.31,21.0,Lucknow,Uttar Pradesh,Debit Card,New,4.4
+ORD-00612,2024-01-25,CUST-0162,Rohan,PROD-0964,Noise Buds Pro,Electronics,1,6139.35,163.0,Kolkata,West Bengal,Net Banking,New,4.0
+ORD-00613,2024-09-11,CUST-0163,Ishita,PROD-0977,Wireless Mouse,Electronics,4,1800.61,288.0,Mumbai,Maharashtra,Credit Card,New,3.5
+ORD-00614,2024-10-29,CUST-0164,Nitin,PROD-0990,Formal Shirt,Fashion,1,1555.9,305.0,Jaipur,Rajasthan,Cash on Delivery,New,4.5
+ORD-00615,2025-09-12,CUST-0165,Pooja,PROD-0004,Rice Cooker,Home & Kitchen,4,3096.79,277.0,Chennai,Tamil Nadu,UPI,Returning,4.5
+ORD-00616,2024-07-16,CUST-0166,Arjun,PROD-0017,Hair Dryer,Beauty,3,3347.92,124.0,Bengaluru,Karnataka,Debit Card,New,4.4
+ORD-00617,2024-02-07,CUST-0167,Divya,PROD-0030,Dumbbell Set,Sports,5,4254.55,362.0,Ahmedabad,Gujarat,Net Banking,New,4.2
+ORD-00618,2025-01-01,CUST-0168,Yash,PROD-0043,Python for Beginners,Books,3,719.05,53.0,Hyderabad,Telangana,Credit Card,New,4.3
+ORD-00619,2024-12-18,CUST-0169,Tanvi,PROD-0056,Young Investor Guide,Books,4,826.84,58.0,Patna,Bihar,Cash on Delivery,New,4.5
+ORD-00620,2025-12-08,CUST-0170,Harsh,PROD-0069,USB-C Hub,Electronics,5,2569.87,344.0,Pune,Maharashtra,UPI,Returning,3.9
+ORD-00621,2025-11-07,CUST-0171,Deepa,PROD-0082,Leather Sling Bag,Fashion,3,4615.42,894.0,Delhi,Delhi,Debit Card,New,4.0
+ORD-00622,2025-08-20,CUST-0172,Saurabh,PROD-0095,Blender Premium,Home & Kitchen,3,3938.97,178.0,Lucknow,Uttar Pradesh,Net Banking,New,5.0
+ORD-00623,2024-09-14,CUST-0173,Ritika,PROD-0108,Face Cream,Beauty,2,1226.95,64.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-00624,2024-02-12,CUST-0174,Puneet,PROD-0121,Yoga Mat,Sports,3,1637.42,85.0,Mumbai,Maharashtra,Cash on Delivery,New,3.5
+ORD-00625,2024-08-03,CUST-0175,Shreya,PROD-0134,Cricket Kit,Sports,1,5508.27,899.0,Jaipur,Rajasthan,UPI,Returning,4.3
+ORD-00626,2024-03-27,CUST-0176,Asha,PROD-0147,Motivational Leadership,Books,2,1107.08,84.0,Chennai,Tamil Nadu,Debit Card,New,3.4
+ORD-00627,2024-03-29,CUST-0177,Rahul,PROD-0160,4K Monitor,Electronics,2,24823.69,4442.0,Bengaluru,Karnataka,Net Banking,New,4.4
+ORD-00628,2024-11-19,CUST-0178,Neha,PROD-0173,Running Shoes,Fashion,3,2390.9,235.0,Ahmedabad,Gujarat,Credit Card,New,3.8
+ORD-00629,2024-08-17,CUST-0179,Vikram,PROD-0186,Bamboo Storage Box,Home & Kitchen,4,1818.45,37.0,Hyderabad,Telangana,Cash on Delivery,New,4.6
+ORD-00630,2025-11-04,CUST-0180,Priya,PROD-0199,Skin Serum,Beauty,5,1824.76,281.0,Patna,Bihar,UPI,Returning,5.0
+ORD-00631,2024-09-08,CUST-0181,Manish,PROD-0212,Sunscreen SPF 50,Beauty,5,1363.45,31.0,Pune,Maharashtra,Debit Card,New,3.7
+ORD-00632,2024-11-26,CUST-0182,Ananya,PROD-0225,Fitness Band,Sports,2,3231.67,441.0,Delhi,Delhi,Net Banking,New,4.0
+ORD-00633,2024-12-14,CUST-0183,Sanjay,PROD-0238,Data Science Essentials,Books,2,1482.76,56.0,Lucknow,Uttar Pradesh,Credit Card,New,4.2
+ORD-00634,2024-01-29,CUST-0184,Kavya,PROD-0251,Laptop Pro 14,Electronics,4,58347.68,6897.0,Kolkata,West Bengal,Cash on Delivery,New,3.9
+ORD-00635,2025-08-06,CUST-0185,Siddharth,PROD-0264,Denim Jacket,Fashion,1,3190.87,216.0,Mumbai,Maharashtra,UPI,Returning,2.9
+ORD-00636,2025-10-01,CUST-0186,Meera,PROD-0277,Air Fryer,Home & Kitchen,5,8918.53,717.0,Jaipur,Rajasthan,Debit Card,New,4.1
+ORD-00637,2024-12-07,CUST-0187,Rohan,PROD-0290,Vacuum Flask,Home & Kitchen,5,1408.34,90.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-00638,2024-09-26,CUST-0188,Ishita,PROD-0303,Lipstick Set,Beauty,2,1115.45,105.0,Bengaluru,Karnataka,Credit Card,New,4.2
+ORD-00639,2024-08-12,CUST-0189,Nitin,PROD-0316,Treadmill,Sports,4,31950.35,2466.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.1
+ORD-00640,2024-09-09,CUST-0190,Pooja,PROD-0329,Business Strategy,Books,4,1092.98,53.0,Hyderabad,Telangana,UPI,Returning,3.8
+ORD-00641,2024-07-12,CUST-0191,Arjun,PROD-0342,Smart Watch X,Electronics,5,9803.82,1513.0,Patna,Bihar,Debit Card,New,4.6
+ORD-00642,2025-10-26,CUST-0192,Divya,PROD-0355,Cotton T-Shirt,Fashion,5,927.63,22.0,Pune,Maharashtra,Net Banking,New,4.5
+ORD-00643,2025-01-28,CUST-0193,Yash,PROD-0368,Ladies Kurta,Fashion,2,2227.98,26.0,Delhi,Delhi,Credit Card,New,4.8
+ORD-00644,2024-03-08,CUST-0194,Tanvi,PROD-0381,Dining Set,Home & Kitchen,5,7451.51,28.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.6
+ORD-00645,2024-02-29,CUST-0195,Harsh,PROD-0394,Makeup Kit,Beauty,1,2805.4,71.0,Kolkata,West Bengal,UPI,Returning,4.1
+ORD-00646,2025-04-04,CUST-0196,Deepa,PROD-0407,Cycling Helmet,Sports,4,3468.84,415.0,Mumbai,Maharashtra,Debit Card,New,3.7
+ORD-00647,2024-02-02,CUST-0197,Saurabh,PROD-0420,Startup Playbook,Books,3,1055.66,159.0,Jaipur,Rajasthan,Net Banking,New,3.4
+ORD-00648,2024-06-06,CUST-0198,Ritika,PROD-0433,Noise Buds Pro,Electronics,1,5889.3,835.0,Chennai,Tamil Nadu,Credit Card,New,5.0
+ORD-00649,2025-10-16,CUST-0199,Puneet,PROD-0446,Wireless Mouse,Electronics,4,1664.06,215.0,Bengaluru,Karnataka,Cash on Delivery,New,3.4
+ORD-00650,2024-05-29,CUST-0200,Shreya,PROD-0459,Formal Shirt,Fashion,2,1876.58,116.0,Ahmedabad,Gujarat,UPI,Returning,3.5
+ORD-00651,2024-07-19,CUST-0201,Asha,PROD-0472,Rice Cooker,Home & Kitchen,3,3845.03,683.0,Hyderabad,Telangana,Debit Card,New,3.6
+ORD-00652,2025-05-31,CUST-0202,Rahul,PROD-0485,Hair Dryer,Beauty,2,3463.7,114.0,Patna,Bihar,Net Banking,New,3.2
+ORD-00653,2024-02-23,CUST-0203,Neha,PROD-0498,Dumbbell Set,Sports,2,4197.2,258.0,Pune,Maharashtra,Credit Card,New,3.8
+ORD-00654,2024-01-04,CUST-0204,Vikram,PROD-0511,Python for Beginners,Books,4,644.19,115.0,Delhi,Delhi,Cash on Delivery,New,5.0
+ORD-00655,2024-06-24,CUST-0205,Priya,PROD-0524,Young Investor Guide,Books,5,893.5,169.0,Lucknow,Uttar Pradesh,UPI,Returning,4.7
+ORD-00656,2024-08-24,CUST-0206,Manish,PROD-0537,USB-C Hub,Electronics,3,2794.05,51.0,Kolkata,West Bengal,Debit Card,New,4.4
+ORD-00657,2025-03-26,CUST-0207,Ananya,PROD-0550,Leather Sling Bag,Fashion,3,4195.59,362.0,Mumbai,Maharashtra,Net Banking,New,4.6
+ORD-00658,2024-10-07,CUST-0208,Sanjay,PROD-0563,Blender Premium,Home & Kitchen,5,3756.55,294.0,Jaipur,Rajasthan,Credit Card,New,4.1
+ORD-00659,2024-03-14,CUST-0209,Kavya,PROD-0576,Face Cream,Beauty,4,938.32,66.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.6
+ORD-00660,2025-11-02,CUST-0210,Siddharth,PROD-0589,Yoga Mat,Sports,4,1491.44,184.0,Bengaluru,Karnataka,UPI,Returning,4.5
+ORD-00661,2024-08-01,CUST-0211,Meera,PROD-0602,Cricket Kit,Sports,5,6498.56,87.0,Ahmedabad,Gujarat,Debit Card,New,4.8
+ORD-00662,2024-06-01,CUST-0212,Rohan,PROD-0615,Motivational Leadership,Books,2,1252.32,83.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-00663,2024-04-23,CUST-0213,Ishita,PROD-0628,4K Monitor,Electronics,1,28723.83,3295.0,Patna,Bihar,Credit Card,New,5.0
+ORD-00664,2024-04-11,CUST-0214,Nitin,PROD-0641,Running Shoes,Fashion,2,2494.11,153.0,Pune,Maharashtra,Cash on Delivery,New,4.5
+ORD-00665,2025-02-09,CUST-0215,Pooja,PROD-0654,Bamboo Storage Box,Home & Kitchen,1,1733.02,239.0,Delhi,Delhi,UPI,Returning,5.0
+ORD-00666,2024-05-04,CUST-0216,Arjun,PROD-0667,Skin Serum,Beauty,3,1494.38,97.0,Lucknow,Uttar Pradesh,Debit Card,New,5.0
+ORD-00667,2024-01-02,CUST-0217,Divya,PROD-0680,Sunscreen SPF 50,Beauty,3,1042.99,152.0,Kolkata,West Bengal,Net Banking,New,5.0
+ORD-00668,2025-09-01,CUST-0218,Yash,PROD-0693,Fitness Band,Sports,1,3992.49,565.0,Mumbai,Maharashtra,Credit Card,New,3.8
+ORD-00669,2025-06-20,CUST-0219,Tanvi,PROD-0706,Data Science Essentials,Books,2,1020.03,4.0,Jaipur,Rajasthan,Cash on Delivery,New,3.6
+ORD-00670,2024-11-07,CUST-0220,Harsh,PROD-0719,Laptop Pro 14,Electronics,2,73382.37,11270.0,Chennai,Tamil Nadu,UPI,Returning,3.9
+ORD-00671,2024-10-19,CUST-0221,Deepa,PROD-0732,Denim Jacket,Fashion,5,2989.71,292.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-00672,2024-02-07,CUST-0222,Saurabh,PROD-0745,Air Fryer,Home & Kitchen,1,9206.15,1740.0,Ahmedabad,Gujarat,Net Banking,New,5.0
+ORD-00673,2025-07-11,CUST-0223,Ritika,PROD-0758,Vacuum Flask,Home & Kitchen,1,1601.16,284.0,Hyderabad,Telangana,Credit Card,New,4.5
+ORD-00674,2024-09-24,CUST-0224,Puneet,PROD-0771,Lipstick Set,Beauty,2,1330.04,16.0,Patna,Bihar,Cash on Delivery,New,4.0
+ORD-00675,2025-07-13,CUST-0225,Shreya,PROD-0784,Treadmill,Sports,2,34029.31,3145.0,Pune,Maharashtra,UPI,Returning,5.0
+ORD-00676,2024-04-19,CUST-0226,Asha,PROD-0797,Business Strategy,Books,2,1081.44,8.0,Delhi,Delhi,Debit Card,New,2.6
+ORD-00677,2025-12-07,CUST-0227,Rahul,PROD-0810,Smart Watch X,Electronics,2,8701.07,1048.0,Lucknow,Uttar Pradesh,Net Banking,New,4.9
+ORD-00678,2024-04-19,CUST-0228,Neha,PROD-0823,Cotton T-Shirt,Fashion,5,814.0,71.0,Kolkata,West Bengal,Credit Card,New,4.2
+ORD-00679,2024-07-15,CUST-0229,Vikram,PROD-0836,Ladies Kurta,Fashion,1,2560.97,24.0,Mumbai,Maharashtra,Cash on Delivery,New,5.0
+ORD-00680,2024-02-22,CUST-0230,Priya,PROD-0849,Dining Set,Home & Kitchen,1,8407.36,179.0,Jaipur,Rajasthan,UPI,Returning,5.0
+ORD-00681,2024-08-11,CUST-0231,Manish,PROD-0862,Makeup Kit,Beauty,2,2374.05,359.0,Chennai,Tamil Nadu,Debit Card,New,4.1
+ORD-00682,2024-07-07,CUST-0232,Ananya,PROD-0875,Cycling Helmet,Sports,3,3627.22,705.0,Bengaluru,Karnataka,Net Banking,New,3.7
+ORD-00683,2024-06-10,CUST-0233,Sanjay,PROD-0888,Startup Playbook,Books,3,940.92,23.0,Ahmedabad,Gujarat,Credit Card,New,4.7
+ORD-00684,2025-10-13,CUST-0234,Kavya,PROD-0901,Noise Buds Pro,Electronics,4,6381.41,597.0,Hyderabad,Telangana,Cash on Delivery,New,3.4
+ORD-00685,2025-09-29,CUST-0235,Siddharth,PROD-0914,Wireless Mouse,Electronics,2,1765.73,87.0,Patna,Bihar,UPI,Returning,4.4
+ORD-00686,2025-05-12,CUST-0236,Meera,PROD-0927,Formal Shirt,Fashion,2,2047.59,221.0,Pune,Maharashtra,Debit Card,New,3.5
+ORD-00687,2024-09-11,CUST-0237,Rohan,PROD-0940,Rice Cooker,Home & Kitchen,3,3504.99,292.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00688,2025-01-20,CUST-0238,Ishita,PROD-0953,Hair Dryer,Beauty,1,2544.86,497.0,Lucknow,Uttar Pradesh,Credit Card,New,3.6
+ORD-00689,2025-07-02,CUST-0239,Nitin,PROD-0966,Dumbbell Set,Sports,5,3846.73,717.0,Kolkata,West Bengal,Cash on Delivery,New,4.0
+ORD-00690,2025-10-19,CUST-0240,Pooja,PROD-0979,Python for Beginners,Books,4,662.98,20.0,Mumbai,Maharashtra,UPI,Returning,2.5
+ORD-00691,2024-07-10,CUST-0241,Arjun,PROD-0992,Young Investor Guide,Books,1,870.9,12.0,Jaipur,Rajasthan,Debit Card,New,4.2
+ORD-00692,2025-06-08,CUST-0242,Divya,PROD-0006,USB-C Hub,Electronics,4,3283.93,585.0,Chennai,Tamil Nadu,Net Banking,New,3.1
+ORD-00693,2024-02-13,CUST-0243,Yash,PROD-0019,Leather Sling Bag,Fashion,3,4368.98,281.0,Bengaluru,Karnataka,Credit Card,New,3.8
+ORD-00694,2024-11-15,CUST-0244,Tanvi,PROD-0032,Blender Premium,Home & Kitchen,3,4927.46,406.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.2
+ORD-00695,2025-05-19,CUST-0245,Harsh,PROD-0045,Face Cream,Beauty,2,881.2,176.0,Hyderabad,Telangana,UPI,Returning,3.0
+ORD-00696,2025-02-21,CUST-0246,Deepa,PROD-0058,Yoga Mat,Sports,3,1481.75,248.0,Patna,Bihar,Debit Card,New,3.9
+ORD-00697,2024-09-09,CUST-0247,Saurabh,PROD-0071,Cricket Kit,Sports,3,7028.59,568.0,Pune,Maharashtra,Net Banking,New,4.6
+ORD-00698,2025-04-13,CUST-0248,Ritika,PROD-0084,Motivational Leadership,Books,4,1132.84,42.0,Delhi,Delhi,Credit Card,New,3.7
+ORD-00699,2025-07-21,CUST-0249,Puneet,PROD-0097,4K Monitor,Electronics,4,29217.68,3651.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.6
+ORD-00700,2025-01-20,CUST-0250,Shreya,PROD-0110,Running Shoes,Fashion,1,1968.46,332.0,Kolkata,West Bengal,UPI,Returning,2.5
+ORD-00701,2024-05-13,CUST-0251,Asha,PROD-0123,Bamboo Storage Box,Home & Kitchen,3,1227.82,167.0,Mumbai,Maharashtra,Debit Card,New,5.0
+ORD-00702,2025-08-27,CUST-0252,Rahul,PROD-0136,Skin Serum,Beauty,2,2025.95,365.0,Jaipur,Rajasthan,Net Banking,New,5.0
+ORD-00703,2025-09-03,CUST-0253,Neha,PROD-0149,Sunscreen SPF 50,Beauty,5,1068.23,126.0,Chennai,Tamil Nadu,Credit Card,New,4.6
+ORD-00704,2025-01-14,CUST-0254,Vikram,PROD-0162,Fitness Band,Sports,5,3783.72,280.0,Bengaluru,Karnataka,Cash on Delivery,New,5.0
+ORD-00705,2024-04-27,CUST-0255,Priya,PROD-0175,Data Science Essentials,Books,2,1067.68,10.0,Ahmedabad,Gujarat,UPI,Returning,5.0
+ORD-00706,2025-01-03,CUST-0256,Manish,PROD-0188,Laptop Pro 14,Electronics,2,85753.12,6546.0,Hyderabad,Telangana,Debit Card,New,5.0
+ORD-00707,2025-09-16,CUST-0257,Ananya,PROD-0201,Denim Jacket,Fashion,5,2778.73,58.0,Patna,Bihar,Net Banking,New,3.5
+ORD-00708,2025-08-08,CUST-0258,Sanjay,PROD-0214,Air Fryer,Home & Kitchen,2,9002.48,1443.0,Pune,Maharashtra,Credit Card,New,3.5
+ORD-00709,2025-11-11,CUST-0259,Kavya,PROD-0227,Vacuum Flask,Home & Kitchen,1,1202.19,96.0,Delhi,Delhi,Cash on Delivery,New,4.1
+ORD-00710,2025-02-07,CUST-0260,Siddharth,PROD-0240,Lipstick Set,Beauty,5,1392.12,276.0,Lucknow,Uttar Pradesh,UPI,Returning,4.7
+ORD-00711,2025-04-02,CUST-0261,Meera,PROD-0253,Treadmill,Sports,4,36776.45,6027.0,Kolkata,West Bengal,Debit Card,New,3.9
+ORD-00712,2025-08-28,CUST-0262,Rohan,PROD-0266,Business Strategy,Books,4,1373.87,136.0,Mumbai,Maharashtra,Net Banking,New,3.8
+ORD-00713,2024-02-10,CUST-0263,Ishita,PROD-0279,Smart Watch X,Electronics,5,12330.21,131.0,Jaipur,Rajasthan,Credit Card,New,3.6
+ORD-00714,2024-12-03,CUST-0264,Nitin,PROD-0292,Cotton T-Shirt,Fashion,3,975.71,172.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.8
+ORD-00715,2024-08-19,CUST-0265,Pooja,PROD-0305,Ladies Kurta,Fashion,5,1895.8,45.0,Bengaluru,Karnataka,UPI,Returning,3.3
+ORD-00716,2024-06-14,CUST-0266,Arjun,PROD-0318,Dining Set,Home & Kitchen,5,6420.27,26.0,Ahmedabad,Gujarat,Debit Card,New,3.7
+ORD-00717,2025-08-12,CUST-0267,Divya,PROD-0331,Makeup Kit,Beauty,5,2158.55,92.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-00718,2025-10-27,CUST-0268,Yash,PROD-0344,Cycling Helmet,Sports,2,3152.79,184.0,Patna,Bihar,Credit Card,New,3.9
+ORD-00719,2024-07-05,CUST-0269,Tanvi,PROD-0357,Startup Playbook,Books,5,1079.64,197.0,Pune,Maharashtra,Cash on Delivery,New,3.6
+ORD-00720,2025-04-11,CUST-0270,Harsh,PROD-0370,Noise Buds Pro,Electronics,4,6049.16,745.0,Delhi,Delhi,UPI,Returning,4.7
+ORD-00721,2024-05-07,CUST-0271,Deepa,PROD-0383,Wireless Mouse,Electronics,3,2067.19,6.0,Lucknow,Uttar Pradesh,Debit Card,New,3.6
+ORD-00722,2024-01-10,CUST-0272,Saurabh,PROD-0396,Formal Shirt,Fashion,4,1631.87,107.0,Kolkata,West Bengal,Net Banking,New,4.1
+ORD-00723,2025-08-29,CUST-0273,Ritika,PROD-0409,Rice Cooker,Home & Kitchen,2,3354.37,340.0,Mumbai,Maharashtra,Credit Card,New,5.0
+ORD-00724,2024-09-30,CUST-0274,Puneet,PROD-0422,Hair Dryer,Beauty,2,2908.27,516.0,Jaipur,Rajasthan,Cash on Delivery,New,4.8
+ORD-00725,2025-02-05,CUST-0275,Shreya,PROD-0435,Dumbbell Set,Sports,3,4238.27,146.0,Chennai,Tamil Nadu,UPI,Returning,3.7
+ORD-00726,2025-04-14,CUST-0276,Asha,PROD-0448,Python for Beginners,Books,3,803.6,17.0,Bengaluru,Karnataka,Debit Card,New,2.7
+ORD-00727,2024-06-22,CUST-0277,Rahul,PROD-0461,Young Investor Guide,Books,2,871.22,49.0,Ahmedabad,Gujarat,Net Banking,New,4.6
+ORD-00728,2024-01-23,CUST-0278,Neha,PROD-0474,USB-C Hub,Electronics,2,2828.52,494.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-00729,2025-05-09,CUST-0279,Vikram,PROD-0487,Leather Sling Bag,Fashion,4,4455.51,605.0,Patna,Bihar,Cash on Delivery,New,4.5
+ORD-00730,2024-01-31,CUST-0280,Priya,PROD-0500,Blender Premium,Home & Kitchen,4,4391.03,418.0,Pune,Maharashtra,UPI,Returning,5.0
+ORD-00731,2025-04-25,CUST-0281,Manish,PROD-0513,Face Cream,Beauty,3,1256.6,165.0,Delhi,Delhi,Debit Card,New,4.3
+ORD-00732,2025-08-26,CUST-0282,Ananya,PROD-0526,Yoga Mat,Sports,3,1656.88,157.0,Lucknow,Uttar Pradesh,Net Banking,New,4.6
+ORD-00733,2025-11-09,CUST-0283,Sanjay,PROD-0539,Cricket Kit,Sports,1,7364.09,913.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-00734,2024-01-19,CUST-0284,Kavya,PROD-0552,Motivational Leadership,Books,1,1225.42,93.0,Mumbai,Maharashtra,Cash on Delivery,New,2.9
+ORD-00735,2025-03-15,CUST-0285,Siddharth,PROD-0565,4K Monitor,Electronics,2,24931.86,382.0,Jaipur,Rajasthan,UPI,Returning,4.2
+ORD-00736,2024-05-01,CUST-0286,Meera,PROD-0578,Running Shoes,Fashion,3,2026.57,83.0,Chennai,Tamil Nadu,Debit Card,New,5.0
+ORD-00737,2025-07-23,CUST-0287,Rohan,PROD-0591,Bamboo Storage Box,Home & Kitchen,1,1667.7,134.0,Bengaluru,Karnataka,Net Banking,New,4.3
+ORD-00738,2024-08-03,CUST-0288,Ishita,PROD-0604,Skin Serum,Beauty,4,1538.57,252.0,Ahmedabad,Gujarat,Credit Card,New,3.6
+ORD-00739,2025-02-18,CUST-0289,Nitin,PROD-0617,Sunscreen SPF 50,Beauty,3,1102.32,19.0,Hyderabad,Telangana,Cash on Delivery,New,4.6
+ORD-00740,2025-05-02,CUST-0290,Pooja,PROD-0630,Fitness Band,Sports,5,3315.7,555.0,Patna,Bihar,UPI,Returning,4.8
+ORD-00741,2024-12-03,CUST-0291,Arjun,PROD-0643,Data Science Essentials,Books,4,1006.45,152.0,Pune,Maharashtra,Debit Card,New,4.0
+ORD-00742,2025-05-01,CUST-0292,Divya,PROD-0656,Laptop Pro 14,Electronics,4,63516.24,9992.0,Delhi,Delhi,Net Banking,New,3.0
+ORD-00743,2024-08-15,CUST-0293,Yash,PROD-0669,Denim Jacket,Fashion,2,3403.73,603.0,Lucknow,Uttar Pradesh,Credit Card,New,2.7
+ORD-00744,2024-12-26,CUST-0294,Tanvi,PROD-0682,Air Fryer,Home & Kitchen,4,7247.95,196.0,Kolkata,West Bengal,Cash on Delivery,New,4.8
+ORD-00745,2024-09-13,CUST-0295,Harsh,PROD-0695,Vacuum Flask,Home & Kitchen,2,1703.68,293.0,Mumbai,Maharashtra,UPI,Returning,4.5
+ORD-00746,2024-06-15,CUST-0296,Deepa,PROD-0708,Lipstick Set,Beauty,5,1654.38,116.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-00747,2024-09-09,CUST-0297,Saurabh,PROD-0721,Treadmill,Sports,5,35558.81,4062.0,Chennai,Tamil Nadu,Net Banking,New,4.5
+ORD-00748,2024-06-25,CUST-0298,Ritika,PROD-0734,Business Strategy,Books,2,1043.23,139.0,Bengaluru,Karnataka,Credit Card,New,4.6
+ORD-00749,2025-05-25,CUST-0299,Puneet,PROD-0747,Smart Watch X,Electronics,3,12093.58,1201.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.1
+ORD-00750,2024-12-05,CUST-0300,Shreya,PROD-0760,Cotton T-Shirt,Fashion,3,890.32,43.0,Hyderabad,Telangana,UPI,Returning,5.0
+ORD-00751,2025-08-26,CUST-0301,Asha,PROD-0773,Ladies Kurta,Fashion,2,1997.38,329.0,Patna,Bihar,Debit Card,New,4.9
+ORD-00752,2025-09-21,CUST-0302,Rahul,PROD-0786,Dining Set,Home & Kitchen,4,7835.88,449.0,Pune,Maharashtra,Net Banking,New,4.9
+ORD-00753,2024-01-04,CUST-0303,Neha,PROD-0799,Makeup Kit,Beauty,5,2781.09,491.0,Delhi,Delhi,Credit Card,New,4.4
+ORD-00754,2025-12-25,CUST-0304,Vikram,PROD-0812,Cycling Helmet,Sports,4,3438.92,46.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.5
+ORD-00755,2025-10-27,CUST-0305,Priya,PROD-0825,Startup Playbook,Books,2,1016.56,166.0,Kolkata,West Bengal,UPI,Returning,3.6
+ORD-00756,2025-02-16,CUST-0306,Manish,PROD-0838,Noise Buds Pro,Electronics,5,5484.97,448.0,Mumbai,Maharashtra,Debit Card,New,4.9
+ORD-00757,2025-10-28,CUST-0307,Ananya,PROD-0851,Wireless Mouse,Electronics,4,1979.2,89.0,Jaipur,Rajasthan,Net Banking,New,4.1
+ORD-00758,2024-12-24,CUST-0308,Sanjay,PROD-0864,Formal Shirt,Fashion,2,1533.46,56.0,Chennai,Tamil Nadu,Credit Card,New,3.5
+ORD-00759,2024-10-11,CUST-0309,Kavya,PROD-0877,Rice Cooker,Home & Kitchen,2,2804.24,502.0,Bengaluru,Karnataka,Cash on Delivery,New,3.3
+ORD-00760,2024-11-22,CUST-0310,Siddharth,PROD-0890,Hair Dryer,Beauty,3,3016.65,342.0,Ahmedabad,Gujarat,UPI,Returning,3.9
+ORD-00761,2024-03-29,CUST-0311,Meera,PROD-0903,Dumbbell Set,Sports,3,4762.81,449.0,Hyderabad,Telangana,Debit Card,New,4.2
+ORD-00762,2025-06-28,CUST-0312,Rohan,PROD-0916,Python for Beginners,Books,3,914.93,127.0,Patna,Bihar,Net Banking,New,3.7
+ORD-00763,2024-03-04,CUST-0313,Ishita,PROD-0929,Young Investor Guide,Books,4,927.45,148.0,Pune,Maharashtra,Credit Card,New,4.3
+ORD-00764,2025-06-23,CUST-0314,Nitin,PROD-0942,USB-C Hub,Electronics,3,2605.6,409.0,Delhi,Delhi,Cash on Delivery,New,5.0
+ORD-00765,2024-05-01,CUST-0315,Pooja,PROD-0955,Leather Sling Bag,Fashion,4,3595.44,483.0,Lucknow,Uttar Pradesh,UPI,Returning,4.3
+ORD-00766,2025-10-01,CUST-0316,Arjun,PROD-0968,Blender Premium,Home & Kitchen,5,4361.52,52.0,Kolkata,West Bengal,Debit Card,New,5.0
+ORD-00767,2025-01-31,CUST-0317,Divya,PROD-0981,Face Cream,Beauty,3,883.66,154.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-00768,2025-09-27,CUST-0318,Yash,PROD-0994,Yoga Mat,Sports,1,1424.55,266.0,Jaipur,Rajasthan,Credit Card,New,3.8
+ORD-00769,2025-02-12,CUST-0319,Tanvi,PROD-0008,Cricket Kit,Sports,4,6453.1,687.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.5
+ORD-00770,2025-10-13,CUST-0320,Harsh,PROD-0021,Motivational Leadership,Books,4,1019.65,103.0,Bengaluru,Karnataka,UPI,Returning,5.0
+ORD-00771,2024-02-23,CUST-0321,Deepa,PROD-0034,4K Monitor,Electronics,2,30533.83,1040.0,Ahmedabad,Gujarat,Debit Card,New,5.0
+ORD-00772,2024-04-11,CUST-0322,Saurabh,PROD-0047,Running Shoes,Fashion,2,1946.16,322.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-00773,2024-10-22,CUST-0323,Ritika,PROD-0060,Bamboo Storage Box,Home & Kitchen,5,1495.91,67.0,Patna,Bihar,Credit Card,New,3.8
+ORD-00774,2025-01-08,CUST-0324,Puneet,PROD-0073,Skin Serum,Beauty,1,1884.01,194.0,Pune,Maharashtra,Cash on Delivery,New,4.5
+ORD-00775,2024-07-04,CUST-0325,Shreya,PROD-0086,Sunscreen SPF 50,Beauty,2,1104.07,78.0,Delhi,Delhi,UPI,Returning,4.0
+ORD-00776,2024-04-09,CUST-0326,Asha,PROD-0099,Fitness Band,Sports,4,3875.77,238.0,Lucknow,Uttar Pradesh,Debit Card,New,3.9
+ORD-00777,2024-05-24,CUST-0327,Rahul,PROD-0112,Data Science Essentials,Books,3,990.59,177.0,Kolkata,West Bengal,Net Banking,New,3.7
+ORD-00778,2024-07-17,CUST-0328,Neha,PROD-0125,Laptop Pro 14,Electronics,3,66689.37,7365.0,Mumbai,Maharashtra,Credit Card,New,4.5
+ORD-00779,2024-03-09,CUST-0329,Vikram,PROD-0138,Denim Jacket,Fashion,4,3027.35,110.0,Jaipur,Rajasthan,Cash on Delivery,New,5.0
+ORD-00780,2025-09-08,CUST-0330,Priya,PROD-0151,Air Fryer,Home & Kitchen,3,6624.94,399.0,Chennai,Tamil Nadu,UPI,Returning,5.0
+ORD-00781,2024-05-09,CUST-0331,Manish,PROD-0164,Vacuum Flask,Home & Kitchen,2,1403.29,214.0,Bengaluru,Karnataka,Debit Card,New,3.7
+ORD-00782,2024-12-28,CUST-0332,Ananya,PROD-0177,Lipstick Set,Beauty,2,1191.0,184.0,Ahmedabad,Gujarat,Net Banking,New,4.0
+ORD-00783,2024-03-20,CUST-0333,Sanjay,PROD-0190,Treadmill,Sports,5,40382.93,1819.0,Hyderabad,Telangana,Credit Card,New,3.3
+ORD-00784,2025-08-05,CUST-0334,Kavya,PROD-0203,Business Strategy,Books,1,1339.7,108.0,Patna,Bihar,Cash on Delivery,New,5.0
+ORD-00785,2024-11-14,CUST-0335,Siddharth,PROD-0216,Smart Watch X,Electronics,3,11132.45,1555.0,Pune,Maharashtra,UPI,Returning,4.3
+ORD-00786,2024-03-14,CUST-0336,Meera,PROD-0229,Cotton T-Shirt,Fashion,4,1086.28,133.0,Delhi,Delhi,Debit Card,New,3.4
+ORD-00787,2024-03-05,CUST-0337,Rohan,PROD-0242,Ladies Kurta,Fashion,1,2743.43,39.0,Lucknow,Uttar Pradesh,Net Banking,New,4.3
+ORD-00788,2025-12-24,CUST-0338,Ishita,PROD-0255,Dining Set,Home & Kitchen,4,8714.38,1422.0,Kolkata,West Bengal,Credit Card,New,4.4
+ORD-00789,2024-06-09,CUST-0339,Nitin,PROD-0268,Makeup Kit,Beauty,2,2954.82,472.0,Mumbai,Maharashtra,Cash on Delivery,New,4.7
+ORD-00790,2025-04-18,CUST-0340,Pooja,PROD-0281,Cycling Helmet,Sports,4,2800.07,368.0,Jaipur,Rajasthan,UPI,Returning,4.2
+ORD-00791,2025-07-28,CUST-0341,Arjun,PROD-0294,Startup Playbook,Books,1,773.12,40.0,Chennai,Tamil Nadu,Debit Card,New,4.9
+ORD-00792,2024-09-13,CUST-0342,Divya,PROD-0307,Noise Buds Pro,Electronics,1,6093.26,268.0,Bengaluru,Karnataka,Net Banking,New,3.0
+ORD-00793,2025-02-26,CUST-0343,Yash,PROD-0320,Wireless Mouse,Electronics,4,1863.89,258.0,Ahmedabad,Gujarat,Credit Card,New,3.9
+ORD-00794,2025-09-02,CUST-0344,Tanvi,PROD-0333,Formal Shirt,Fashion,5,1637.97,176.0,Hyderabad,Telangana,Cash on Delivery,New,3.3
+ORD-00795,2024-02-29,CUST-0345,Harsh,PROD-0346,Rice Cooker,Home & Kitchen,3,4181.28,619.0,Patna,Bihar,UPI,Returning,5.0
+ORD-00796,2024-09-14,CUST-0346,Deepa,PROD-0359,Hair Dryer,Beauty,3,3032.24,516.0,Pune,Maharashtra,Debit Card,New,3.5
+ORD-00797,2025-03-20,CUST-0347,Saurabh,PROD-0372,Dumbbell Set,Sports,4,5595.06,862.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00798,2024-03-27,CUST-0348,Ritika,PROD-0385,Python for Beginners,Books,1,837.35,102.0,Lucknow,Uttar Pradesh,Credit Card,New,3.0
+ORD-00799,2025-10-21,CUST-0349,Puneet,PROD-0398,Young Investor Guide,Books,4,884.59,58.0,Kolkata,West Bengal,Cash on Delivery,New,4.9
+ORD-00800,2025-09-29,CUST-0350,Shreya,PROD-0411,USB-C Hub,Electronics,1,2305.28,92.0,Mumbai,Maharashtra,UPI,Returning,3.5
+ORD-00801,2025-01-15,CUST-0351,Asha,PROD-0424,Leather Sling Bag,Fashion,3,3198.6,25.0,Jaipur,Rajasthan,Debit Card,New,3.1
+ORD-00802,2024-11-13,CUST-0352,Rahul,PROD-0437,Blender Premium,Home & Kitchen,2,4792.25,244.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-00803,2025-10-03,CUST-0353,Neha,PROD-0450,Face Cream,Beauty,4,1114.38,64.0,Bengaluru,Karnataka,Credit Card,New,4.8
+ORD-00804,2025-06-23,CUST-0354,Vikram,PROD-0463,Yoga Mat,Sports,5,1806.1,336.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.8
+ORD-00805,2024-04-04,CUST-0355,Priya,PROD-0476,Cricket Kit,Sports,2,7705.62,339.0,Hyderabad,Telangana,UPI,Returning,2.9
+ORD-00806,2024-12-03,CUST-0356,Manish,PROD-0489,Motivational Leadership,Books,2,1011.92,110.0,Patna,Bihar,Debit Card,New,4.9
+ORD-00807,2024-12-26,CUST-0357,Ananya,PROD-0502,4K Monitor,Electronics,4,30538.37,4176.0,Pune,Maharashtra,Net Banking,New,4.1
+ORD-00808,2024-02-03,CUST-0358,Sanjay,PROD-0515,Running Shoes,Fashion,2,2062.04,252.0,Delhi,Delhi,Credit Card,New,3.9
+ORD-00809,2025-07-07,CUST-0359,Kavya,PROD-0528,Bamboo Storage Box,Home & Kitchen,2,1453.74,126.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,5.0
+ORD-00810,2024-06-18,CUST-0360,Siddharth,PROD-0541,Skin Serum,Beauty,2,1909.06,338.0,Kolkata,West Bengal,UPI,Returning,4.5
+ORD-00811,2024-07-21,CUST-0361,Meera,PROD-0554,Sunscreen SPF 50,Beauty,1,1087.15,167.0,Mumbai,Maharashtra,Debit Card,New,4.2
+ORD-00812,2024-08-22,CUST-0362,Rohan,PROD-0567,Fitness Band,Sports,3,3921.26,323.0,Jaipur,Rajasthan,Net Banking,New,4.1
+ORD-00813,2024-05-25,CUST-0363,Ishita,PROD-0580,Data Science Essentials,Books,2,1352.25,254.0,Chennai,Tamil Nadu,Credit Card,New,5.0
+ORD-00814,2024-10-29,CUST-0364,Nitin,PROD-0593,Laptop Pro 14,Electronics,4,70558.16,13829.0,Bengaluru,Karnataka,Cash on Delivery,New,4.0
+ORD-00815,2025-09-01,CUST-0365,Pooja,PROD-0606,Denim Jacket,Fashion,2,2474.57,157.0,Ahmedabad,Gujarat,UPI,Returning,4.0
+ORD-00816,2025-02-10,CUST-0366,Arjun,PROD-0619,Air Fryer,Home & Kitchen,1,7735.44,1008.0,Hyderabad,Telangana,Debit Card,New,3.6
+ORD-00817,2024-01-13,CUST-0367,Divya,PROD-0632,Vacuum Flask,Home & Kitchen,2,1572.74,11.0,Patna,Bihar,Net Banking,New,2.9
+ORD-00818,2024-03-27,CUST-0368,Yash,PROD-0645,Lipstick Set,Beauty,1,1228.7,226.0,Pune,Maharashtra,Credit Card,New,3.8
+ORD-00819,2025-01-27,CUST-0369,Tanvi,PROD-0658,Treadmill,Sports,1,35219.8,1934.0,Delhi,Delhi,Cash on Delivery,New,3.8
+ORD-00820,2024-03-09,CUST-0370,Harsh,PROD-0671,Business Strategy,Books,1,979.95,38.0,Lucknow,Uttar Pradesh,UPI,Returning,4.7
+ORD-00821,2024-10-25,CUST-0371,Deepa,PROD-0684,Smart Watch X,Electronics,2,10566.62,695.0,Kolkata,West Bengal,Debit Card,New,3.1
+ORD-00822,2024-03-20,CUST-0372,Saurabh,PROD-0697,Cotton T-Shirt,Fashion,1,1095.18,87.0,Mumbai,Maharashtra,Net Banking,New,4.2
+ORD-00823,2025-04-16,CUST-0373,Ritika,PROD-0710,Ladies Kurta,Fashion,1,2779.89,81.0,Jaipur,Rajasthan,Credit Card,New,5.0
+ORD-00824,2024-03-05,CUST-0374,Puneet,PROD-0723,Dining Set,Home & Kitchen,4,9194.71,1348.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.9
+ORD-00825,2024-03-31,CUST-0375,Shreya,PROD-0736,Makeup Kit,Beauty,3,2664.17,108.0,Bengaluru,Karnataka,UPI,Returning,4.5
+ORD-00826,2024-04-18,CUST-0376,Asha,PROD-0749,Cycling Helmet,Sports,2,3549.25,218.0,Ahmedabad,Gujarat,Debit Card,New,5.0
+ORD-00827,2025-03-08,CUST-0377,Rahul,PROD-0762,Startup Playbook,Books,3,978.29,74.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-00828,2025-02-18,CUST-0378,Neha,PROD-0775,Noise Buds Pro,Electronics,1,6805.8,535.0,Patna,Bihar,Credit Card,New,3.5
+ORD-00829,2024-03-27,CUST-0379,Vikram,PROD-0788,Wireless Mouse,Electronics,5,1748.87,52.0,Pune,Maharashtra,Cash on Delivery,New,4.8
+ORD-00830,2024-06-27,CUST-0380,Priya,PROD-0801,Formal Shirt,Fashion,3,1465.26,241.0,Delhi,Delhi,UPI,Returning,5.0
+ORD-00831,2025-02-08,CUST-0381,Manish,PROD-0814,Rice Cooker,Home & Kitchen,5,3762.04,25.0,Lucknow,Uttar Pradesh,Debit Card,New,5.0
+ORD-00832,2025-05-07,CUST-0382,Ananya,PROD-0827,Hair Dryer,Beauty,1,2450.33,59.0,Kolkata,West Bengal,Net Banking,New,3.6
+ORD-00833,2024-12-12,CUST-0383,Sanjay,PROD-0840,Dumbbell Set,Sports,1,4966.76,586.0,Mumbai,Maharashtra,Credit Card,New,3.7
+ORD-00834,2025-03-09,CUST-0384,Kavya,PROD-0853,Python for Beginners,Books,2,872.8,90.0,Jaipur,Rajasthan,Cash on Delivery,New,4.6
+ORD-00835,2025-07-28,CUST-0385,Siddharth,PROD-0866,Young Investor Guide,Books,5,937.33,105.0,Chennai,Tamil Nadu,UPI,Returning,4.6
+ORD-00836,2024-03-03,CUST-0386,Meera,PROD-0879,USB-C Hub,Electronics,3,2650.92,377.0,Bengaluru,Karnataka,Debit Card,New,2.9
+ORD-00837,2024-04-05,CUST-0387,Rohan,PROD-0892,Leather Sling Bag,Fashion,4,4875.2,10.0,Ahmedabad,Gujarat,Net Banking,New,3.3
+ORD-00838,2024-07-26,CUST-0388,Ishita,PROD-0905,Blender Premium,Home & Kitchen,5,3936.31,523.0,Hyderabad,Telangana,Credit Card,New,4.4
+ORD-00839,2025-04-19,CUST-0389,Nitin,PROD-0918,Face Cream,Beauty,1,1167.96,75.0,Patna,Bihar,Cash on Delivery,New,5.0
+ORD-00840,2025-07-20,CUST-0390,Pooja,PROD-0931,Yoga Mat,Sports,5,1268.85,23.0,Pune,Maharashtra,UPI,Returning,4.3
+ORD-00841,2025-05-17,CUST-0391,Arjun,PROD-0944,Cricket Kit,Sports,3,6836.58,1249.0,Delhi,Delhi,Debit Card,New,3.6
+ORD-00842,2024-06-30,CUST-0392,Divya,PROD-0957,Motivational Leadership,Books,1,814.41,52.0,Lucknow,Uttar Pradesh,Net Banking,New,3.8
+ORD-00843,2025-06-26,CUST-0393,Yash,PROD-0970,4K Monitor,Electronics,1,34621.04,5521.0,Kolkata,West Bengal,Credit Card,New,3.4
+ORD-00844,2025-01-31,CUST-0394,Tanvi,PROD-0983,Running Shoes,Fashion,3,1953.26,362.0,Mumbai,Maharashtra,Cash on Delivery,New,4.8
+ORD-00845,2024-07-05,CUST-0395,Harsh,PROD-0996,Bamboo Storage Box,Home & Kitchen,5,1541.81,87.0,Jaipur,Rajasthan,UPI,Returning,4.9
+ORD-00846,2024-04-03,CUST-0396,Deepa,PROD-0010,Skin Serum,Beauty,3,1959.42,99.0,Chennai,Tamil Nadu,Debit Card,New,5.0
+ORD-00847,2025-05-11,CUST-0397,Saurabh,PROD-0023,Sunscreen SPF 50,Beauty,5,1308.45,132.0,Bengaluru,Karnataka,Net Banking,New,4.6
+ORD-00848,2025-09-30,CUST-0398,Ritika,PROD-0036,Fitness Band,Sports,4,3772.94,462.0,Ahmedabad,Gujarat,Credit Card,New,2.6
+ORD-00849,2024-05-20,CUST-0399,Puneet,PROD-0049,Data Science Essentials,Books,5,1043.78,58.0,Hyderabad,Telangana,Cash on Delivery,New,5.0
+ORD-00850,2024-02-14,CUST-0400,Shreya,PROD-0062,Laptop Pro 14,Electronics,1,63789.4,6346.0,Patna,Bihar,UPI,Returning,3.7
+ORD-00851,2025-11-08,CUST-0401,Asha,PROD-0075,Denim Jacket,Fashion,5,3132.32,100.0,Pune,Maharashtra,Debit Card,New,3.7
+ORD-00852,2025-02-04,CUST-0402,Rahul,PROD-0088,Air Fryer,Home & Kitchen,5,7382.35,1349.0,Delhi,Delhi,Net Banking,New,4.4
+ORD-00853,2025-09-15,CUST-0403,Neha,PROD-0101,Vacuum Flask,Home & Kitchen,1,1594.6,150.0,Lucknow,Uttar Pradesh,Credit Card,New,3.7
+ORD-00854,2025-08-28,CUST-0404,Vikram,PROD-0114,Lipstick Set,Beauty,5,1137.9,141.0,Kolkata,West Bengal,Cash on Delivery,New,3.7
+ORD-00855,2024-10-16,CUST-0405,Priya,PROD-0127,Treadmill,Sports,3,40729.53,1994.0,Mumbai,Maharashtra,UPI,Returning,5.0
+ORD-00856,2024-03-21,CUST-0406,Manish,PROD-0140,Business Strategy,Books,4,1193.8,127.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-00857,2024-12-22,CUST-0407,Ananya,PROD-0153,Smart Watch X,Electronics,4,9417.17,1414.0,Chennai,Tamil Nadu,Net Banking,New,4.1
+ORD-00858,2024-07-22,CUST-0408,Sanjay,PROD-0166,Cotton T-Shirt,Fashion,4,998.03,105.0,Bengaluru,Karnataka,Credit Card,New,4.7
+ORD-00859,2024-11-14,CUST-0409,Kavya,PROD-0179,Ladies Kurta,Fashion,4,1890.61,359.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.7
+ORD-00860,2025-06-25,CUST-0410,Siddharth,PROD-0192,Dining Set,Home & Kitchen,2,7236.63,507.0,Hyderabad,Telangana,UPI,Returning,2.7
+ORD-00861,2024-10-11,CUST-0411,Meera,PROD-0205,Makeup Kit,Beauty,1,2324.51,265.0,Patna,Bihar,Debit Card,New,4.3
+ORD-00862,2025-03-15,CUST-0412,Rohan,PROD-0218,Cycling Helmet,Sports,2,3456.25,3.0,Pune,Maharashtra,Net Banking,New,4.2
+ORD-00863,2024-10-06,CUST-0413,Ishita,PROD-0231,Startup Playbook,Books,3,744.85,117.0,Delhi,Delhi,Credit Card,New,4.2
+ORD-00864,2025-05-30,CUST-0414,Nitin,PROD-0244,Noise Buds Pro,Electronics,2,6962.02,179.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,5.0
+ORD-00865,2025-10-17,CUST-0415,Pooja,PROD-0257,Wireless Mouse,Electronics,5,1487.24,1.0,Kolkata,West Bengal,UPI,Returning,4.2
+ORD-00866,2025-07-12,CUST-0416,Arjun,PROD-0270,Formal Shirt,Fashion,2,2041.85,275.0,Mumbai,Maharashtra,Debit Card,New,4.4
+ORD-00867,2024-08-17,CUST-0417,Divya,PROD-0283,Rice Cooker,Home & Kitchen,2,4161.72,624.0,Jaipur,Rajasthan,Net Banking,New,3.7
+ORD-00868,2024-06-30,CUST-0418,Yash,PROD-0296,Hair Dryer,Beauty,4,3396.97,536.0,Chennai,Tamil Nadu,Credit Card,New,4.1
+ORD-00869,2025-03-19,CUST-0419,Tanvi,PROD-0309,Dumbbell Set,Sports,3,4895.67,95.0,Bengaluru,Karnataka,Cash on Delivery,New,4.4
+ORD-00870,2025-03-26,CUST-0420,Harsh,PROD-0322,Python for Beginners,Books,4,802.29,74.0,Ahmedabad,Gujarat,UPI,Returning,4.3
+ORD-00871,2025-08-08,CUST-0421,Deepa,PROD-0335,Young Investor Guide,Books,5,723.43,31.0,Hyderabad,Telangana,Debit Card,New,5.0
+ORD-00872,2025-10-06,CUST-0422,Saurabh,PROD-0348,USB-C Hub,Electronics,3,2554.57,84.0,Patna,Bihar,Net Banking,New,5.0
+ORD-00873,2024-04-14,CUST-0423,Ritika,PROD-0361,Leather Sling Bag,Fashion,1,3865.87,345.0,Pune,Maharashtra,Credit Card,New,3.4
+ORD-00874,2024-01-12,CUST-0424,Puneet,PROD-0374,Blender Premium,Home & Kitchen,4,4495.79,285.0,Delhi,Delhi,Cash on Delivery,New,5.0
+ORD-00875,2024-01-09,CUST-0425,Shreya,PROD-0387,Face Cream,Beauty,1,1134.34,185.0,Lucknow,Uttar Pradesh,UPI,Returning,3.1
+ORD-00876,2025-03-21,CUST-0426,Asha,PROD-0400,Yoga Mat,Sports,5,1388.3,1.0,Kolkata,West Bengal,Debit Card,New,4.9
+ORD-00877,2024-07-01,CUST-0427,Rahul,PROD-0413,Cricket Kit,Sports,4,5963.75,318.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-00878,2025-07-09,CUST-0428,Neha,PROD-0426,Motivational Leadership,Books,4,1160.12,190.0,Jaipur,Rajasthan,Credit Card,New,4.9
+ORD-00879,2025-08-06,CUST-0429,Vikram,PROD-0439,4K Monitor,Electronics,5,28169.05,1156.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.9
+ORD-00880,2025-10-30,CUST-0430,Priya,PROD-0452,Running Shoes,Fashion,5,2539.74,86.0,Bengaluru,Karnataka,UPI,Returning,2.8
+ORD-00881,2024-07-12,CUST-0431,Manish,PROD-0465,Bamboo Storage Box,Home & Kitchen,2,1471.44,284.0,Ahmedabad,Gujarat,Debit Card,New,4.5
+ORD-00882,2024-07-07,CUST-0432,Ananya,PROD-0478,Skin Serum,Beauty,1,1751.13,217.0,Hyderabad,Telangana,Net Banking,New,3.8
+ORD-00883,2025-05-30,CUST-0433,Sanjay,PROD-0491,Sunscreen SPF 50,Beauty,5,996.71,190.0,Patna,Bihar,Credit Card,New,3.6
+ORD-00884,2025-05-08,CUST-0434,Kavya,PROD-0504,Fitness Band,Sports,4,3660.2,43.0,Pune,Maharashtra,Cash on Delivery,New,3.3
+ORD-00885,2024-07-24,CUST-0435,Siddharth,PROD-0517,Data Science Essentials,Books,4,1091.69,141.0,Delhi,Delhi,UPI,Returning,4.5
+ORD-00886,2025-06-03,CUST-0436,Meera,PROD-0530,Laptop Pro 14,Electronics,2,64223.55,4826.0,Lucknow,Uttar Pradesh,Debit Card,New,4.1
+ORD-00887,2025-07-10,CUST-0437,Rohan,PROD-0543,Denim Jacket,Fashion,1,3160.96,285.0,Kolkata,West Bengal,Net Banking,New,3.6
+ORD-00888,2024-07-18,CUST-0438,Ishita,PROD-0556,Air Fryer,Home & Kitchen,4,7246.1,1446.0,Mumbai,Maharashtra,Credit Card,New,4.5
+ORD-00889,2024-02-15,CUST-0439,Nitin,PROD-0569,Vacuum Flask,Home & Kitchen,5,1384.25,92.0,Jaipur,Rajasthan,Cash on Delivery,New,5.0
+ORD-00890,2025-01-30,CUST-0440,Pooja,PROD-0582,Lipstick Set,Beauty,1,1194.81,65.0,Chennai,Tamil Nadu,UPI,Returning,4.1
+ORD-00891,2024-06-19,CUST-0441,Arjun,PROD-0595,Treadmill,Sports,4,43901.78,6049.0,Bengaluru,Karnataka,Debit Card,New,3.9
+ORD-00892,2024-02-01,CUST-0442,Divya,PROD-0608,Business Strategy,Books,5,948.21,131.0,Ahmedabad,Gujarat,Net Banking,New,5.0
+ORD-00893,2024-02-22,CUST-0443,Yash,PROD-0621,Smart Watch X,Electronics,3,11892.44,1810.0,Hyderabad,Telangana,Credit Card,New,4.3
+ORD-00894,2024-08-09,CUST-0444,Tanvi,PROD-0634,Cotton T-Shirt,Fashion,4,869.53,2.0,Patna,Bihar,Cash on Delivery,New,4.5
+ORD-00895,2024-10-23,CUST-0445,Harsh,PROD-0647,Ladies Kurta,Fashion,3,1862.73,371.0,Pune,Maharashtra,UPI,Returning,4.8
+ORD-00896,2025-06-03,CUST-0446,Deepa,PROD-0660,Dining Set,Home & Kitchen,4,8364.5,112.0,Delhi,Delhi,Debit Card,New,5.0
+ORD-00897,2024-08-07,CUST-0447,Saurabh,PROD-0673,Makeup Kit,Beauty,2,1980.01,72.0,Lucknow,Uttar Pradesh,Net Banking,New,3.0
+ORD-00898,2024-05-15,CUST-0448,Ritika,PROD-0686,Cycling Helmet,Sports,2,2499.96,197.0,Kolkata,West Bengal,Credit Card,New,3.4
+ORD-00899,2024-12-06,CUST-0449,Puneet,PROD-0699,Startup Playbook,Books,1,741.84,10.0,Mumbai,Maharashtra,Cash on Delivery,New,3.9
+ORD-00900,2025-12-04,CUST-0450,Shreya,PROD-0712,Noise Buds Pro,Electronics,2,6954.19,167.0,Jaipur,Rajasthan,UPI,Returning,4.3
+ORD-00901,2024-06-18,CUST-0001,Asha,PROD-0725,Wireless Mouse,Electronics,1,1799.4,257.0,Chennai,Tamil Nadu,Debit Card,New,3.7
+ORD-00902,2024-02-25,CUST-0002,Rahul,PROD-0738,Formal Shirt,Fashion,1,1490.43,161.0,Bengaluru,Karnataka,Net Banking,New,3.4
+ORD-00903,2025-02-12,CUST-0003,Neha,PROD-0751,Rice Cooker,Home & Kitchen,2,3706.74,732.0,Ahmedabad,Gujarat,Credit Card,New,5.0
+ORD-00904,2024-01-30,CUST-0004,Vikram,PROD-0764,Hair Dryer,Beauty,5,3096.28,211.0,Hyderabad,Telangana,Cash on Delivery,New,4.7
+ORD-00905,2025-04-01,CUST-0005,Priya,PROD-0777,Dumbbell Set,Sports,4,3607.83,263.0,Patna,Bihar,UPI,Returning,4.2
+ORD-00906,2024-12-24,CUST-0006,Manish,PROD-0790,Python for Beginners,Books,5,719.04,117.0,Pune,Maharashtra,Debit Card,New,3.6
+ORD-00907,2024-04-16,CUST-0007,Ananya,PROD-0803,Young Investor Guide,Books,1,657.25,7.0,Delhi,Delhi,Net Banking,New,5.0
+ORD-00908,2024-07-29,CUST-0008,Sanjay,PROD-0816,USB-C Hub,Electronics,5,2428.15,279.0,Lucknow,Uttar Pradesh,Credit Card,New,3.7
+ORD-00909,2024-06-06,CUST-0009,Kavya,PROD-0829,Leather Sling Bag,Fashion,4,4117.33,22.0,Kolkata,West Bengal,Cash on Delivery,New,3.3
+ORD-00910,2025-02-09,CUST-0010,Siddharth,PROD-0842,Blender Premium,Home & Kitchen,4,4375.01,224.0,Mumbai,Maharashtra,UPI,Returning,4.6
+ORD-00911,2024-08-14,CUST-0011,Meera,PROD-0855,Face Cream,Beauty,3,1227.94,37.0,Jaipur,Rajasthan,Debit Card,New,4.2
+ORD-00912,2025-04-19,CUST-0012,Rohan,PROD-0868,Yoga Mat,Sports,5,1764.48,261.0,Chennai,Tamil Nadu,Net Banking,New,4.7
+ORD-00913,2024-06-03,CUST-0013,Ishita,PROD-0881,Cricket Kit,Sports,5,5319.77,443.0,Bengaluru,Karnataka,Credit Card,New,3.8
+ORD-00914,2024-09-13,CUST-0014,Nitin,PROD-0894,Motivational Leadership,Books,1,851.96,107.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.9
+ORD-00915,2025-09-14,CUST-0015,Pooja,PROD-0907,4K Monitor,Electronics,5,29876.47,4724.0,Hyderabad,Telangana,UPI,Returning,4.1
+ORD-00916,2024-01-10,CUST-0016,Arjun,PROD-0920,Running Shoes,Fashion,4,2045.98,250.0,Patna,Bihar,Debit Card,New,4.4
+ORD-00917,2024-01-25,CUST-0017,Divya,PROD-0933,Bamboo Storage Box,Home & Kitchen,1,1347.22,89.0,Pune,Maharashtra,Net Banking,New,4.8
+ORD-00918,2024-04-11,CUST-0018,Yash,PROD-0946,Skin Serum,Beauty,4,1995.19,75.0,Delhi,Delhi,Credit Card,New,4.4
+ORD-00919,2024-09-09,CUST-0019,Tanvi,PROD-0959,Sunscreen SPF 50,Beauty,5,996.42,135.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.1
+ORD-00920,2024-03-22,CUST-0020,Harsh,PROD-0972,Fitness Band,Sports,3,3357.91,159.0,Kolkata,West Bengal,UPI,Returning,4.0
+ORD-00921,2024-11-23,CUST-0021,Deepa,PROD-0985,Data Science Essentials,Books,2,1079.36,21.0,Mumbai,Maharashtra,Debit Card,New,4.2
+ORD-00922,2024-09-16,CUST-0022,Saurabh,PROD-0998,Laptop Pro 14,Electronics,5,65150.98,3162.0,Jaipur,Rajasthan,Net Banking,New,3.7
+ORD-00923,2025-07-28,CUST-0023,Ritika,PROD-0012,Denim Jacket,Fashion,4,3070.67,552.0,Chennai,Tamil Nadu,Credit Card,New,3.8
+ORD-00924,2025-02-10,CUST-0024,Puneet,PROD-0025,Air Fryer,Home & Kitchen,2,6700.96,1182.0,Bengaluru,Karnataka,Cash on Delivery,New,4.7
+ORD-00925,2024-03-29,CUST-0025,Shreya,PROD-0038,Vacuum Flask,Home & Kitchen,2,1740.29,279.0,Ahmedabad,Gujarat,UPI,Returning,4.7
+ORD-00926,2024-07-16,CUST-0026,Asha,PROD-0051,Lipstick Set,Beauty,5,1410.63,117.0,Hyderabad,Telangana,Debit Card,New,4.6
+ORD-00927,2025-08-14,CUST-0027,Rahul,PROD-0064,Treadmill,Sports,4,41662.72,310.0,Patna,Bihar,Net Banking,New,3.2
+ORD-00928,2024-02-01,CUST-0028,Neha,PROD-0077,Business Strategy,Books,2,1181.48,46.0,Pune,Maharashtra,Credit Card,New,3.2
+ORD-00929,2025-09-05,CUST-0029,Vikram,PROD-0090,Smart Watch X,Electronics,1,8422.06,1172.0,Delhi,Delhi,Cash on Delivery,New,3.9
+ORD-00930,2024-05-17,CUST-0030,Priya,PROD-0103,Cotton T-Shirt,Fashion,2,810.22,81.0,Lucknow,Uttar Pradesh,UPI,Returning,4.3
+ORD-00931,2024-08-16,CUST-0031,Manish,PROD-0116,Ladies Kurta,Fashion,2,1939.21,369.0,Kolkata,West Bengal,Debit Card,New,4.9
+ORD-00932,2025-06-02,CUST-0032,Ananya,PROD-0129,Dining Set,Home & Kitchen,3,8056.26,1112.0,Mumbai,Maharashtra,Net Banking,New,3.9
+ORD-00933,2024-04-13,CUST-0033,Sanjay,PROD-0142,Makeup Kit,Beauty,3,2510.67,412.0,Jaipur,Rajasthan,Credit Card,New,4.0
+ORD-00934,2025-04-30,CUST-0034,Kavya,PROD-0155,Cycling Helmet,Sports,2,2475.88,315.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.5
+ORD-00935,2025-09-04,CUST-0035,Siddharth,PROD-0168,Startup Playbook,Books,1,756.74,41.0,Bengaluru,Karnataka,UPI,Returning,3.8
+ORD-00936,2024-11-03,CUST-0036,Meera,PROD-0181,Noise Buds Pro,Electronics,4,6069.98,165.0,Ahmedabad,Gujarat,Debit Card,New,3.5
+ORD-00937,2025-06-15,CUST-0037,Rohan,PROD-0194,Wireless Mouse,Electronics,1,1613.48,139.0,Hyderabad,Telangana,Net Banking,New,3.3
+ORD-00938,2024-12-21,CUST-0038,Ishita,PROD-0207,Formal Shirt,Fashion,3,1717.53,81.0,Patna,Bihar,Credit Card,New,5.0
+ORD-00939,2024-04-06,CUST-0039,Nitin,PROD-0220,Rice Cooker,Home & Kitchen,2,3444.32,521.0,Pune,Maharashtra,Cash on Delivery,New,2.9
+ORD-00940,2024-08-20,CUST-0040,Pooja,PROD-0233,Hair Dryer,Beauty,1,3426.77,325.0,Delhi,Delhi,UPI,Returning,4.2
+ORD-00941,2025-11-04,CUST-0041,Arjun,PROD-0246,Dumbbell Set,Sports,5,5036.12,1007.0,Lucknow,Uttar Pradesh,Debit Card,New,4.6
+ORD-00942,2025-03-13,CUST-0042,Divya,PROD-0259,Python for Beginners,Books,1,638.01,60.0,Kolkata,West Bengal,Net Banking,New,3.4
+ORD-00943,2025-07-27,CUST-0043,Yash,PROD-0272,Young Investor Guide,Books,1,956.55,179.0,Mumbai,Maharashtra,Credit Card,New,4.6
+ORD-00944,2024-02-16,CUST-0044,Tanvi,PROD-0285,USB-C Hub,Electronics,4,2613.82,253.0,Jaipur,Rajasthan,Cash on Delivery,New,3.4
+ORD-00945,2024-08-26,CUST-0045,Harsh,PROD-0298,Leather Sling Bag,Fashion,5,3298.78,67.0,Chennai,Tamil Nadu,UPI,Returning,4.4
+ORD-00946,2025-05-31,CUST-0046,Deepa,PROD-0311,Blender Premium,Home & Kitchen,1,4466.95,712.0,Bengaluru,Karnataka,Debit Card,New,3.6
+ORD-00947,2024-03-08,CUST-0047,Saurabh,PROD-0324,Face Cream,Beauty,3,1189.77,143.0,Ahmedabad,Gujarat,Net Banking,New,4.3
+ORD-00948,2024-06-11,CUST-0048,Ritika,PROD-0337,Yoga Mat,Sports,5,1498.05,173.0,Hyderabad,Telangana,Credit Card,New,4.9
+ORD-00949,2024-11-24,CUST-0049,Puneet,PROD-0350,Cricket Kit,Sports,3,5386.38,296.0,Patna,Bihar,Cash on Delivery,New,3.7
+ORD-00950,2025-01-18,CUST-0050,Shreya,PROD-0363,Motivational Leadership,Books,2,967.03,64.0,Pune,Maharashtra,UPI,Returning,4.3
+ORD-00951,2025-06-25,CUST-0051,Asha,PROD-0376,4K Monitor,Electronics,5,29008.47,1696.0,Delhi,Delhi,Debit Card,New,5.0
+ORD-00952,2024-03-16,CUST-0052,Rahul,PROD-0389,Running Shoes,Fashion,5,1858.74,71.0,Lucknow,Uttar Pradesh,Net Banking,New,4.2
+ORD-00953,2025-10-06,CUST-0053,Neha,PROD-0402,Bamboo Storage Box,Home & Kitchen,3,1685.79,227.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-00954,2024-01-24,CUST-0054,Vikram,PROD-0415,Skin Serum,Beauty,4,1753.07,312.0,Mumbai,Maharashtra,Cash on Delivery,New,2.9
+ORD-00955,2024-08-06,CUST-0055,Priya,PROD-0428,Sunscreen SPF 50,Beauty,5,1063.41,8.0,Jaipur,Rajasthan,UPI,Returning,2.7
+ORD-00956,2024-12-16,CUST-0056,Manish,PROD-0441,Fitness Band,Sports,2,3539.72,661.0,Chennai,Tamil Nadu,Debit Card,New,4.7
+ORD-00957,2024-07-19,CUST-0057,Ananya,PROD-0454,Data Science Essentials,Books,1,1163.88,155.0,Bengaluru,Karnataka,Net Banking,New,3.7
+ORD-00958,2024-08-17,CUST-0058,Sanjay,PROD-0467,Laptop Pro 14,Electronics,3,74887.32,1879.0,Ahmedabad,Gujarat,Credit Card,New,3.9
+ORD-00959,2024-09-28,CUST-0059,Kavya,PROD-0480,Denim Jacket,Fashion,3,3180.41,442.0,Hyderabad,Telangana,Cash on Delivery,New,4.4
+ORD-00960,2024-01-27,CUST-0060,Siddharth,PROD-0493,Air Fryer,Home & Kitchen,3,9423.12,995.0,Patna,Bihar,UPI,Returning,4.6
+ORD-00961,2025-03-22,CUST-0061,Meera,PROD-0506,Vacuum Flask,Home & Kitchen,1,1498.56,48.0,Pune,Maharashtra,Debit Card,New,3.9
+ORD-00962,2024-11-28,CUST-0062,Rohan,PROD-0519,Lipstick Set,Beauty,1,1627.88,171.0,Delhi,Delhi,Net Banking,New,4.9
+ORD-00963,2025-04-30,CUST-0063,Ishita,PROD-0532,Treadmill,Sports,1,42659.08,2446.0,Lucknow,Uttar Pradesh,Credit Card,New,4.6
+ORD-00964,2025-05-15,CUST-0064,Nitin,PROD-0545,Business Strategy,Books,3,1000.34,112.0,Kolkata,West Bengal,Cash on Delivery,New,3.9
+ORD-00965,2025-10-03,CUST-0065,Pooja,PROD-0558,Smart Watch X,Electronics,5,10075.6,1904.0,Mumbai,Maharashtra,UPI,Returning,4.1
+ORD-00966,2025-12-12,CUST-0066,Arjun,PROD-0571,Cotton T-Shirt,Fashion,1,998.2,48.0,Jaipur,Rajasthan,Debit Card,New,4.1
+ORD-00967,2025-06-16,CUST-0067,Divya,PROD-0584,Ladies Kurta,Fashion,2,2725.57,404.0,Chennai,Tamil Nadu,Net Banking,New,4.7
+ORD-00968,2025-04-18,CUST-0068,Yash,PROD-0597,Dining Set,Home & Kitchen,1,8222.21,786.0,Bengaluru,Karnataka,Credit Card,New,4.7
+ORD-00969,2024-02-06,CUST-0069,Tanvi,PROD-0610,Makeup Kit,Beauty,3,2554.6,426.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.6
+ORD-00970,2025-01-11,CUST-0070,Harsh,PROD-0623,Cycling Helmet,Sports,5,3394.95,279.0,Hyderabad,Telangana,UPI,Returning,4.2
+ORD-00971,2025-12-29,CUST-0071,Deepa,PROD-0636,Startup Playbook,Books,5,759.37,76.0,Patna,Bihar,Debit Card,New,3.9
+ORD-00972,2024-02-09,CUST-0072,Saurabh,PROD-0649,Noise Buds Pro,Electronics,1,5776.78,622.0,Pune,Maharashtra,Net Banking,New,4.5
+ORD-00973,2025-06-06,CUST-0073,Ritika,PROD-0662,Wireless Mouse,Electronics,4,1813.81,84.0,Delhi,Delhi,Credit Card,New,4.0
+ORD-00974,2025-09-20,CUST-0074,Puneet,PROD-0675,Formal Shirt,Fashion,1,1986.39,112.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.2
+ORD-00975,2024-09-14,CUST-0075,Shreya,PROD-0688,Rice Cooker,Home & Kitchen,2,3302.82,435.0,Kolkata,West Bengal,UPI,Returning,4.3
+ORD-00976,2025-10-03,CUST-0076,Asha,PROD-0701,Hair Dryer,Beauty,3,2357.01,411.0,Mumbai,Maharashtra,Debit Card,New,4.5
+ORD-00977,2025-10-19,CUST-0077,Rahul,PROD-0714,Dumbbell Set,Sports,3,4723.87,776.0,Jaipur,Rajasthan,Net Banking,New,4.0
+ORD-00978,2024-02-25,CUST-0078,Neha,PROD-0727,Python for Beginners,Books,5,715.74,107.0,Chennai,Tamil Nadu,Credit Card,New,3.8
+ORD-00979,2025-03-10,CUST-0079,Vikram,PROD-0740,Young Investor Guide,Books,5,741.76,48.0,Bengaluru,Karnataka,Cash on Delivery,New,4.2
+ORD-00980,2024-05-17,CUST-0080,Priya,PROD-0753,USB-C Hub,Electronics,3,2579.01,392.0,Ahmedabad,Gujarat,UPI,Returning,4.5
+ORD-00981,2024-01-16,CUST-0081,Manish,PROD-0766,Leather Sling Bag,Fashion,5,4686.86,341.0,Hyderabad,Telangana,Debit Card,New,4.0
+ORD-00982,2024-08-27,CUST-0082,Ananya,PROD-0779,Blender Premium,Home & Kitchen,4,5111.82,269.0,Patna,Bihar,Net Banking,New,3.1
+ORD-00983,2024-01-22,CUST-0083,Sanjay,PROD-0792,Face Cream,Beauty,1,1060.48,147.0,Pune,Maharashtra,Credit Card,New,4.2
+ORD-00984,2025-07-25,CUST-0084,Kavya,PROD-0805,Yoga Mat,Sports,1,1812.67,230.0,Delhi,Delhi,Cash on Delivery,New,3.5
+ORD-00985,2024-07-06,CUST-0085,Siddharth,PROD-0818,Cricket Kit,Sports,1,5369.4,969.0,Lucknow,Uttar Pradesh,UPI,Returning,4.4
+ORD-00986,2024-01-05,CUST-0086,Meera,PROD-0831,Motivational Leadership,Books,3,1164.01,81.0,Kolkata,West Bengal,Debit Card,New,4.5
+ORD-00987,2024-10-11,CUST-0087,Rohan,PROD-0844,4K Monitor,Electronics,4,32411.46,4870.0,Mumbai,Maharashtra,Net Banking,New,3.1
+ORD-00988,2025-12-06,CUST-0088,Ishita,PROD-0857,Running Shoes,Fashion,2,2003.79,318.0,Jaipur,Rajasthan,Credit Card,New,3.6
+ORD-00989,2024-09-30,CUST-0089,Nitin,PROD-0870,Bamboo Storage Box,Home & Kitchen,3,1527.84,136.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.6
+ORD-00990,2025-08-26,CUST-0090,Pooja,PROD-0883,Skin Serum,Beauty,3,1784.75,287.0,Bengaluru,Karnataka,UPI,Returning,3.9
+ORD-00991,2024-09-05,CUST-0091,Arjun,PROD-0896,Sunscreen SPF 50,Beauty,1,1180.97,220.0,Ahmedabad,Gujarat,Debit Card,New,3.7
+ORD-00992,2025-02-14,CUST-0092,Divya,PROD-0909,Fitness Band,Sports,4,3956.17,715.0,Hyderabad,Telangana,Net Banking,New,4.7
+ORD-00993,2025-07-31,CUST-0093,Yash,PROD-0922,Data Science Essentials,Books,1,1360.78,204.0,Patna,Bihar,Credit Card,New,5.0
+ORD-00994,2025-03-05,CUST-0094,Tanvi,PROD-0935,Laptop Pro 14,Electronics,2,71823.06,4223.0,Pune,Maharashtra,Cash on Delivery,New,4.2
+ORD-00995,2025-02-21,CUST-0095,Harsh,PROD-0948,Denim Jacket,Fashion,5,3131.83,536.0,Delhi,Delhi,UPI,Returning,4.3
+ORD-00996,2025-07-07,CUST-0096,Deepa,PROD-0961,Air Fryer,Home & Kitchen,5,8808.44,1318.0,Lucknow,Uttar Pradesh,Debit Card,New,4.3
+ORD-00997,2024-10-08,CUST-0097,Saurabh,PROD-0974,Vacuum Flask,Home & Kitchen,3,1438.01,246.0,Kolkata,West Bengal,Net Banking,New,5.0
+ORD-00998,2025-06-08,CUST-0098,Ritika,PROD-0987,Lipstick Set,Beauty,1,1465.7,284.0,Mumbai,Maharashtra,Credit Card,New,3.5
+ORD-00999,2024-12-04,CUST-0099,Puneet,PROD-0001,Treadmill,Sports,4,41757.68,4147.0,Jaipur,Rajasthan,Cash on Delivery,New,4.5
+ORD-01000,2025-05-31,CUST-0100,Shreya,PROD-0014,Business Strategy,Books,2,1378.16,166.0,Chennai,Tamil Nadu,UPI,Returning,3.1
+ORD-01001,2025-10-30,CUST-0101,Asha,PROD-0027,Smart Watch X,Electronics,2,12233.73,2376.0,Bengaluru,Karnataka,Debit Card,New,4.3
+ORD-01002,2025-01-31,CUST-0102,Rahul,PROD-0040,Cotton T-Shirt,Fashion,4,787.88,11.0,Ahmedabad,Gujarat,Net Banking,New,4.3
+ORD-01003,2025-03-10,CUST-0103,Neha,PROD-0053,Ladies Kurta,Fashion,3,2666.91,278.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-01004,2024-11-11,CUST-0104,Vikram,PROD-0066,Dining Set,Home & Kitchen,2,7608.53,1508.0,Patna,Bihar,Cash on Delivery,New,5.0
+ORD-01005,2024-12-19,CUST-0105,Priya,PROD-0079,Makeup Kit,Beauty,5,2900.06,89.0,Pune,Maharashtra,UPI,Returning,4.9
+ORD-01006,2024-12-11,CUST-0106,Manish,PROD-0092,Cycling Helmet,Sports,1,2360.53,12.0,Delhi,Delhi,Debit Card,New,4.7
+ORD-01007,2025-06-04,CUST-0107,Ananya,PROD-0105,Startup Playbook,Books,4,1036.83,146.0,Lucknow,Uttar Pradesh,Net Banking,New,5.0
+ORD-01008,2024-08-09,CUST-0108,Sanjay,PROD-0118,Noise Buds Pro,Electronics,3,4885.13,225.0,Kolkata,West Bengal,Credit Card,New,4.0
+ORD-01009,2024-04-09,CUST-0109,Kavya,PROD-0131,Wireless Mouse,Electronics,4,2013.07,219.0,Mumbai,Maharashtra,Cash on Delivery,New,3.2
+ORD-01010,2024-12-16,CUST-0110,Siddharth,PROD-0144,Formal Shirt,Fashion,2,1702.08,143.0,Jaipur,Rajasthan,UPI,Returning,5.0
+ORD-01011,2025-04-17,CUST-0111,Meera,PROD-0157,Rice Cooker,Home & Kitchen,1,3976.62,91.0,Chennai,Tamil Nadu,Debit Card,New,5.0
+ORD-01012,2025-01-14,CUST-0112,Rohan,PROD-0170,Hair Dryer,Beauty,3,2678.97,79.0,Bengaluru,Karnataka,Net Banking,New,5.0
+ORD-01013,2025-01-08,CUST-0113,Ishita,PROD-0183,Dumbbell Set,Sports,1,4595.41,735.0,Ahmedabad,Gujarat,Credit Card,New,4.6
+ORD-01014,2025-06-03,CUST-0114,Nitin,PROD-0196,Python for Beginners,Books,4,808.85,84.0,Hyderabad,Telangana,Cash on Delivery,New,4.2
+ORD-01015,2024-08-22,CUST-0115,Pooja,PROD-0209,Young Investor Guide,Books,1,693.56,125.0,Patna,Bihar,UPI,Returning,4.9
+ORD-01016,2024-12-18,CUST-0116,Arjun,PROD-0222,USB-C Hub,Electronics,5,3324.59,10.0,Pune,Maharashtra,Debit Card,New,4.7
+ORD-01017,2024-06-19,CUST-0117,Divya,PROD-0235,Leather Sling Bag,Fashion,2,4482.13,275.0,Delhi,Delhi,Net Banking,New,4.0
+ORD-01018,2024-08-23,CUST-0118,Yash,PROD-0248,Blender Premium,Home & Kitchen,2,4490.34,253.0,Lucknow,Uttar Pradesh,Credit Card,New,4.4
+ORD-01019,2024-04-23,CUST-0119,Tanvi,PROD-0261,Face Cream,Beauty,1,924.48,151.0,Kolkata,West Bengal,Cash on Delivery,New,4.9
+ORD-01020,2025-08-01,CUST-0120,Harsh,PROD-0274,Yoga Mat,Sports,1,1666.45,208.0,Mumbai,Maharashtra,UPI,Returning,4.0
+ORD-01021,2025-12-25,CUST-0121,Deepa,PROD-0287,Cricket Kit,Sports,3,8008.3,1157.0,Jaipur,Rajasthan,Debit Card,New,3.4
+ORD-01022,2025-07-22,CUST-0122,Saurabh,PROD-0300,Motivational Leadership,Books,2,1026.75,153.0,Chennai,Tamil Nadu,Net Banking,New,4.5
+ORD-01023,2024-12-08,CUST-0123,Ritika,PROD-0313,4K Monitor,Electronics,3,26599.83,4276.0,Bengaluru,Karnataka,Credit Card,New,4.6
+ORD-01024,2025-12-29,CUST-0124,Puneet,PROD-0326,Running Shoes,Fashion,1,1751.26,166.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.4
+ORD-01025,2024-01-04,CUST-0125,Shreya,PROD-0339,Bamboo Storage Box,Home & Kitchen,2,1355.4,119.0,Hyderabad,Telangana,UPI,Returning,4.2
+ORD-01026,2025-11-13,CUST-0126,Asha,PROD-0352,Skin Serum,Beauty,3,1615.03,142.0,Patna,Bihar,Debit Card,New,4.2
+ORD-01027,2024-07-02,CUST-0127,Rahul,PROD-0365,Sunscreen SPF 50,Beauty,3,1022.21,29.0,Pune,Maharashtra,Net Banking,New,3.6
+ORD-01028,2024-08-27,CUST-0128,Neha,PROD-0378,Fitness Band,Sports,2,3682.84,294.0,Delhi,Delhi,Credit Card,New,3.1
+ORD-01029,2024-11-17,CUST-0129,Vikram,PROD-0391,Data Science Essentials,Books,1,1320.2,235.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.1
+ORD-01030,2024-08-22,CUST-0130,Priya,PROD-0404,Laptop Pro 14,Electronics,2,61240.85,10303.0,Kolkata,West Bengal,UPI,Returning,3.3
+ORD-01031,2024-04-17,CUST-0131,Manish,PROD-0417,Denim Jacket,Fashion,3,2699.73,335.0,Mumbai,Maharashtra,Debit Card,New,4.8
+ORD-01032,2025-02-13,CUST-0132,Ananya,PROD-0430,Air Fryer,Home & Kitchen,5,8638.32,589.0,Jaipur,Rajasthan,Net Banking,New,4.1
+ORD-01033,2024-05-28,CUST-0133,Sanjay,PROD-0443,Vacuum Flask,Home & Kitchen,2,1586.55,213.0,Chennai,Tamil Nadu,Credit Card,New,3.7
+ORD-01034,2025-03-13,CUST-0134,Kavya,PROD-0456,Lipstick Set,Beauty,1,1657.7,171.0,Bengaluru,Karnataka,Cash on Delivery,New,4.6
+ORD-01035,2024-02-23,CUST-0135,Siddharth,PROD-0469,Treadmill,Sports,3,29788.06,3509.0,Ahmedabad,Gujarat,UPI,Returning,4.9
+ORD-01036,2025-01-25,CUST-0136,Meera,PROD-0482,Business Strategy,Books,2,1300.97,131.0,Hyderabad,Telangana,Debit Card,New,4.1
+ORD-01037,2024-11-16,CUST-0137,Rohan,PROD-0495,Smart Watch X,Electronics,4,11769.94,71.0,Patna,Bihar,Net Banking,New,3.6
+ORD-01038,2024-09-12,CUST-0138,Ishita,PROD-0508,Cotton T-Shirt,Fashion,1,1021.07,57.0,Pune,Maharashtra,Credit Card,New,4.1
+ORD-01039,2025-11-19,CUST-0139,Nitin,PROD-0521,Ladies Kurta,Fashion,2,2657.85,131.0,Delhi,Delhi,Cash on Delivery,New,4.7
+ORD-01040,2024-05-28,CUST-0140,Pooja,PROD-0534,Dining Set,Home & Kitchen,2,6959.47,752.0,Lucknow,Uttar Pradesh,UPI,Returning,4.7
+ORD-01041,2025-01-26,CUST-0141,Arjun,PROD-0547,Makeup Kit,Beauty,5,2153.4,35.0,Kolkata,West Bengal,Debit Card,New,4.1
+ORD-01042,2025-10-25,CUST-0142,Divya,PROD-0560,Cycling Helmet,Sports,1,2615.47,479.0,Mumbai,Maharashtra,Net Banking,New,4.3
+ORD-01043,2024-09-04,CUST-0143,Yash,PROD-0573,Startup Playbook,Books,2,815.17,111.0,Jaipur,Rajasthan,Credit Card,New,4.7
+ORD-01044,2024-10-04,CUST-0144,Tanvi,PROD-0586,Noise Buds Pro,Electronics,2,4820.51,935.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.4
+ORD-01045,2024-01-27,CUST-0145,Harsh,PROD-0599,Wireless Mouse,Electronics,5,1806.91,130.0,Bengaluru,Karnataka,UPI,Returning,4.3
+ORD-01046,2025-10-03,CUST-0146,Deepa,PROD-0612,Formal Shirt,Fashion,2,1941.71,305.0,Ahmedabad,Gujarat,Debit Card,New,5.0
+ORD-01047,2024-02-15,CUST-0147,Saurabh,PROD-0625,Rice Cooker,Home & Kitchen,5,3116.2,356.0,Hyderabad,Telangana,Net Banking,New,3.9
+ORD-01048,2024-11-06,CUST-0148,Ritika,PROD-0638,Hair Dryer,Beauty,4,2462.77,488.0,Patna,Bihar,Credit Card,New,3.0
+ORD-01049,2024-09-27,CUST-0149,Puneet,PROD-0651,Dumbbell Set,Sports,1,3788.16,139.0,Pune,Maharashtra,Cash on Delivery,New,5.0
+ORD-01050,2024-10-05,CUST-0150,Shreya,PROD-0664,Python for Beginners,Books,5,844.09,59.0,Delhi,Delhi,UPI,Returning,4.8
+ORD-01051,2024-06-22,CUST-0151,Asha,PROD-0677,Young Investor Guide,Books,2,661.34,79.0,Lucknow,Uttar Pradesh,Debit Card,New,4.8
+ORD-01052,2024-08-06,CUST-0152,Rahul,PROD-0690,USB-C Hub,Electronics,4,2778.37,157.0,Kolkata,West Bengal,Net Banking,New,3.8
+ORD-01053,2024-03-04,CUST-0153,Neha,PROD-0703,Leather Sling Bag,Fashion,3,3901.43,19.0,Mumbai,Maharashtra,Credit Card,New,4.3
+ORD-01054,2025-05-14,CUST-0154,Vikram,PROD-0716,Blender Premium,Home & Kitchen,2,4746.92,937.0,Jaipur,Rajasthan,Cash on Delivery,New,3.7
+ORD-01055,2025-08-18,CUST-0155,Priya,PROD-0729,Face Cream,Beauty,1,958.01,29.0,Chennai,Tamil Nadu,UPI,Returning,4.4
+ORD-01056,2025-09-25,CUST-0156,Manish,PROD-0742,Yoga Mat,Sports,3,1645.96,236.0,Bengaluru,Karnataka,Debit Card,New,4.2
+ORD-01057,2025-10-17,CUST-0157,Ananya,PROD-0755,Cricket Kit,Sports,5,7534.09,1495.0,Ahmedabad,Gujarat,Net Banking,New,3.6
+ORD-01058,2025-08-08,CUST-0158,Sanjay,PROD-0768,Motivational Leadership,Books,5,1137.35,93.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-01059,2025-05-08,CUST-0159,Kavya,PROD-0781,4K Monitor,Electronics,3,30477.37,2896.0,Patna,Bihar,Cash on Delivery,New,4.1
+ORD-01060,2025-08-21,CUST-0160,Siddharth,PROD-0794,Running Shoes,Fashion,5,2118.68,306.0,Pune,Maharashtra,UPI,Returning,4.4
+ORD-01061,2024-03-14,CUST-0161,Meera,PROD-0807,Bamboo Storage Box,Home & Kitchen,5,1330.77,256.0,Delhi,Delhi,Debit Card,New,5.0
+ORD-01062,2025-10-24,CUST-0162,Rohan,PROD-0820,Skin Serum,Beauty,4,2187.65,92.0,Lucknow,Uttar Pradesh,Net Banking,New,3.2
+ORD-01063,2024-06-09,CUST-0163,Ishita,PROD-0833,Sunscreen SPF 50,Beauty,4,982.66,114.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-01064,2025-08-03,CUST-0164,Nitin,PROD-0846,Fitness Band,Sports,2,3785.84,726.0,Mumbai,Maharashtra,Cash on Delivery,New,4.8
+ORD-01065,2025-08-10,CUST-0165,Pooja,PROD-0859,Data Science Essentials,Books,4,1092.93,46.0,Jaipur,Rajasthan,UPI,Returning,4.4
+ORD-01066,2025-06-07,CUST-0166,Arjun,PROD-0872,Laptop Pro 14,Electronics,3,59065.84,1320.0,Chennai,Tamil Nadu,Debit Card,New,4.2
+ORD-01067,2025-09-18,CUST-0167,Divya,PROD-0885,Denim Jacket,Fashion,5,2741.39,481.0,Bengaluru,Karnataka,Net Banking,New,3.9
+ORD-01068,2024-11-25,CUST-0168,Yash,PROD-0898,Air Fryer,Home & Kitchen,1,8089.2,1225.0,Ahmedabad,Gujarat,Credit Card,New,4.2
+ORD-01069,2024-07-25,CUST-0169,Tanvi,PROD-0911,Vacuum Flask,Home & Kitchen,4,1392.41,129.0,Hyderabad,Telangana,Cash on Delivery,New,4.3
+ORD-01070,2024-04-30,CUST-0170,Harsh,PROD-0924,Lipstick Set,Beauty,2,1635.34,77.0,Patna,Bihar,UPI,Returning,2.8
+ORD-01071,2025-08-09,CUST-0171,Deepa,PROD-0937,Treadmill,Sports,3,30213.3,1975.0,Pune,Maharashtra,Debit Card,New,3.5
+ORD-01072,2025-01-09,CUST-0172,Saurabh,PROD-0950,Business Strategy,Books,1,1293.72,215.0,Delhi,Delhi,Net Banking,New,3.8
+ORD-01073,2024-09-27,CUST-0173,Ritika,PROD-0963,Smart Watch X,Electronics,2,10936.69,1448.0,Lucknow,Uttar Pradesh,Credit Card,New,3.9
+ORD-01074,2025-08-20,CUST-0174,Puneet,PROD-0976,Cotton T-Shirt,Fashion,5,991.03,131.0,Kolkata,West Bengal,Cash on Delivery,New,4.5
+ORD-01075,2025-08-13,CUST-0175,Shreya,PROD-0989,Ladies Kurta,Fashion,2,2503.21,246.0,Mumbai,Maharashtra,UPI,Returning,4.7
+ORD-01076,2024-03-03,CUST-0176,Asha,PROD-0003,Dining Set,Home & Kitchen,4,9112.67,1204.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-01077,2025-05-17,CUST-0177,Rahul,PROD-0016,Makeup Kit,Beauty,2,2227.79,416.0,Chennai,Tamil Nadu,Net Banking,New,4.1
+ORD-01078,2024-04-03,CUST-0178,Neha,PROD-0029,Cycling Helmet,Sports,5,3586.91,378.0,Bengaluru,Karnataka,Credit Card,New,3.6
+ORD-01079,2024-01-07,CUST-0179,Vikram,PROD-0042,Startup Playbook,Books,4,807.61,113.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.6
+ORD-01080,2025-02-14,CUST-0180,Priya,PROD-0055,Noise Buds Pro,Electronics,1,4882.83,98.0,Hyderabad,Telangana,UPI,Returning,4.1
+ORD-01081,2024-01-12,CUST-0181,Manish,PROD-0068,Wireless Mouse,Electronics,3,1932.48,251.0,Patna,Bihar,Debit Card,New,4.7
+ORD-01082,2024-05-30,CUST-0182,Ananya,PROD-0081,Formal Shirt,Fashion,2,1360.78,74.0,Pune,Maharashtra,Net Banking,New,3.6
+ORD-01083,2024-11-26,CUST-0183,Sanjay,PROD-0094,Rice Cooker,Home & Kitchen,3,2729.31,97.0,Delhi,Delhi,Credit Card,New,4.5
+ORD-01084,2025-11-14,CUST-0184,Kavya,PROD-0107,Hair Dryer,Beauty,4,3035.77,375.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.9
+ORD-01085,2024-06-10,CUST-0185,Siddharth,PROD-0120,Dumbbell Set,Sports,5,3874.14,440.0,Kolkata,West Bengal,UPI,Returning,5.0
+ORD-01086,2024-10-11,CUST-0186,Meera,PROD-0133,Python for Beginners,Books,1,779.69,48.0,Mumbai,Maharashtra,Debit Card,New,4.4
+ORD-01087,2025-04-07,CUST-0187,Rohan,PROD-0146,Young Investor Guide,Books,1,868.8,48.0,Jaipur,Rajasthan,Net Banking,New,5.0
+ORD-01088,2025-01-27,CUST-0188,Ishita,PROD-0159,USB-C Hub,Electronics,4,3033.48,64.0,Chennai,Tamil Nadu,Credit Card,New,3.9
+ORD-01089,2024-04-04,CUST-0189,Nitin,PROD-0172,Leather Sling Bag,Fashion,3,4102.55,593.0,Bengaluru,Karnataka,Cash on Delivery,New,3.9
+ORD-01090,2025-03-31,CUST-0190,Pooja,PROD-0185,Blender Premium,Home & Kitchen,2,5469.85,695.0,Ahmedabad,Gujarat,UPI,Returning,4.6
+ORD-01091,2024-07-27,CUST-0191,Arjun,PROD-0198,Face Cream,Beauty,3,995.08,124.0,Hyderabad,Telangana,Debit Card,New,3.0
+ORD-01092,2025-05-15,CUST-0192,Divya,PROD-0211,Yoga Mat,Sports,2,1454.78,207.0,Patna,Bihar,Net Banking,New,4.0
+ORD-01093,2025-09-21,CUST-0193,Yash,PROD-0224,Cricket Kit,Sports,4,6143.75,977.0,Pune,Maharashtra,Credit Card,New,4.7
+ORD-01094,2025-03-19,CUST-0194,Tanvi,PROD-0237,Motivational Leadership,Books,4,1102.46,15.0,Delhi,Delhi,Cash on Delivery,New,4.1
+ORD-01095,2024-02-23,CUST-0195,Harsh,PROD-0250,4K Monitor,Electronics,2,31316.86,4587.0,Lucknow,Uttar Pradesh,UPI,Returning,2.9
+ORD-01096,2024-07-21,CUST-0196,Deepa,PROD-0263,Running Shoes,Fashion,2,2111.7,214.0,Kolkata,West Bengal,Debit Card,New,4.6
+ORD-01097,2024-10-03,CUST-0197,Saurabh,PROD-0276,Bamboo Storage Box,Home & Kitchen,5,1561.31,122.0,Mumbai,Maharashtra,Net Banking,New,4.8
+ORD-01098,2025-05-30,CUST-0198,Ritika,PROD-0289,Skin Serum,Beauty,5,1788.91,240.0,Jaipur,Rajasthan,Credit Card,New,3.9
+ORD-01099,2024-01-06,CUST-0199,Puneet,PROD-0302,Sunscreen SPF 50,Beauty,1,913.2,86.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.6
+ORD-01100,2024-08-24,CUST-0200,Shreya,PROD-0315,Fitness Band,Sports,2,4122.5,457.0,Bengaluru,Karnataka,UPI,Returning,4.5
+ORD-01101,2024-04-12,CUST-0201,Asha,PROD-0328,Data Science Essentials,Books,1,1329.85,68.0,Ahmedabad,Gujarat,Debit Card,New,4.5
+ORD-01102,2024-03-22,CUST-0202,Rahul,PROD-0341,Laptop Pro 14,Electronics,2,62614.29,2045.0,Hyderabad,Telangana,Net Banking,New,5.0
+ORD-01103,2024-04-23,CUST-0203,Neha,PROD-0354,Denim Jacket,Fashion,3,2874.9,574.0,Patna,Bihar,Credit Card,New,4.2
+ORD-01104,2024-11-01,CUST-0204,Vikram,PROD-0367,Air Fryer,Home & Kitchen,5,6369.02,1039.0,Pune,Maharashtra,Cash on Delivery,New,5.0
+ORD-01105,2024-07-26,CUST-0205,Priya,PROD-0380,Vacuum Flask,Home & Kitchen,3,1632.12,299.0,Delhi,Delhi,UPI,Returning,3.2
+ORD-01106,2025-12-21,CUST-0206,Manish,PROD-0393,Lipstick Set,Beauty,5,1102.67,127.0,Lucknow,Uttar Pradesh,Debit Card,New,3.5
+ORD-01107,2025-09-07,CUST-0207,Ananya,PROD-0406,Treadmill,Sports,5,32875.33,6108.0,Kolkata,West Bengal,Net Banking,New,4.0
+ORD-01108,2025-01-16,CUST-0208,Sanjay,PROD-0419,Business Strategy,Books,4,1156.77,165.0,Mumbai,Maharashtra,Credit Card,New,4.9
+ORD-01109,2025-09-28,CUST-0209,Kavya,PROD-0432,Smart Watch X,Electronics,5,9498.73,1178.0,Jaipur,Rajasthan,Cash on Delivery,New,4.3
+ORD-01110,2024-04-14,CUST-0210,Siddharth,PROD-0445,Cotton T-Shirt,Fashion,1,795.93,68.0,Chennai,Tamil Nadu,UPI,Returning,4.0
+ORD-01111,2024-03-11,CUST-0211,Meera,PROD-0458,Ladies Kurta,Fashion,4,2329.18,328.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-01112,2025-02-03,CUST-0212,Rohan,PROD-0471,Dining Set,Home & Kitchen,5,8846.73,933.0,Ahmedabad,Gujarat,Net Banking,New,5.0
+ORD-01113,2024-07-25,CUST-0213,Ishita,PROD-0484,Makeup Kit,Beauty,1,2500.85,256.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-01114,2024-08-10,CUST-0214,Nitin,PROD-0497,Cycling Helmet,Sports,2,2853.59,101.0,Patna,Bihar,Cash on Delivery,New,4.0
+ORD-01115,2024-12-23,CUST-0215,Pooja,PROD-0510,Startup Playbook,Books,5,982.95,107.0,Pune,Maharashtra,UPI,Returning,4.4
+ORD-01116,2024-09-09,CUST-0216,Arjun,PROD-0523,Noise Buds Pro,Electronics,2,6665.77,233.0,Delhi,Delhi,Debit Card,New,4.1
+ORD-01117,2025-06-29,CUST-0217,Divya,PROD-0536,Wireless Mouse,Electronics,1,1768.86,73.0,Lucknow,Uttar Pradesh,Net Banking,New,4.4
+ORD-01118,2025-10-26,CUST-0218,Yash,PROD-0549,Formal Shirt,Fashion,5,1453.17,27.0,Kolkata,West Bengal,Credit Card,New,4.1
+ORD-01119,2025-03-18,CUST-0219,Tanvi,PROD-0562,Rice Cooker,Home & Kitchen,4,3464.09,406.0,Mumbai,Maharashtra,Cash on Delivery,New,4.4
+ORD-01120,2024-09-07,CUST-0220,Harsh,PROD-0575,Hair Dryer,Beauty,3,2578.41,231.0,Jaipur,Rajasthan,UPI,Returning,4.1
+ORD-01121,2025-11-07,CUST-0221,Deepa,PROD-0588,Dumbbell Set,Sports,3,3785.49,377.0,Chennai,Tamil Nadu,Debit Card,New,3.6
+ORD-01122,2025-03-20,CUST-0222,Saurabh,PROD-0601,Python for Beginners,Books,1,695.81,45.0,Bengaluru,Karnataka,Net Banking,New,4.0
+ORD-01123,2025-09-24,CUST-0223,Ritika,PROD-0614,Young Investor Guide,Books,2,702.41,124.0,Ahmedabad,Gujarat,Credit Card,New,3.4
+ORD-01124,2024-11-06,CUST-0224,Puneet,PROD-0627,USB-C Hub,Electronics,5,2618.11,59.0,Hyderabad,Telangana,Cash on Delivery,New,3.3
+ORD-01125,2024-02-03,CUST-0225,Shreya,PROD-0640,Leather Sling Bag,Fashion,4,4399.85,831.0,Patna,Bihar,UPI,Returning,5.0
+ORD-01126,2025-11-22,CUST-0226,Asha,PROD-0653,Blender Premium,Home & Kitchen,3,5576.76,148.0,Pune,Maharashtra,Debit Card,New,5.0
+ORD-01127,2024-04-04,CUST-0227,Rahul,PROD-0666,Face Cream,Beauty,1,950.93,75.0,Delhi,Delhi,Net Banking,New,4.2
+ORD-01128,2024-09-08,CUST-0228,Neha,PROD-0679,Yoga Mat,Sports,4,1346.96,251.0,Lucknow,Uttar Pradesh,Credit Card,New,3.3
+ORD-01129,2024-02-20,CUST-0229,Vikram,PROD-0692,Cricket Kit,Sports,3,5775.62,575.0,Kolkata,West Bengal,Cash on Delivery,New,3.4
+ORD-01130,2024-04-15,CUST-0230,Priya,PROD-0705,Motivational Leadership,Books,1,1237.86,142.0,Mumbai,Maharashtra,UPI,Returning,3.9
+ORD-01131,2025-10-25,CUST-0231,Manish,PROD-0718,4K Monitor,Electronics,4,23453.58,924.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-01132,2024-12-26,CUST-0232,Ananya,PROD-0731,Running Shoes,Fashion,1,1841.46,253.0,Chennai,Tamil Nadu,Net Banking,New,3.9
+ORD-01133,2024-06-02,CUST-0233,Sanjay,PROD-0744,Bamboo Storage Box,Home & Kitchen,2,1455.54,25.0,Bengaluru,Karnataka,Credit Card,New,3.3
+ORD-01134,2024-02-22,CUST-0234,Kavya,PROD-0757,Skin Serum,Beauty,2,1736.58,75.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.6
+ORD-01135,2025-10-05,CUST-0235,Siddharth,PROD-0770,Sunscreen SPF 50,Beauty,1,1393.83,130.0,Hyderabad,Telangana,UPI,Returning,5.0
+ORD-01136,2024-02-28,CUST-0236,Meera,PROD-0783,Fitness Band,Sports,5,3333.52,480.0,Patna,Bihar,Debit Card,New,4.7
+ORD-01137,2025-09-10,CUST-0237,Rohan,PROD-0796,Data Science Essentials,Books,1,996.86,47.0,Pune,Maharashtra,Net Banking,New,3.1
+ORD-01138,2024-05-11,CUST-0238,Ishita,PROD-0809,Laptop Pro 14,Electronics,3,66863.38,1765.0,Delhi,Delhi,Credit Card,New,3.5
+ORD-01139,2024-08-07,CUST-0239,Nitin,PROD-0822,Denim Jacket,Fashion,2,3446.1,246.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,5.0
+ORD-01140,2024-12-27,CUST-0240,Pooja,PROD-0835,Air Fryer,Home & Kitchen,3,6943.5,91.0,Kolkata,West Bengal,UPI,Returning,4.0
+ORD-01141,2025-12-27,CUST-0241,Arjun,PROD-0848,Vacuum Flask,Home & Kitchen,3,1566.74,50.0,Mumbai,Maharashtra,Debit Card,New,4.4
+ORD-01142,2024-02-01,CUST-0242,Divya,PROD-0861,Lipstick Set,Beauty,1,1636.5,180.0,Jaipur,Rajasthan,Net Banking,New,3.4
+ORD-01143,2025-12-04,CUST-0243,Yash,PROD-0874,Treadmill,Sports,2,32808.72,3597.0,Chennai,Tamil Nadu,Credit Card,New,4.8
+ORD-01144,2024-06-10,CUST-0244,Tanvi,PROD-0887,Business Strategy,Books,1,1259.37,225.0,Bengaluru,Karnataka,Cash on Delivery,New,3.7
+ORD-01145,2024-07-04,CUST-0245,Harsh,PROD-0900,Smart Watch X,Electronics,3,12159.31,765.0,Ahmedabad,Gujarat,UPI,Returning,4.4
+ORD-01146,2025-04-28,CUST-0246,Deepa,PROD-0913,Cotton T-Shirt,Fashion,5,979.56,136.0,Hyderabad,Telangana,Debit Card,New,5.0
+ORD-01147,2025-07-17,CUST-0247,Saurabh,PROD-0926,Ladies Kurta,Fashion,4,2309.72,418.0,Patna,Bihar,Net Banking,New,5.0
+ORD-01148,2024-03-31,CUST-0248,Ritika,PROD-0939,Dining Set,Home & Kitchen,4,7741.09,1257.0,Pune,Maharashtra,Credit Card,New,4.3
+ORD-01149,2024-01-31,CUST-0249,Puneet,PROD-0952,Makeup Kit,Beauty,4,2910.19,182.0,Delhi,Delhi,Cash on Delivery,New,4.2
+ORD-01150,2025-07-04,CUST-0250,Shreya,PROD-0965,Cycling Helmet,Sports,5,2913.99,301.0,Lucknow,Uttar Pradesh,UPI,Returning,4.2
+ORD-01151,2025-04-27,CUST-0251,Asha,PROD-0978,Startup Playbook,Books,4,911.08,169.0,Kolkata,West Bengal,Debit Card,New,4.2
+ORD-01152,2024-09-24,CUST-0252,Rahul,PROD-0991,Noise Buds Pro,Electronics,2,5161.66,346.0,Mumbai,Maharashtra,Net Banking,New,2.8
+ORD-01153,2024-12-24,CUST-0253,Neha,PROD-0005,Wireless Mouse,Electronics,3,1850.54,352.0,Jaipur,Rajasthan,Credit Card,New,3.8
+ORD-01154,2025-09-12,CUST-0254,Vikram,PROD-0018,Formal Shirt,Fashion,3,1969.83,124.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.6
+ORD-01155,2024-12-20,CUST-0255,Priya,PROD-0031,Rice Cooker,Home & Kitchen,2,3291.58,628.0,Bengaluru,Karnataka,UPI,Returning,3.6
+ORD-01156,2024-04-27,CUST-0256,Manish,PROD-0044,Hair Dryer,Beauty,5,3128.32,471.0,Ahmedabad,Gujarat,Debit Card,New,3.5
+ORD-01157,2025-06-22,CUST-0257,Ananya,PROD-0057,Dumbbell Set,Sports,2,5176.99,123.0,Hyderabad,Telangana,Net Banking,New,4.4
+ORD-01158,2024-05-12,CUST-0258,Sanjay,PROD-0070,Python for Beginners,Books,4,947.18,167.0,Patna,Bihar,Credit Card,New,4.4
+ORD-01159,2024-03-11,CUST-0259,Kavya,PROD-0083,Young Investor Guide,Books,3,775.77,100.0,Pune,Maharashtra,Cash on Delivery,New,4.7
+ORD-01160,2025-04-18,CUST-0260,Siddharth,PROD-0096,USB-C Hub,Electronics,1,2757.14,241.0,Delhi,Delhi,UPI,Returning,3.2
+ORD-01161,2024-09-01,CUST-0261,Meera,PROD-0109,Leather Sling Bag,Fashion,1,3937.59,123.0,Lucknow,Uttar Pradesh,Debit Card,New,3.4
+ORD-01162,2024-08-14,CUST-0262,Rohan,PROD-0122,Blender Premium,Home & Kitchen,2,5057.28,108.0,Kolkata,West Bengal,Net Banking,New,4.4
+ORD-01163,2024-04-21,CUST-0263,Ishita,PROD-0135,Face Cream,Beauty,5,1051.5,194.0,Mumbai,Maharashtra,Credit Card,New,3.7
+ORD-01164,2024-03-14,CUST-0264,Nitin,PROD-0148,Yoga Mat,Sports,1,1284.8,122.0,Jaipur,Rajasthan,Cash on Delivery,New,4.0
+ORD-01165,2024-05-26,CUST-0265,Pooja,PROD-0161,Cricket Kit,Sports,3,5859.05,979.0,Chennai,Tamil Nadu,UPI,Returning,4.4
+ORD-01166,2025-03-29,CUST-0266,Arjun,PROD-0174,Motivational Leadership,Books,2,1074.79,31.0,Bengaluru,Karnataka,Debit Card,New,5.0
+ORD-01167,2024-11-16,CUST-0267,Divya,PROD-0187,4K Monitor,Electronics,3,26186.95,4741.0,Ahmedabad,Gujarat,Net Banking,New,4.5
+ORD-01168,2025-10-24,CUST-0268,Yash,PROD-0200,Running Shoes,Fashion,3,1999.49,125.0,Hyderabad,Telangana,Credit Card,New,4.4
+ORD-01169,2024-12-23,CUST-0269,Tanvi,PROD-0213,Bamboo Storage Box,Home & Kitchen,5,1641.85,234.0,Patna,Bihar,Cash on Delivery,New,4.3
+ORD-01170,2025-08-27,CUST-0270,Harsh,PROD-0226,Skin Serum,Beauty,3,1696.24,210.0,Pune,Maharashtra,UPI,Returning,4.0
+ORD-01171,2025-09-25,CUST-0271,Deepa,PROD-0239,Sunscreen SPF 50,Beauty,4,1282.64,128.0,Delhi,Delhi,Debit Card,New,4.5
+ORD-01172,2024-08-20,CUST-0272,Saurabh,PROD-0252,Fitness Band,Sports,3,3996.44,770.0,Lucknow,Uttar Pradesh,Net Banking,New,3.5
+ORD-01173,2024-10-22,CUST-0273,Ritika,PROD-0265,Data Science Essentials,Books,4,1427.72,271.0,Kolkata,West Bengal,Credit Card,New,4.1
+ORD-01174,2024-04-21,CUST-0274,Puneet,PROD-0278,Laptop Pro 14,Electronics,2,87389.39,10686.0,Mumbai,Maharashtra,Cash on Delivery,New,4.6
+ORD-01175,2025-04-10,CUST-0275,Shreya,PROD-0291,Denim Jacket,Fashion,5,3376.66,323.0,Jaipur,Rajasthan,UPI,Returning,4.3
+ORD-01176,2024-11-08,CUST-0276,Asha,PROD-0304,Air Fryer,Home & Kitchen,4,8492.64,85.0,Chennai,Tamil Nadu,Debit Card,New,4.1
+ORD-01177,2024-02-27,CUST-0277,Rahul,PROD-0317,Vacuum Flask,Home & Kitchen,1,1182.33,120.0,Bengaluru,Karnataka,Net Banking,New,4.2
+ORD-01178,2025-08-03,CUST-0278,Neha,PROD-0330,Lipstick Set,Beauty,5,1504.31,51.0,Ahmedabad,Gujarat,Credit Card,New,4.1
+ORD-01179,2025-01-08,CUST-0279,Vikram,PROD-0343,Treadmill,Sports,1,29334.82,3103.0,Hyderabad,Telangana,Cash on Delivery,New,4.2
+ORD-01180,2024-01-23,CUST-0280,Priya,PROD-0356,Business Strategy,Books,3,1026.58,12.0,Patna,Bihar,UPI,Returning,3.8
+ORD-01181,2024-12-10,CUST-0281,Manish,PROD-0369,Smart Watch X,Electronics,4,9969.44,867.0,Pune,Maharashtra,Debit Card,New,4.8
+ORD-01182,2024-01-05,CUST-0282,Ananya,PROD-0382,Cotton T-Shirt,Fashion,3,951.16,10.0,Delhi,Delhi,Net Banking,New,4.4
+ORD-01183,2025-04-30,CUST-0283,Sanjay,PROD-0395,Ladies Kurta,Fashion,1,2249.8,31.0,Lucknow,Uttar Pradesh,Credit Card,New,3.8
+ORD-01184,2025-09-19,CUST-0284,Kavya,PROD-0408,Dining Set,Home & Kitchen,3,6863.72,722.0,Kolkata,West Bengal,Cash on Delivery,New,4.1
+ORD-01185,2025-12-23,CUST-0285,Siddharth,PROD-0421,Makeup Kit,Beauty,1,2252.74,288.0,Mumbai,Maharashtra,UPI,Returning,4.0
+ORD-01186,2024-12-01,CUST-0286,Meera,PROD-0434,Cycling Helmet,Sports,3,3036.26,388.0,Jaipur,Rajasthan,Debit Card,New,3.3
+ORD-01187,2025-06-05,CUST-0287,Rohan,PROD-0447,Startup Playbook,Books,2,1116.87,158.0,Chennai,Tamil Nadu,Net Banking,New,3.9
+ORD-01188,2025-03-22,CUST-0288,Ishita,PROD-0460,Noise Buds Pro,Electronics,4,5887.72,407.0,Bengaluru,Karnataka,Credit Card,New,4.8
+ORD-01189,2025-07-17,CUST-0289,Nitin,PROD-0473,Wireless Mouse,Electronics,5,2022.76,264.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.9
+ORD-01190,2024-12-19,CUST-0290,Pooja,PROD-0486,Formal Shirt,Fashion,1,1873.32,130.0,Hyderabad,Telangana,UPI,Returning,3.9
+ORD-01191,2024-05-01,CUST-0291,Arjun,PROD-0499,Rice Cooker,Home & Kitchen,5,2855.25,461.0,Patna,Bihar,Debit Card,New,4.2
+ORD-01192,2024-02-28,CUST-0292,Divya,PROD-0512,Hair Dryer,Beauty,1,2865.41,135.0,Pune,Maharashtra,Net Banking,New,3.0
+ORD-01193,2025-12-25,CUST-0293,Yash,PROD-0525,Dumbbell Set,Sports,5,5270.45,582.0,Delhi,Delhi,Credit Card,New,4.5
+ORD-01194,2025-10-07,CUST-0294,Tanvi,PROD-0538,Python for Beginners,Books,3,670.16,13.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.7
+ORD-01195,2025-09-10,CUST-0295,Harsh,PROD-0551,Young Investor Guide,Books,5,700.77,14.0,Kolkata,West Bengal,UPI,Returning,4.7
+ORD-01196,2025-06-28,CUST-0296,Deepa,PROD-0564,USB-C Hub,Electronics,1,3016.83,17.0,Mumbai,Maharashtra,Debit Card,New,4.2
+ORD-01197,2025-06-27,CUST-0297,Saurabh,PROD-0577,Leather Sling Bag,Fashion,2,3256.91,123.0,Jaipur,Rajasthan,Net Banking,New,3.8
+ORD-01198,2024-09-17,CUST-0298,Ritika,PROD-0590,Blender Premium,Home & Kitchen,2,4997.29,238.0,Chennai,Tamil Nadu,Credit Card,New,5.0
+ORD-01199,2024-03-01,CUST-0299,Puneet,PROD-0603,Face Cream,Beauty,2,1064.21,24.0,Bengaluru,Karnataka,Cash on Delivery,New,3.7
+ORD-01200,2025-12-13,CUST-0300,Shreya,PROD-0616,Yoga Mat,Sports,4,1215.32,46.0,Ahmedabad,Gujarat,UPI,Returning,4.4
+ORD-01201,2024-12-30,CUST-0301,Asha,PROD-0629,Cricket Kit,Sports,3,5350.67,194.0,Hyderabad,Telangana,Debit Card,New,4.9
+ORD-01202,2025-09-29,CUST-0302,Rahul,PROD-0642,Motivational Leadership,Books,1,907.28,103.0,Patna,Bihar,Net Banking,New,4.9
+ORD-01203,2025-06-27,CUST-0303,Neha,PROD-0655,4K Monitor,Electronics,5,29457.06,1039.0,Pune,Maharashtra,Credit Card,New,4.2
+ORD-01204,2025-06-18,CUST-0304,Vikram,PROD-0668,Running Shoes,Fashion,5,1740.2,163.0,Delhi,Delhi,Cash on Delivery,New,4.3
+ORD-01205,2025-08-12,CUST-0305,Priya,PROD-0681,Bamboo Storage Box,Home & Kitchen,4,1280.73,17.0,Lucknow,Uttar Pradesh,UPI,Returning,4.1
+ORD-01206,2025-04-23,CUST-0306,Manish,PROD-0694,Skin Serum,Beauty,5,1868.43,234.0,Kolkata,West Bengal,Debit Card,New,3.9
+ORD-01207,2025-01-20,CUST-0307,Ananya,PROD-0707,Sunscreen SPF 50,Beauty,5,1137.0,188.0,Mumbai,Maharashtra,Net Banking,New,4.3
+ORD-01208,2025-09-15,CUST-0308,Sanjay,PROD-0720,Fitness Band,Sports,4,3093.98,283.0,Jaipur,Rajasthan,Credit Card,New,3.9
+ORD-01209,2024-07-23,CUST-0309,Kavya,PROD-0733,Data Science Essentials,Books,5,1428.81,55.0,Chennai,Tamil Nadu,Cash on Delivery,New,3.6
+ORD-01210,2025-01-22,CUST-0310,Siddharth,PROD-0746,Laptop Pro 14,Electronics,1,62085.09,5688.0,Bengaluru,Karnataka,UPI,Returning,5.0
+ORD-01211,2025-01-01,CUST-0311,Meera,PROD-0759,Denim Jacket,Fashion,4,2378.71,33.0,Ahmedabad,Gujarat,Debit Card,New,3.3
+ORD-01212,2025-12-01,CUST-0312,Rohan,PROD-0772,Air Fryer,Home & Kitchen,5,7275.49,843.0,Hyderabad,Telangana,Net Banking,New,4.0
+ORD-01213,2025-05-30,CUST-0313,Ishita,PROD-0785,Vacuum Flask,Home & Kitchen,3,1699.71,96.0,Patna,Bihar,Credit Card,New,3.5
+ORD-01214,2025-08-18,CUST-0314,Nitin,PROD-0798,Lipstick Set,Beauty,3,1332.64,132.0,Pune,Maharashtra,Cash on Delivery,New,4.6
+ORD-01215,2024-04-03,CUST-0315,Pooja,PROD-0811,Treadmill,Sports,1,44770.7,6778.0,Delhi,Delhi,UPI,Returning,3.6
+ORD-01216,2024-06-03,CUST-0316,Arjun,PROD-0824,Business Strategy,Books,5,1329.91,24.0,Lucknow,Uttar Pradesh,Debit Card,New,4.5
+ORD-01217,2025-03-04,CUST-0317,Divya,PROD-0837,Smart Watch X,Electronics,3,11953.99,967.0,Kolkata,West Bengal,Net Banking,New,3.7
+ORD-01218,2024-09-16,CUST-0318,Yash,PROD-0850,Cotton T-Shirt,Fashion,4,722.04,141.0,Mumbai,Maharashtra,Credit Card,New,5.0
+ORD-01219,2025-10-21,CUST-0319,Tanvi,PROD-0863,Ladies Kurta,Fashion,4,2695.26,70.0,Jaipur,Rajasthan,Cash on Delivery,New,4.5
+ORD-01220,2025-12-26,CUST-0320,Harsh,PROD-0876,Dining Set,Home & Kitchen,5,6653.08,770.0,Chennai,Tamil Nadu,UPI,Returning,4.9
+ORD-01221,2025-07-10,CUST-0321,Deepa,PROD-0889,Makeup Kit,Beauty,1,2050.87,34.0,Bengaluru,Karnataka,Debit Card,New,3.5
+ORD-01222,2024-10-21,CUST-0322,Saurabh,PROD-0902,Cycling Helmet,Sports,3,3391.15,278.0,Ahmedabad,Gujarat,Net Banking,New,3.1
+ORD-01223,2025-08-21,CUST-0323,Ritika,PROD-0915,Startup Playbook,Books,1,932.05,110.0,Hyderabad,Telangana,Credit Card,New,3.6
+ORD-01224,2025-12-29,CUST-0324,Puneet,PROD-0928,Noise Buds Pro,Electronics,3,6283.39,235.0,Patna,Bihar,Cash on Delivery,New,5.0
+ORD-01225,2024-05-11,CUST-0325,Shreya,PROD-0941,Wireless Mouse,Electronics,4,1443.26,3.0,Pune,Maharashtra,UPI,Returning,4.8
+ORD-01226,2025-04-03,CUST-0326,Asha,PROD-0954,Formal Shirt,Fashion,2,2053.62,5.0,Delhi,Delhi,Debit Card,New,4.4
+ORD-01227,2024-11-20,CUST-0327,Rahul,PROD-0967,Rice Cooker,Home & Kitchen,5,3086.86,493.0,Lucknow,Uttar Pradesh,Net Banking,New,4.1
+ORD-01228,2025-07-29,CUST-0328,Neha,PROD-0980,Hair Dryer,Beauty,4,3417.08,556.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-01229,2024-01-31,CUST-0329,Vikram,PROD-0993,Dumbbell Set,Sports,4,5247.17,416.0,Mumbai,Maharashtra,Cash on Delivery,New,4.6
+ORD-01230,2024-05-27,CUST-0330,Priya,PROD-0007,Python for Beginners,Books,4,649.69,106.0,Jaipur,Rajasthan,UPI,Returning,4.5
+ORD-01231,2024-06-17,CUST-0331,Manish,PROD-0020,Young Investor Guide,Books,2,888.24,10.0,Chennai,Tamil Nadu,Debit Card,New,3.7
+ORD-01232,2025-11-16,CUST-0332,Ananya,PROD-0033,USB-C Hub,Electronics,5,2376.26,307.0,Bengaluru,Karnataka,Net Banking,New,3.5
+ORD-01233,2024-07-07,CUST-0333,Sanjay,PROD-0046,Leather Sling Bag,Fashion,5,4619.12,438.0,Ahmedabad,Gujarat,Credit Card,New,4.6
+ORD-01234,2025-01-08,CUST-0334,Kavya,PROD-0059,Blender Premium,Home & Kitchen,1,3648.98,580.0,Hyderabad,Telangana,Cash on Delivery,New,4.6
+ORD-01235,2024-03-02,CUST-0335,Siddharth,PROD-0072,Face Cream,Beauty,5,865.11,22.0,Patna,Bihar,UPI,Returning,3.4
+ORD-01236,2025-11-24,CUST-0336,Meera,PROD-0085,Yoga Mat,Sports,2,1643.37,112.0,Pune,Maharashtra,Debit Card,New,4.4
+ORD-01237,2025-02-10,CUST-0337,Rohan,PROD-0098,Cricket Kit,Sports,3,6841.62,1200.0,Delhi,Delhi,Net Banking,New,4.6
+ORD-01238,2025-04-23,CUST-0338,Ishita,PROD-0111,Motivational Leadership,Books,1,839.82,116.0,Lucknow,Uttar Pradesh,Credit Card,New,3.9
+ORD-01239,2025-01-11,CUST-0339,Nitin,PROD-0124,4K Monitor,Electronics,3,31143.18,5559.0,Kolkata,West Bengal,Cash on Delivery,New,3.6
+ORD-01240,2025-06-25,CUST-0340,Pooja,PROD-0137,Running Shoes,Fashion,2,2170.71,272.0,Mumbai,Maharashtra,UPI,Returning,5.0
+ORD-01241,2025-12-26,CUST-0341,Arjun,PROD-0150,Bamboo Storage Box,Home & Kitchen,4,1597.42,173.0,Jaipur,Rajasthan,Debit Card,New,5.0
+ORD-01242,2024-12-12,CUST-0342,Divya,PROD-0163,Skin Serum,Beauty,4,1533.55,118.0,Chennai,Tamil Nadu,Net Banking,New,3.7
+ORD-01243,2025-10-04,CUST-0343,Yash,PROD-0176,Sunscreen SPF 50,Beauty,3,1114.87,32.0,Bengaluru,Karnataka,Credit Card,New,4.4
+ORD-01244,2024-04-30,CUST-0344,Tanvi,PROD-0189,Fitness Band,Sports,1,3466.91,58.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.4
+ORD-01245,2025-06-13,CUST-0345,Harsh,PROD-0202,Data Science Essentials,Books,2,1386.72,47.0,Hyderabad,Telangana,UPI,Returning,4.5
+ORD-01246,2025-01-16,CUST-0346,Deepa,PROD-0215,Laptop Pro 14,Electronics,5,57068.13,10944.0,Patna,Bihar,Debit Card,New,3.9
+ORD-01247,2025-01-08,CUST-0347,Saurabh,PROD-0228,Denim Jacket,Fashion,2,2951.95,133.0,Pune,Maharashtra,Net Banking,New,2.5
+ORD-01248,2024-04-22,CUST-0348,Ritika,PROD-0241,Air Fryer,Home & Kitchen,5,7360.32,758.0,Delhi,Delhi,Credit Card,New,5.0
+ORD-01249,2024-07-11,CUST-0349,Puneet,PROD-0254,Vacuum Flask,Home & Kitchen,1,1299.66,151.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.1
+ORD-01250,2024-09-19,CUST-0350,Shreya,PROD-0267,Lipstick Set,Beauty,3,1470.81,14.0,Kolkata,West Bengal,UPI,Returning,3.6
+ORD-01251,2025-09-10,CUST-0351,Asha,PROD-0280,Treadmill,Sports,4,40902.98,1475.0,Mumbai,Maharashtra,Debit Card,New,4.5
+ORD-01252,2025-06-29,CUST-0352,Rahul,PROD-0293,Business Strategy,Books,4,1297.7,202.0,Jaipur,Rajasthan,Net Banking,New,4.1
+ORD-01253,2025-02-05,CUST-0353,Neha,PROD-0306,Smart Watch X,Electronics,3,10206.39,557.0,Chennai,Tamil Nadu,Credit Card,New,3.7
+ORD-01254,2025-09-30,CUST-0354,Vikram,PROD-0319,Cotton T-Shirt,Fashion,5,869.15,64.0,Bengaluru,Karnataka,Cash on Delivery,New,4.4
+ORD-01255,2024-06-14,CUST-0355,Priya,PROD-0332,Ladies Kurta,Fashion,3,1851.36,137.0,Ahmedabad,Gujarat,UPI,Returning,2.5
+ORD-01256,2025-07-19,CUST-0356,Manish,PROD-0345,Dining Set,Home & Kitchen,1,6787.14,1278.0,Hyderabad,Telangana,Debit Card,New,4.5
+ORD-01257,2024-07-28,CUST-0357,Ananya,PROD-0358,Makeup Kit,Beauty,5,1981.56,5.0,Patna,Bihar,Net Banking,New,4.2
+ORD-01258,2025-03-23,CUST-0358,Sanjay,PROD-0371,Cycling Helmet,Sports,2,2573.41,264.0,Pune,Maharashtra,Credit Card,New,5.0
+ORD-01259,2025-02-19,CUST-0359,Kavya,PROD-0384,Startup Playbook,Books,2,870.62,103.0,Delhi,Delhi,Cash on Delivery,New,3.2
+ORD-01260,2024-01-22,CUST-0360,Siddharth,PROD-0397,Noise Buds Pro,Electronics,1,5091.13,291.0,Lucknow,Uttar Pradesh,UPI,Returning,4.9
+ORD-01261,2025-06-28,CUST-0361,Meera,PROD-0410,Wireless Mouse,Electronics,5,1972.21,356.0,Kolkata,West Bengal,Debit Card,New,3.0
+ORD-01262,2025-08-27,CUST-0362,Rohan,PROD-0423,Formal Shirt,Fashion,3,1774.34,285.0,Mumbai,Maharashtra,Net Banking,New,4.9
+ORD-01263,2024-07-19,CUST-0363,Ishita,PROD-0436,Rice Cooker,Home & Kitchen,2,3151.63,187.0,Jaipur,Rajasthan,Credit Card,New,4.3
+ORD-01264,2025-10-27,CUST-0364,Nitin,PROD-0449,Hair Dryer,Beauty,2,3346.05,452.0,Chennai,Tamil Nadu,Cash on Delivery,New,2.8
+ORD-01265,2024-07-26,CUST-0365,Pooja,PROD-0462,Dumbbell Set,Sports,5,4361.61,399.0,Bengaluru,Karnataka,UPI,Returning,3.9
+ORD-01266,2025-09-06,CUST-0366,Arjun,PROD-0475,Python for Beginners,Books,3,636.18,16.0,Ahmedabad,Gujarat,Debit Card,New,2.6
+ORD-01267,2024-06-20,CUST-0367,Divya,PROD-0488,Young Investor Guide,Books,4,859.93,112.0,Hyderabad,Telangana,Net Banking,New,4.1
+ORD-01268,2025-03-02,CUST-0368,Yash,PROD-0501,USB-C Hub,Electronics,2,2435.25,327.0,Patna,Bihar,Credit Card,New,3.5
+ORD-01269,2024-09-18,CUST-0369,Tanvi,PROD-0514,Leather Sling Bag,Fashion,4,3885.49,641.0,Pune,Maharashtra,Cash on Delivery,New,3.9
+ORD-01270,2024-05-07,CUST-0370,Harsh,PROD-0527,Blender Premium,Home & Kitchen,2,5537.32,738.0,Delhi,Delhi,UPI,Returning,4.4
+ORD-01271,2025-10-15,CUST-0371,Deepa,PROD-0540,Face Cream,Beauty,3,1105.11,36.0,Lucknow,Uttar Pradesh,Debit Card,New,2.7
+ORD-01272,2024-07-22,CUST-0372,Saurabh,PROD-0553,Yoga Mat,Sports,2,1757.3,324.0,Kolkata,West Bengal,Net Banking,New,4.1
+ORD-01273,2024-09-26,CUST-0373,Ritika,PROD-0566,Cricket Kit,Sports,1,6771.03,54.0,Mumbai,Maharashtra,Credit Card,New,3.8
+ORD-01274,2025-08-27,CUST-0374,Puneet,PROD-0579,Motivational Leadership,Books,3,916.01,118.0,Jaipur,Rajasthan,Cash on Delivery,New,2.7
+ORD-01275,2025-06-04,CUST-0375,Shreya,PROD-0592,4K Monitor,Electronics,3,30447.77,2796.0,Chennai,Tamil Nadu,UPI,Returning,3.9
+ORD-01276,2024-07-23,CUST-0376,Asha,PROD-0605,Running Shoes,Fashion,2,2529.9,311.0,Bengaluru,Karnataka,Debit Card,New,4.5
+ORD-01277,2025-12-29,CUST-0377,Rahul,PROD-0618,Bamboo Storage Box,Home & Kitchen,1,1356.41,30.0,Ahmedabad,Gujarat,Net Banking,New,3.9
+ORD-01278,2025-12-28,CUST-0378,Neha,PROD-0631,Skin Serum,Beauty,3,2119.02,89.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-01279,2024-01-18,CUST-0379,Vikram,PROD-0644,Sunscreen SPF 50,Beauty,1,1077.72,58.0,Patna,Bihar,Cash on Delivery,New,3.4
+ORD-01280,2025-07-16,CUST-0380,Priya,PROD-0657,Fitness Band,Sports,3,3982.96,72.0,Pune,Maharashtra,UPI,Returning,4.2
+ORD-01281,2024-01-06,CUST-0381,Manish,PROD-0670,Data Science Essentials,Books,4,1328.73,121.0,Delhi,Delhi,Debit Card,New,3.3
+ORD-01282,2024-10-27,CUST-0382,Ananya,PROD-0683,Laptop Pro 14,Electronics,1,68669.97,10909.0,Lucknow,Uttar Pradesh,Net Banking,New,5.0
+ORD-01283,2025-07-21,CUST-0383,Sanjay,PROD-0696,Denim Jacket,Fashion,2,2756.76,417.0,Kolkata,West Bengal,Credit Card,New,3.8
+ORD-01284,2024-03-30,CUST-0384,Kavya,PROD-0709,Air Fryer,Home & Kitchen,3,9369.66,1826.0,Mumbai,Maharashtra,Cash on Delivery,New,5.0
+ORD-01285,2025-03-26,CUST-0385,Siddharth,PROD-0722,Vacuum Flask,Home & Kitchen,2,1449.17,87.0,Jaipur,Rajasthan,UPI,Returning,3.7
+ORD-01286,2024-03-02,CUST-0386,Meera,PROD-0735,Lipstick Set,Beauty,4,1226.14,180.0,Chennai,Tamil Nadu,Debit Card,New,4.4
+ORD-01287,2024-01-23,CUST-0387,Rohan,PROD-0748,Treadmill,Sports,5,42407.67,6559.0,Bengaluru,Karnataka,Net Banking,New,5.0
+ORD-01288,2025-05-12,CUST-0388,Ishita,PROD-0761,Business Strategy,Books,3,1260.83,244.0,Ahmedabad,Gujarat,Credit Card,New,3.5
+ORD-01289,2025-03-22,CUST-0389,Nitin,PROD-0774,Smart Watch X,Electronics,5,11566.46,1274.0,Hyderabad,Telangana,Cash on Delivery,New,3.2
+ORD-01290,2025-01-02,CUST-0390,Pooja,PROD-0787,Cotton T-Shirt,Fashion,4,911.45,91.0,Patna,Bihar,UPI,Returning,3.0
+ORD-01291,2024-03-14,CUST-0391,Arjun,PROD-0800,Ladies Kurta,Fashion,1,2664.35,355.0,Pune,Maharashtra,Debit Card,New,4.3
+ORD-01292,2024-01-22,CUST-0392,Divya,PROD-0813,Dining Set,Home & Kitchen,2,6099.68,228.0,Delhi,Delhi,Net Banking,New,4.8
+ORD-01293,2025-05-29,CUST-0393,Yash,PROD-0826,Makeup Kit,Beauty,4,2369.99,233.0,Lucknow,Uttar Pradesh,Credit Card,New,4.4
+ORD-01294,2025-06-13,CUST-0394,Tanvi,PROD-0839,Cycling Helmet,Sports,5,2666.9,67.0,Kolkata,West Bengal,Cash on Delivery,New,4.3
+ORD-01295,2024-12-11,CUST-0395,Harsh,PROD-0852,Startup Playbook,Books,2,992.07,14.0,Mumbai,Maharashtra,UPI,Returning,4.2
+ORD-01296,2025-06-28,CUST-0396,Deepa,PROD-0865,Noise Buds Pro,Electronics,4,5124.92,158.0,Jaipur,Rajasthan,Debit Card,New,4.0
+ORD-01297,2025-04-17,CUST-0397,Saurabh,PROD-0878,Wireless Mouse,Electronics,3,1367.45,198.0,Chennai,Tamil Nadu,Net Banking,New,4.6
+ORD-01298,2024-07-19,CUST-0398,Ritika,PROD-0891,Formal Shirt,Fashion,5,1530.95,2.0,Bengaluru,Karnataka,Credit Card,New,3.8
+ORD-01299,2024-06-03,CUST-0399,Puneet,PROD-0904,Rice Cooker,Home & Kitchen,1,3689.65,118.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.2
+ORD-01300,2025-02-24,CUST-0400,Shreya,PROD-0917,Hair Dryer,Beauty,1,2941.03,542.0,Hyderabad,Telangana,UPI,Returning,4.6
+ORD-01301,2024-11-15,CUST-0401,Asha,PROD-0930,Dumbbell Set,Sports,1,3924.52,687.0,Patna,Bihar,Debit Card,New,5.0
+ORD-01302,2025-08-22,CUST-0402,Rahul,PROD-0943,Python for Beginners,Books,5,695.73,43.0,Pune,Maharashtra,Net Banking,New,5.0
+ORD-01303,2025-04-28,CUST-0403,Neha,PROD-0956,Young Investor Guide,Books,5,655.43,64.0,Delhi,Delhi,Credit Card,New,4.6
+ORD-01304,2025-12-17,CUST-0404,Vikram,PROD-0969,USB-C Hub,Electronics,4,3311.0,493.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,4.5
+ORD-01305,2024-02-22,CUST-0405,Priya,PROD-0982,Leather Sling Bag,Fashion,3,4033.92,620.0,Kolkata,West Bengal,UPI,Returning,4.5
+ORD-01306,2024-06-20,CUST-0406,Manish,PROD-0995,Blender Premium,Home & Kitchen,4,5365.76,914.0,Mumbai,Maharashtra,Debit Card,New,5.0
+ORD-01307,2024-04-06,CUST-0407,Ananya,PROD-0009,Face Cream,Beauty,5,900.22,132.0,Jaipur,Rajasthan,Net Banking,New,4.0
+ORD-01308,2024-05-12,CUST-0408,Sanjay,PROD-0022,Yoga Mat,Sports,5,1451.38,62.0,Chennai,Tamil Nadu,Credit Card,New,3.5
+ORD-01309,2025-04-14,CUST-0409,Kavya,PROD-0035,Cricket Kit,Sports,1,7146.89,568.0,Bengaluru,Karnataka,Cash on Delivery,New,3.9
+ORD-01310,2025-05-25,CUST-0410,Siddharth,PROD-0048,Motivational Leadership,Books,5,1102.04,80.0,Ahmedabad,Gujarat,UPI,Returning,3.2
+ORD-01311,2024-03-18,CUST-0411,Meera,PROD-0061,4K Monitor,Electronics,5,25221.47,4324.0,Hyderabad,Telangana,Debit Card,New,4.8
+ORD-01312,2024-08-09,CUST-0412,Rohan,PROD-0074,Running Shoes,Fashion,5,2529.6,217.0,Patna,Bihar,Net Banking,New,3.5
+ORD-01313,2025-03-01,CUST-0413,Ishita,PROD-0087,Bamboo Storage Box,Home & Kitchen,4,1378.97,128.0,Pune,Maharashtra,Credit Card,New,4.0
+ORD-01314,2024-11-22,CUST-0414,Nitin,PROD-0100,Skin Serum,Beauty,1,1878.28,209.0,Delhi,Delhi,Cash on Delivery,New,4.3
+ORD-01315,2025-11-03,CUST-0415,Pooja,PROD-0113,Sunscreen SPF 50,Beauty,2,1367.94,59.0,Lucknow,Uttar Pradesh,UPI,Returning,4.1
+ORD-01316,2025-03-30,CUST-0416,Arjun,PROD-0126,Fitness Band,Sports,5,2862.95,363.0,Kolkata,West Bengal,Debit Card,New,4.7
+ORD-01317,2024-09-24,CUST-0417,Divya,PROD-0139,Data Science Essentials,Books,5,1096.33,72.0,Mumbai,Maharashtra,Net Banking,New,4.1
+ORD-01318,2024-08-25,CUST-0418,Yash,PROD-0152,Laptop Pro 14,Electronics,2,70223.84,8757.0,Jaipur,Rajasthan,Credit Card,New,4.0
+ORD-01319,2024-02-18,CUST-0419,Tanvi,PROD-0165,Denim Jacket,Fashion,4,2408.02,312.0,Chennai,Tamil Nadu,Cash on Delivery,New,5.0
+ORD-01320,2024-06-10,CUST-0420,Harsh,PROD-0178,Air Fryer,Home & Kitchen,4,6914.49,1354.0,Bengaluru,Karnataka,UPI,Returning,3.2
+ORD-01321,2024-09-12,CUST-0421,Deepa,PROD-0191,Vacuum Flask,Home & Kitchen,1,1476.81,0.0,Ahmedabad,Gujarat,Debit Card,New,3.6
+ORD-01322,2025-11-01,CUST-0422,Saurabh,PROD-0204,Lipstick Set,Beauty,2,1675.48,232.0,Hyderabad,Telangana,Net Banking,New,4.9
+ORD-01323,2025-02-05,CUST-0423,Ritika,PROD-0217,Treadmill,Sports,4,36218.14,2245.0,Patna,Bihar,Credit Card,New,3.5
+ORD-01324,2024-03-31,CUST-0424,Puneet,PROD-0230,Business Strategy,Books,5,962.16,131.0,Pune,Maharashtra,Cash on Delivery,New,4.0
+ORD-01325,2025-12-26,CUST-0425,Shreya,PROD-0243,Smart Watch X,Electronics,4,12068.04,2100.0,Delhi,Delhi,UPI,Returning,3.6
+ORD-01326,2025-05-15,CUST-0426,Asha,PROD-0256,Cotton T-Shirt,Fashion,3,781.29,45.0,Lucknow,Uttar Pradesh,Debit Card,New,4.5
+ORD-01327,2024-03-17,CUST-0427,Rahul,PROD-0269,Ladies Kurta,Fashion,3,1882.14,171.0,Kolkata,West Bengal,Net Banking,New,4.5
+ORD-01328,2024-09-05,CUST-0428,Neha,PROD-0282,Dining Set,Home & Kitchen,3,8614.66,1617.0,Mumbai,Maharashtra,Credit Card,New,4.7
+ORD-01329,2024-01-27,CUST-0429,Vikram,PROD-0295,Makeup Kit,Beauty,3,2017.49,123.0,Jaipur,Rajasthan,Cash on Delivery,New,4.0
+ORD-01330,2024-03-22,CUST-0430,Priya,PROD-0308,Cycling Helmet,Sports,4,2524.0,19.0,Chennai,Tamil Nadu,UPI,Returning,4.3
+ORD-01331,2025-11-16,CUST-0431,Manish,PROD-0321,Startup Playbook,Books,4,1068.52,16.0,Bengaluru,Karnataka,Debit Card,New,3.6
+ORD-01332,2025-06-22,CUST-0432,Ananya,PROD-0334,Noise Buds Pro,Electronics,1,6398.9,434.0,Ahmedabad,Gujarat,Net Banking,New,4.4
+ORD-01333,2024-01-04,CUST-0433,Sanjay,PROD-0347,Wireless Mouse,Electronics,2,1991.1,180.0,Hyderabad,Telangana,Credit Card,New,4.5
+ORD-01334,2025-06-14,CUST-0434,Kavya,PROD-0360,Formal Shirt,Fashion,3,1532.4,130.0,Patna,Bihar,Cash on Delivery,New,4.7
+ORD-01335,2024-05-02,CUST-0435,Siddharth,PROD-0373,Rice Cooker,Home & Kitchen,3,3701.64,296.0,Pune,Maharashtra,UPI,Returning,4.3
+ORD-01336,2025-07-20,CUST-0436,Meera,PROD-0386,Hair Dryer,Beauty,3,2904.98,516.0,Delhi,Delhi,Debit Card,New,4.6
+ORD-01337,2025-09-07,CUST-0437,Rohan,PROD-0399,Dumbbell Set,Sports,5,4283.56,380.0,Lucknow,Uttar Pradesh,Net Banking,New,3.9
+ORD-01338,2024-11-08,CUST-0438,Ishita,PROD-0412,Python for Beginners,Books,2,659.31,66.0,Kolkata,West Bengal,Credit Card,New,4.0
+ORD-01339,2024-07-10,CUST-0439,Nitin,PROD-0425,Young Investor Guide,Books,1,906.46,63.0,Mumbai,Maharashtra,Cash on Delivery,New,4.7
+ORD-01340,2025-02-17,CUST-0440,Pooja,PROD-0438,USB-C Hub,Electronics,4,3375.13,297.0,Jaipur,Rajasthan,UPI,Returning,5.0
+ORD-01341,2024-09-09,CUST-0441,Arjun,PROD-0451,Leather Sling Bag,Fashion,5,4181.95,288.0,Chennai,Tamil Nadu,Debit Card,New,4.2
+ORD-01342,2025-01-31,CUST-0442,Divya,PROD-0464,Blender Premium,Home & Kitchen,1,4492.47,167.0,Bengaluru,Karnataka,Net Banking,New,4.3
+ORD-01343,2025-06-02,CUST-0443,Yash,PROD-0477,Face Cream,Beauty,5,840.64,103.0,Ahmedabad,Gujarat,Credit Card,New,3.4
+ORD-01344,2025-03-17,CUST-0444,Tanvi,PROD-0490,Yoga Mat,Sports,5,1337.51,15.0,Hyderabad,Telangana,Cash on Delivery,New,3.9
+ORD-01345,2025-04-10,CUST-0445,Harsh,PROD-0503,Cricket Kit,Sports,1,8011.23,507.0,Patna,Bihar,UPI,Returning,5.0
+ORD-01346,2025-06-28,CUST-0446,Deepa,PROD-0516,Motivational Leadership,Books,2,1217.83,92.0,Pune,Maharashtra,Debit Card,New,4.6
+ORD-01347,2025-03-05,CUST-0447,Saurabh,PROD-0529,4K Monitor,Electronics,1,24139.1,239.0,Delhi,Delhi,Net Banking,New,4.2
+ORD-01348,2025-07-22,CUST-0448,Ritika,PROD-0542,Running Shoes,Fashion,2,1923.34,175.0,Lucknow,Uttar Pradesh,Credit Card,New,3.8
+ORD-01349,2025-03-01,CUST-0449,Puneet,PROD-0555,Bamboo Storage Box,Home & Kitchen,3,1192.76,17.0,Kolkata,West Bengal,Cash on Delivery,New,3.5
+ORD-01350,2024-03-21,CUST-0450,Shreya,PROD-0568,Skin Serum,Beauty,4,2133.77,392.0,Mumbai,Maharashtra,UPI,Returning,3.4
+ORD-01351,2025-08-17,CUST-0001,Asha,PROD-0581,Sunscreen SPF 50,Beauty,2,1080.97,114.0,Jaipur,Rajasthan,Debit Card,New,2.5
+ORD-01352,2024-10-30,CUST-0002,Rahul,PROD-0594,Fitness Band,Sports,5,3516.17,333.0,Chennai,Tamil Nadu,Net Banking,New,5.0
+ORD-01353,2025-09-21,CUST-0003,Neha,PROD-0607,Data Science Essentials,Books,3,1501.3,19.0,Bengaluru,Karnataka,Credit Card,New,4.2
+ORD-01354,2025-01-05,CUST-0004,Vikram,PROD-0620,Laptop Pro 14,Electronics,3,85060.02,14100.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.7
+ORD-01355,2025-06-22,CUST-0005,Priya,PROD-0633,Denim Jacket,Fashion,4,3195.23,174.0,Hyderabad,Telangana,UPI,Returning,3.5
+ORD-01356,2025-04-15,CUST-0006,Manish,PROD-0646,Air Fryer,Home & Kitchen,2,8781.69,77.0,Patna,Bihar,Debit Card,New,4.3
+ORD-01357,2025-07-29,CUST-0007,Ananya,PROD-0659,Vacuum Flask,Home & Kitchen,4,1459.15,1.0,Pune,Maharashtra,Net Banking,New,4.2
+ORD-01358,2024-02-29,CUST-0008,Sanjay,PROD-0672,Lipstick Set,Beauty,1,1337.25,125.0,Delhi,Delhi,Credit Card,New,3.9
+ORD-01359,2025-11-04,CUST-0009,Kavya,PROD-0685,Treadmill,Sports,4,33736.79,4423.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,5.0
+ORD-01360,2025-12-06,CUST-0010,Siddharth,PROD-0698,Business Strategy,Books,5,1191.46,95.0,Kolkata,West Bengal,UPI,Returning,5.0
+ORD-01361,2024-04-09,CUST-0011,Meera,PROD-0711,Smart Watch X,Electronics,1,11471.91,731.0,Mumbai,Maharashtra,Debit Card,New,4.1
+ORD-01362,2024-01-13,CUST-0012,Rohan,PROD-0724,Cotton T-Shirt,Fashion,4,915.29,150.0,Jaipur,Rajasthan,Net Banking,New,4.4
+ORD-01363,2025-12-30,CUST-0013,Ishita,PROD-0737,Ladies Kurta,Fashion,5,2114.77,404.0,Chennai,Tamil Nadu,Credit Card,New,4.8
+ORD-01364,2025-09-07,CUST-0014,Nitin,PROD-0750,Dining Set,Home & Kitchen,1,7520.26,1022.0,Bengaluru,Karnataka,Cash on Delivery,New,4.3
+ORD-01365,2024-08-18,CUST-0015,Pooja,PROD-0763,Makeup Kit,Beauty,3,2208.6,193.0,Ahmedabad,Gujarat,UPI,Returning,3.7
+ORD-01366,2025-06-16,CUST-0016,Arjun,PROD-0776,Cycling Helmet,Sports,3,3397.9,658.0,Hyderabad,Telangana,Debit Card,New,4.1
+ORD-01367,2024-05-10,CUST-0017,Divya,PROD-0789,Startup Playbook,Books,4,893.38,106.0,Patna,Bihar,Net Banking,New,4.4
+ORD-01368,2025-01-05,CUST-0018,Yash,PROD-0802,Noise Buds Pro,Electronics,3,6201.18,1073.0,Pune,Maharashtra,Credit Card,New,4.5
+ORD-01369,2025-06-10,CUST-0019,Tanvi,PROD-0815,Wireless Mouse,Electronics,4,1361.03,116.0,Delhi,Delhi,Cash on Delivery,New,5.0
+ORD-01370,2025-02-07,CUST-0020,Harsh,PROD-0828,Formal Shirt,Fashion,3,1754.26,316.0,Lucknow,Uttar Pradesh,UPI,Returning,2.9
+ORD-01371,2025-12-16,CUST-0021,Deepa,PROD-0841,Rice Cooker,Home & Kitchen,3,3696.12,203.0,Kolkata,West Bengal,Debit Card,New,4.6
+ORD-01372,2024-05-10,CUST-0022,Saurabh,PROD-0854,Hair Dryer,Beauty,3,2751.61,461.0,Mumbai,Maharashtra,Net Banking,New,4.6
+ORD-01373,2024-03-13,CUST-0023,Ritika,PROD-0867,Dumbbell Set,Sports,5,5416.59,852.0,Jaipur,Rajasthan,Credit Card,New,5.0
+ORD-01374,2025-06-24,CUST-0024,Puneet,PROD-0880,Python for Beginners,Books,2,867.56,105.0,Chennai,Tamil Nadu,Cash on Delivery,New,4.8
+ORD-01375,2025-08-20,CUST-0025,Shreya,PROD-0893,Young Investor Guide,Books,4,654.86,108.0,Bengaluru,Karnataka,UPI,Returning,4.3
+ORD-01376,2025-10-03,CUST-0026,Asha,PROD-0906,USB-C Hub,Electronics,1,2444.03,7.0,Ahmedabad,Gujarat,Debit Card,New,4.0
+ORD-01377,2024-01-05,CUST-0027,Rahul,PROD-0919,Leather Sling Bag,Fashion,4,3899.77,214.0,Hyderabad,Telangana,Net Banking,New,4.0
+ORD-01378,2025-04-23,CUST-0028,Neha,PROD-0932,Blender Premium,Home & Kitchen,2,3874.83,91.0,Patna,Bihar,Credit Card,New,4.1
+ORD-01379,2024-02-24,CUST-0029,Vikram,PROD-0945,Face Cream,Beauty,4,899.76,139.0,Pune,Maharashtra,Cash on Delivery,New,2.6
+ORD-01380,2024-03-04,CUST-0030,Priya,PROD-0958,Yoga Mat,Sports,5,1250.5,216.0,Delhi,Delhi,UPI,Returning,4.8
+ORD-01381,2025-02-06,CUST-0031,Manish,PROD-0971,Cricket Kit,Sports,3,7167.98,664.0,Lucknow,Uttar Pradesh,Debit Card,New,4.0
+ORD-01382,2025-10-08,CUST-0032,Ananya,PROD-0984,Motivational Leadership,Books,2,1036.28,25.0,Kolkata,West Bengal,Net Banking,New,4.1
+ORD-01383,2025-03-13,CUST-0033,Sanjay,PROD-0997,4K Monitor,Electronics,5,30776.43,4772.0,Mumbai,Maharashtra,Credit Card,New,3.3
+ORD-01384,2024-11-19,CUST-0034,Kavya,PROD-0011,Running Shoes,Fashion,2,1934.95,79.0,Jaipur,Rajasthan,Cash on Delivery,New,4.4
+ORD-01385,2024-06-26,CUST-0035,Siddharth,PROD-0024,Bamboo Storage Box,Home & Kitchen,2,1327.93,115.0,Chennai,Tamil Nadu,UPI,Returning,5.0
+ORD-01386,2025-02-08,CUST-0036,Meera,PROD-0037,Skin Serum,Beauty,3,1854.29,108.0,Bengaluru,Karnataka,Debit Card,New,3.5
+ORD-01387,2025-03-12,CUST-0037,Rohan,PROD-0050,Sunscreen SPF 50,Beauty,3,1092.66,149.0,Ahmedabad,Gujarat,Net Banking,New,5.0
+ORD-01388,2025-03-15,CUST-0038,Ishita,PROD-0063,Fitness Band,Sports,1,3594.06,546.0,Hyderabad,Telangana,Credit Card,New,4.5
+ORD-01389,2024-03-19,CUST-0039,Nitin,PROD-0076,Data Science Essentials,Books,4,1453.68,250.0,Patna,Bihar,Cash on Delivery,New,3.2
+ORD-01390,2025-12-30,CUST-0040,Pooja,PROD-0089,Laptop Pro 14,Electronics,4,68556.24,8784.0,Pune,Maharashtra,UPI,Returning,5.0
+ORD-01391,2025-05-10,CUST-0041,Arjun,PROD-0102,Denim Jacket,Fashion,5,2913.62,163.0,Delhi,Delhi,Debit Card,New,4.0
+ORD-01392,2024-06-10,CUST-0042,Divya,PROD-0115,Air Fryer,Home & Kitchen,4,7982.04,91.0,Lucknow,Uttar Pradesh,Net Banking,New,4.1
+ORD-01393,2025-04-06,CUST-0043,Yash,PROD-0128,Vacuum Flask,Home & Kitchen,4,1683.76,299.0,Kolkata,West Bengal,Credit Card,New,5.0
+ORD-01394,2025-10-03,CUST-0044,Tanvi,PROD-0141,Lipstick Set,Beauty,2,1186.94,210.0,Mumbai,Maharashtra,Cash on Delivery,New,3.1
+ORD-01395,2024-06-30,CUST-0045,Harsh,PROD-0154,Treadmill,Sports,5,42869.61,4905.0,Jaipur,Rajasthan,UPI,Returning,5.0
+ORD-01396,2024-03-29,CUST-0046,Deepa,PROD-0167,Business Strategy,Books,4,1007.35,161.0,Chennai,Tamil Nadu,Debit Card,New,4.7
+ORD-01397,2024-02-17,CUST-0047,Saurabh,PROD-0180,Smart Watch X,Electronics,1,12333.91,955.0,Bengaluru,Karnataka,Net Banking,New,3.6
+ORD-01398,2025-05-02,CUST-0048,Ritika,PROD-0193,Cotton T-Shirt,Fashion,5,1018.26,24.0,Ahmedabad,Gujarat,Credit Card,New,3.9
+ORD-01399,2025-06-15,CUST-0049,Puneet,PROD-0206,Ladies Kurta,Fashion,1,2188.58,178.0,Hyderabad,Telangana,Cash on Delivery,New,4.5
+ORD-01400,2024-12-12,CUST-0050,Shreya,PROD-0219,Dining Set,Home & Kitchen,2,8841.92,1169.0,Patna,Bihar,UPI,Returning,3.9
+ORD-01401,2024-09-21,CUST-0051,Asha,PROD-0232,Makeup Kit,Beauty,5,2512.31,108.0,Pune,Maharashtra,Debit Card,New,3.8
+ORD-01402,2025-04-04,CUST-0052,Rahul,PROD-0245,Cycling Helmet,Sports,2,3323.75,574.0,Delhi,Delhi,Net Banking,New,3.9
+ORD-01403,2025-07-23,CUST-0053,Neha,PROD-0258,Startup Playbook,Books,2,971.2,48.0,Lucknow,Uttar Pradesh,Credit Card,New,4.3
+ORD-01404,2025-04-06,CUST-0054,Vikram,PROD-0271,Noise Buds Pro,Electronics,2,6309.64,1240.0,Kolkata,West Bengal,Cash on Delivery,New,4.6
+ORD-01405,2025-04-04,CUST-0055,Priya,PROD-0284,Wireless Mouse,Electronics,2,1389.09,238.0,Mumbai,Maharashtra,UPI,Returning,3.7
+ORD-01406,2025-08-07,CUST-0056,Manish,PROD-0297,Formal Shirt,Fashion,5,1747.46,194.0,Jaipur,Rajasthan,Debit Card,New,3.7
+ORD-01407,2025-02-27,CUST-0057,Ananya,PROD-0310,Rice Cooker,Home & Kitchen,3,3682.16,577.0,Chennai,Tamil Nadu,Net Banking,New,5.0
+ORD-01408,2024-06-22,CUST-0058,Sanjay,PROD-0323,Hair Dryer,Beauty,2,3176.01,393.0,Bengaluru,Karnataka,Credit Card,New,3.4
+ORD-01409,2025-01-15,CUST-0059,Kavya,PROD-0336,Dumbbell Set,Sports,4,4072.35,185.0,Ahmedabad,Gujarat,Cash on Delivery,New,3.7
+ORD-01410,2025-06-05,CUST-0060,Siddharth,PROD-0349,Python for Beginners,Books,2,755.24,102.0,Hyderabad,Telangana,UPI,Returning,4.5
+ORD-01411,2024-06-03,CUST-0061,Meera,PROD-0362,Young Investor Guide,Books,4,799.08,25.0,Patna,Bihar,Debit Card,New,3.1
+ORD-01412,2024-09-27,CUST-0062,Rohan,PROD-0375,USB-C Hub,Electronics,2,2260.64,5.0,Pune,Maharashtra,Net Banking,New,4.8
+ORD-01413,2025-08-13,CUST-0063,Ishita,PROD-0388,Leather Sling Bag,Fashion,3,4235.95,26.0,Delhi,Delhi,Credit Card,New,4.2
+ORD-01414,2025-09-29,CUST-0064,Nitin,PROD-0401,Blender Premium,Home & Kitchen,1,4233.02,582.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,3.0
+ORD-01415,2025-07-14,CUST-0065,Pooja,PROD-0414,Face Cream,Beauty,3,1018.16,84.0,Kolkata,West Bengal,UPI,Returning,3.2
+ORD-01416,2025-10-26,CUST-0066,Arjun,PROD-0427,Yoga Mat,Sports,5,1762.75,37.0,Mumbai,Maharashtra,Debit Card,New,3.1
+ORD-01417,2024-05-25,CUST-0067,Divya,PROD-0440,Cricket Kit,Sports,4,5782.86,359.0,Jaipur,Rajasthan,Net Banking,New,4.6
+ORD-01418,2024-05-18,CUST-0068,Yash,PROD-0453,Motivational Leadership,Books,2,1093.68,121.0,Chennai,Tamil Nadu,Credit Card,New,4.0
+ORD-01419,2024-07-14,CUST-0069,Tanvi,PROD-0466,4K Monitor,Electronics,2,22585.07,465.0,Bengaluru,Karnataka,Cash on Delivery,New,3.4
+ORD-01420,2025-03-10,CUST-0070,Harsh,PROD-0479,Running Shoes,Fashion,4,2046.51,271.0,Ahmedabad,Gujarat,UPI,Returning,3.5
+ORD-01421,2025-02-16,CUST-0071,Deepa,PROD-0492,Bamboo Storage Box,Home & Kitchen,5,1475.11,49.0,Hyderabad,Telangana,Debit Card,New,4.6
+ORD-01422,2025-04-28,CUST-0072,Saurabh,PROD-0505,Skin Serum,Beauty,4,1613.51,168.0,Patna,Bihar,Net Banking,New,4.4
+ORD-01423,2025-04-22,CUST-0073,Ritika,PROD-0518,Sunscreen SPF 50,Beauty,4,921.01,30.0,Pune,Maharashtra,Credit Card,New,4.5
+ORD-01424,2025-05-27,CUST-0074,Puneet,PROD-0531,Fitness Band,Sports,4,3674.94,618.0,Delhi,Delhi,Cash on Delivery,New,4.1
+ORD-01425,2025-12-07,CUST-0075,Shreya,PROD-0544,Data Science Essentials,Books,2,1281.31,60.0,Lucknow,Uttar Pradesh,UPI,Returning,3.2
+ORD-01426,2024-07-31,CUST-0076,Asha,PROD-0557,Laptop Pro 14,Electronics,4,62404.2,801.0,Kolkata,West Bengal,Debit Card,New,4.1
+ORD-01427,2025-03-10,CUST-0077,Rahul,PROD-0570,Denim Jacket,Fashion,4,3119.9,303.0,Mumbai,Maharashtra,Net Banking,New,4.4
+ORD-01428,2025-10-03,CUST-0078,Neha,PROD-0583,Air Fryer,Home & Kitchen,5,9238.45,988.0,Jaipur,Rajasthan,Credit Card,New,4.2
+ORD-01429,2024-11-09,CUST-0079,Vikram,PROD-0596,Vacuum Flask,Home & Kitchen,2,1564.77,198.0,Chennai,Tamil Nadu,Cash on Delivery,New,5.0
+ORD-01430,2024-01-19,CUST-0080,Priya,PROD-0609,Lipstick Set,Beauty,2,1434.01,148.0,Bengaluru,Karnataka,UPI,Returning,4.1
+ORD-01431,2024-08-13,CUST-0081,Manish,PROD-0622,Treadmill,Sports,5,29541.86,5032.0,Ahmedabad,Gujarat,Debit Card,New,4.4
+ORD-01432,2025-10-15,CUST-0082,Ananya,PROD-0635,Business Strategy,Books,4,998.09,73.0,Hyderabad,Telangana,Net Banking,New,3.0
+ORD-01433,2024-06-08,CUST-0083,Sanjay,PROD-0648,Smart Watch X,Electronics,3,11532.17,2040.0,Patna,Bihar,Credit Card,New,4.9
+ORD-01434,2024-10-17,CUST-0084,Kavya,PROD-0661,Cotton T-Shirt,Fashion,1,845.43,94.0,Pune,Maharashtra,Cash on Delivery,New,3.3
+ORD-01435,2025-12-06,CUST-0085,Siddharth,PROD-0674,Ladies Kurta,Fashion,1,2028.64,405.0,Delhi,Delhi,UPI,Returning,5.0
+ORD-01436,2024-06-13,CUST-0086,Meera,PROD-0687,Dining Set,Home & Kitchen,1,9173.42,1480.0,Lucknow,Uttar Pradesh,Debit Card,New,4.7
+ORD-01437,2025-02-04,CUST-0087,Rohan,PROD-0700,Makeup Kit,Beauty,3,2111.35,236.0,Kolkata,West Bengal,Net Banking,New,4.6
+ORD-01438,2025-02-05,CUST-0088,Ishita,PROD-0713,Cycling Helmet,Sports,2,3052.88,429.0,Mumbai,Maharashtra,Credit Card,New,3.0
+ORD-01439,2025-10-23,CUST-0089,Nitin,PROD-0726,Startup Playbook,Books,3,786.46,8.0,Jaipur,Rajasthan,Cash on Delivery,New,4.5
+ORD-01440,2025-11-04,CUST-0090,Pooja,PROD-0739,Noise Buds Pro,Electronics,2,4861.31,205.0,Chennai,Tamil Nadu,UPI,Returning,4.1
+ORD-01441,2024-06-25,CUST-0091,Arjun,PROD-0752,Wireless Mouse,Electronics,5,1617.04,202.0,Bengaluru,Karnataka,Debit Card,New,4.4
+ORD-01442,2024-09-07,CUST-0092,Divya,PROD-0765,Formal Shirt,Fashion,3,1569.7,129.0,Ahmedabad,Gujarat,Net Banking,New,3.6
+ORD-01443,2024-10-17,CUST-0093,Yash,PROD-0778,Rice Cooker,Home & Kitchen,5,4175.08,422.0,Hyderabad,Telangana,Credit Card,New,5.0
+ORD-01444,2024-09-12,CUST-0094,Tanvi,PROD-0791,Hair Dryer,Beauty,3,2435.91,51.0,Patna,Bihar,Cash on Delivery,New,4.6
+ORD-01445,2024-09-19,CUST-0095,Harsh,PROD-0804,Dumbbell Set,Sports,5,4761.51,166.0,Pune,Maharashtra,UPI,Returning,4.6
+ORD-01446,2024-10-28,CUST-0096,Deepa,PROD-0817,Python for Beginners,Books,1,955.21,15.0,Delhi,Delhi,Debit Card,New,4.3
+ORD-01447,2025-08-19,CUST-0097,Saurabh,PROD-0830,Young Investor Guide,Books,5,956.71,79.0,Lucknow,Uttar Pradesh,Net Banking,New,4.0
+ORD-01448,2024-09-07,CUST-0098,Ritika,PROD-0843,USB-C Hub,Electronics,3,3197.3,534.0,Kolkata,West Bengal,Credit Card,New,4.9
+ORD-01449,2025-10-19,CUST-0099,Puneet,PROD-0856,Leather Sling Bag,Fashion,1,4121.15,820.0,Mumbai,Maharashtra,Cash on Delivery,New,3.8
+ORD-01450,2025-09-21,CUST-0100,Shreya,PROD-0869,Blender Premium,Home & Kitchen,4,5254.53,1023.0,Jaipur,Rajasthan,UPI,Returning,3.7
+ORD-01451,2025-06-26,CUST-0101,Asha,PROD-0882,Face Cream,Beauty,5,819.35,48.0,Chennai,Tamil Nadu,Debit Card,New,3.0
+ORD-01452,2024-04-30,CUST-0102,Rahul,PROD-0895,Yoga Mat,Sports,5,1461.73,251.0,Bengaluru,Karnataka,Net Banking,New,4.5
+ORD-01453,2024-11-04,CUST-0103,Neha,PROD-0908,Cricket Kit,Sports,3,7776.89,793.0,Ahmedabad,Gujarat,Credit Card,New,4.8
+ORD-01454,2025-11-14,CUST-0104,Vikram,PROD-0921,Motivational Leadership,Books,4,1147.74,78.0,Hyderabad,Telangana,Cash on Delivery,New,3.7
+ORD-01455,2025-11-23,CUST-0105,Priya,PROD-0934,4K Monitor,Electronics,1,30017.14,5562.0,Patna,Bihar,UPI,Returning,4.0
+ORD-01456,2025-03-30,CUST-0106,Manish,PROD-0947,Running Shoes,Fashion,1,2189.69,304.0,Pune,Maharashtra,Debit Card,New,4.0
+ORD-01457,2025-03-01,CUST-0107,Ananya,PROD-0960,Bamboo Storage Box,Home & Kitchen,1,1529.12,132.0,Delhi,Delhi,Net Banking,New,4.5
+ORD-01458,2024-06-05,CUST-0108,Sanjay,PROD-0973,Skin Serum,Beauty,1,1790.47,44.0,Lucknow,Uttar Pradesh,Credit Card,New,4.5
+ORD-01459,2025-04-26,CUST-0109,Kavya,PROD-0986,Sunscreen SPF 50,Beauty,3,1048.77,205.0,Kolkata,West Bengal,Cash on Delivery,New,4.7
+ORD-01460,2025-09-30,CUST-0110,Siddharth,PROD-0999,Fitness Band,Sports,2,3415.49,246.0,Mumbai,Maharashtra,UPI,Returning,4.2
+ORD-01461,2024-09-05,CUST-0111,Meera,PROD-0013,Data Science Essentials,Books,3,1011.02,11.0,Jaipur,Rajasthan,Debit Card,New,3.5
+ORD-01462,2025-02-14,CUST-0112,Rohan,PROD-0026,Laptop Pro 14,Electronics,5,75670.06,582.0,Chennai,Tamil Nadu,Net Banking,New,3.7
+ORD-01463,2024-02-26,CUST-0113,Ishita,PROD-0039,Denim Jacket,Fashion,4,2769.47,514.0,Bengaluru,Karnataka,Credit Card,New,3.5
+ORD-01464,2025-10-14,CUST-0114,Nitin,PROD-0052,Air Fryer,Home & Kitchen,5,7990.53,933.0,Ahmedabad,Gujarat,Cash on Delivery,New,4.1
+ORD-01465,2025-04-20,CUST-0115,Pooja,PROD-0065,Vacuum Flask,Home & Kitchen,1,1226.23,161.0,Hyderabad,Telangana,UPI,Returning,5.0
+ORD-01466,2024-01-03,CUST-0116,Arjun,PROD-0078,Lipstick Set,Beauty,2,1116.73,79.0,Patna,Bihar,Debit Card,New,4.9
+ORD-01467,2025-12-15,CUST-0117,Divya,PROD-0091,Treadmill,Sports,3,36082.56,4254.0,Pune,Maharashtra,Net Banking,New,3.7
+ORD-01468,2024-04-01,CUST-0118,Yash,PROD-0104,Business Strategy,Books,5,1368.39,137.0,Delhi,Delhi,Credit Card,New,3.6
+ORD-01469,2024-08-05,CUST-0119,Tanvi,PROD-0117,Smart Watch X,Electronics,4,11399.44,1479.0,Lucknow,Uttar Pradesh,Cash on Delivery,New,2.7
+ORD-01470,2024-08-30,CUST-0120,Harsh,PROD-0130,Cotton T-Shirt,Fashion,4,768.7,135.0,Kolkata,West Bengal,UPI,Returning,3.5
+ORD-01471,2025-06-26,CUST-0121,Deepa,PROD-0143,Ladies Kurta,Fashion,5,2635.89,330.0,Mumbai,Maharashtra,Debit Card,New,4.5
+ORD-01472,2024-05-20,CUST-0122,Saurabh,PROD-0156,Dining Set,Home & Kitchen,1,6099.11,301.0,Jaipur,Rajasthan,Net Banking,New,4.2
+ORD-01473,2025-02-06,CUST-0123,Ritika,PROD-0169,Makeup Kit,Beauty,1,2559.98,258.0,Chennai,Tamil Nadu,Credit Card,New,3.9
+ORD-01474,2025-05-06,CUST-0124,Puneet,PROD-0182,Cycling Helmet,Sports,2,2343.27,114.0,Bengaluru,Karnataka,Cash on Delivery,New,4.8
+ORD-01475,2024-11-25,CUST-0125,Shreya,PROD-0195,Startup Playbook,Books,1,728.15,126.0,Ahmedabad,Gujarat,UPI,Returning,4.0
+ORD-01476,2025-03-20,CUST-0126,Asha,PROD-0208,Noise Buds Pro,Electronics,5,5930.04,884.0,Hyderabad,Telangana,Debit Card,New,3.7
+ORD-01477,2024-03-20,CUST-0127,Rahul,PROD-0221,Wireless Mouse,Electronics,4,1854.96,45.0,Patna,Bihar,Net Banking,New,4.2
+ORD-01478,2024-09-08,CUST-0128,Neha,PROD-0234,Formal Shirt,Fashion,5,1681.17,90.0,Pune,Maharashtra,Credit Card,New,4.2
+ORD-01479,2025-08-31,CUST-0129,Vikram,PROD-0247,Rice Cooker,Home & Kitchen,2,3084.93,334.0,Delhi,Delhi,Cash on Delivery,New,4.8
+ORD-01480,2024-05-04,CUST-0130,Priya,PROD-0260,Hair Dryer,Beauty,1,2822.84,209.0,Lucknow,Uttar Pradesh,UPI,Returning,4.3
+ORD-01481,2025-06-27,CUST-0131,Manish,PROD-0273,Dumbbell Set,Sports,5,5458.4,56.0,Kolkata,West Bengal,Debit Card,New,5.0
+ORD-01482,2024-06-27,CUST-0132,Ananya,PROD-0286,Python for Beginners,Books,1,786.79,137.0,Mumbai,Maharashtra,Net Banking,New,5.0
+ORD-01483,2024-06-26,CUST-0133,Sanjay,PROD-0299,Young Investor Guide,Books,4,770.56,141.0,Jaipur,Rajasthan,Credit Card,New,3.3
+ORD-01484,2024-08-01,CUST-0134,Kavya,PROD-0312,USB-C Hub,Electronics,2,2296.41,154.0,Chennai,Tamil Nadu,Cash on Delivery,New,5.0
+ORD-01485,2024-11-13,CUST-0135,Siddharth,PROD-0325,Leather Sling Bag,Fashion,3,4130.33,84.0,Bengaluru,Karnataka,UPI,Returning,3.5
+ORD-01486,2024-11-18,CUST-0136,Meera,PROD-0338,Blender Premium,Home & Kitchen,1,4559.89,728.0,Ahmedabad,Gujarat,Debit Card,New,4.1
+ORD-01487,2025-12-12,CUST-0137,Rohan,PROD-0351,Face Cream,Beauty,1,895.84,0.0,Hyderabad,Telangana,Net Banking,New,4.8
+ORD-01488,2024-10-23,CUST-0138,Ishita,PROD-0364,Yoga Mat,Sports,5,1763.68,72.0,Patna,Bihar,Credit Card,New,4.1
+ORD-01489,2024-10-15,CUST-0139,Nitin,PROD-0377,Cricket Kit,Sports,4,7158.21,1020.0,Pune,Maharashtra,Cash on Delivery,New,4.8
+ORD-01490,2025-02-16,CUST-0140,Pooja,PROD-0390,Motivational Leadership,Books,1,1005.81,128.0,Delhi,Delhi,UPI,Returning,4.1
+ORD-01491,2025-12-21,CUST-0141,Arjun,PROD-0403,4K Monitor,Electronics,5,26323.23,1544.0,Lucknow,Uttar Pradesh,Debit Card,New,4.3
+ORD-01492,2025-01-06,CUST-0142,Divya,PROD-0416,Running Shoes,Fashion,3,2329.18,20.0,Kolkata,West Bengal,Net Banking,New,3.8
+ORD-01493,2025-04-23,CUST-0143,Yash,PROD-0429,Bamboo Storage Box,Home & Kitchen,3,1702.9,35.0,Mumbai,Maharashtra,Credit Card,New,5.0
+ORD-01494,2025-08-09,CUST-0144,Tanvi,PROD-0442,Skin Serum,Beauty,1,1645.47,12.0,Jaipur,Rajasthan,Cash on Delivery,New,4.2
+ORD-01495,2025-08-25,CUST-0145,Harsh,PROD-0455,Sunscreen SPF 50,Beauty,3,1199.84,210.0,Chennai,Tamil Nadu,UPI,Returning,3.8
+ORD-01496,2025-04-20,CUST-0146,Deepa,PROD-0468,Fitness Band,Sports,3,2990.0,593.0,Bengaluru,Karnataka,Debit Card,New,3.8
+ORD-01497,2024-07-06,CUST-0147,Saurabh,PROD-0481,Data Science Essentials,Books,3,1475.77,45.0,Ahmedabad,Gujarat,Net Banking,New,2.5
+ORD-01498,2025-09-26,CUST-0148,Ritika,PROD-0494,Laptop Pro 14,Electronics,1,66495.21,11866.0,Hyderabad,Telangana,Credit Card,New,4.3
+ORD-01499,2025-03-10,CUST-0149,Puneet,PROD-0507,Denim Jacket,Fashion,1,3581.86,351.0,Patna,Bihar,Cash on Delivery,New,4.2
+ORD-01500,2024-10-05,CUST-0150,Shreya,PROD-0520,Air Fryer,Home & Kitchen,5,9307.66,766.0,Pune,Maharashtra,UPI,Returning,4.2
